@@ -1,0 +1,5 @@
+Alphabet;Alphabet;NEU
+Verkehr;Traffic;MAS
+Handy;Mobile phone;NEU
+Keks;Biscuit;MAS
+Kanne;Big mug;FEM

@@ -1,0 +1,5 @@
+Apfel;Apple;MAS
+Mann;Man;MAS
+Frau;Woman;FEM
+Kind;Child;NEU
+Haus;House;NEU

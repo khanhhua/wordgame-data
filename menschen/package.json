@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "author": "Khanh Hua",
+    "collections": [
+      {
+        "name": "A1",
+        "file": "A1.txt"
+      },
+      {
+        "name": "A2",
+        "file": "A2.txt"
+      }
+    ]
+  }
