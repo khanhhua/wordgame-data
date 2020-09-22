@@ -48,7 +48,7 @@ Karton;Carton box;MAS
 Geschenk;Gift;NEU
 Gesicht;Face;NEU
 Junge;Boy;MAS
-Mädchen;Girl;DAS
+Mädchen;Girl;NEU
 Projekt;Project;NEU
 Schritt;Step;MAS
 Tafel;Blackboard;FEM
