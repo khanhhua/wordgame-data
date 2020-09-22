@@ -1,5 +1,69 @@
-Alphabet;Alphabet;NEU
-Verkehr;Traffic;MAS
-Handy;Mobile phone;NEU
-Keks;Biscuit;MAS
-Kanne;Big mug;FEM
+Vokabelkärtchen;Vocalubary card;NEU
+Nachrichten;News;PLU
+Film;Film;MAS
+Wort;Word;NEU
+Lied;Lyric;NEU
+Satz;Sentence;MAS
+Fehler;Error;MAS
+Zeitschrift;Magazine;FEM
+Bild;Picture;NEU
+Grammatikaufgabe;Grammar homework;FEM
+Aufgabe;Task;FEM
+Goethe-Institut;Goethe Institute;NEU
+Klasse;Class;FEM
+Semester;Semester;NEU
+Sprachenschule;Language school;FEM
+Test;Test;MAS
+Typ;Person;MAS
+Volkshochschule;Adult Education Center;FEM
+Gegenwart;Present time;FEM
+Vergangenheit;Past time;FEM
+anschauen;to watch;VER
+aufschreiben;to write down;VER
+sich bewegen;to move (wiggle);VER
+korrigieren;to correct;VER
+lösen;to solve;VER
+sich merken;to remember;VER
+übersetzen;to translate;VER
+wiederholen;to repeat;VER
+planen;to plan;VER
+sich verlieben;to fall in love;VER
+verreisen;to travel;VER
+möglich;possible;ADJ
+wichtig;important;ADJ
+Post;Post;FEM
+Packchen;Small package;NEU
+Paket;Package;NEU
+Absender;Sender;MAS
+Adresse;Address;FEM
+Empfänger;Receiver;MAS
+Unterschrift;Signature;FEM
+Briefumschlag;Envelope;MAS
+Schalter;Post office counter;MAS
+Briefkasten;Mailbox;MAS
+Postkarte;Post card;FEM
+Brief;Mail;MAS
+packen;to pack;VER
+Karton;Carton box;MAS
+Geschenk;Gift;NEU
+Gesicht;Face;NEU
+Junge;Boy;MAS
+Mädchen;Girl;DAS
+Projekt;Project;NEU
+Schritt;Step;MAS
+Tafel;Blackboard;FEM
+Zentimeter;Centimeter;MAS
+einpacken;to pack ... in;VER
+packen;to pack;VER
+transportieren;to transport;VER
+untereschreiben;to sign;VER
+abkreuzen;to cross out;VER
+benutzen;to use;VER
+denken;to think (about);VER
+ergänzen;to fill in;VER
+gebrauchen;to use;VER
+Creme;Cream;FEM
+Gebrauchsanweisung;User guide;FEM
+arm;poor;ADJ
+verschieden;different;ADJ
+schließlich;final;ADJ
