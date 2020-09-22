@@ -67,7 +67,6 @@ Gebrauchsanweisung;User guide;FEM
 arm;poor;ADJ
 verschieden;different;ADJ
 schließlich;final;ADJ
-<<<<<<< HEAD
 DVD;DVD;FEM
 Fernsehen;Watching TV;NEU
 Folge;Part;FEM
@@ -129,5 +128,3 @@ vorbei;past;ADV
 überall;everywhere;ADV
 wecken;to wake up;VER
 frei;free;ADJ
-=======
->>>>>>> 96fee904fe19a5c0791296ad370fec7f4c2d296d
