@@ -48,7 +48,7 @@ Karton;Carton box;MAS
 Geschenk;Gift;NEU
 Gesicht;Face;NEU
 Junge;Boy;MAS
-Mädchen;Girl;DAS
+Mädchen;Girl;NEU
 Projekt;Project;NEU
 Schritt;Step;MAS
 Tafel;Blackboard;FEM
@@ -67,3 +67,64 @@ Gebrauchsanweisung;User guide;FEM
 arm;poor;ADJ
 verschieden;different;ADJ
 schließlich;final;ADJ
+DVD;DVD;FEM
+Fernsehen;Watching TV;NEU
+Folge;Part;FEM
+Krimi;Thriller;MAS
+Mediathek;Media library;FEM
+Darsteller;Actor;MAS
+Regisseur;Director;MAS
+Fernbedienung;Remote control;FEM
+Sendung;TV programs;FEM
+Programm;Program;NEU
+Rundfunk;Radio broadcasting;MAS
+Sender;Broadcaster;MAS
+Serie;Series;FEM
+Spielfilm;Feature fiel;MAS
+Video;Video;NEU
+Zuschauer;TV Viewer;MAS
+Anzug;Suit;MAS
+Fahrplan;Timetable scheduling;MAS
+Gaststätte;Restaurant;FEM
+Gegend;Region;FEM
+Kinderwagen;Child car;MAS
+Parfüm;Perfume;NEU
+Rose;Rose;FEM
+Topf;Pot;MAS
+bedeuten;mean;VER
+gucken;see;VER
+produzieren;produce;VER
+öffentlich;public;ADJ
+privat;private;ADJ
+eigen;own;ADJ
+fest;firm;ADJ
+knapp;low;ADJ
+sozial;social;ADJ
+außer;apart from;PRE
+inzwischen;in between;ADV
+Umgang;Contact dealings;MAS
+Hotel;Hotel;NEU
+Aufenthalt;Stay;MAS
+Doppelzimmer;Double room;NEU
+Einzelzimmer;Single room;NEU
+Empfangshalle;Reception hall;FEM
+Fitnessraum;Fitness room;MAS
+Frühstücksraum;Breakfast room;MAS
+Halbpension;Half board;FEM
+Kiosk;Kiosk;MAS
+Konferenz;Conference;FEM
+Konferenzraum;Conference room;MAS
+Nichtraucherzimmer;Non-smoker;MAS
+Parkplatz;Parking place;MAS
+Rezeption;Reception;FEM
+Vollpension;Full board;FEM
+Ärger;Anger;MAS
+Raucher;Smoker;MAS
+Spaß;Fun;MAS
+angenehm;pleasant;ADJ
+durch;through;PRE
+gegenüber;opposite;ADV
+vorbei;past;ADV
+überall;everywhere;ADV
+wecken;to wake up;VER
+frei;free;ADJ
