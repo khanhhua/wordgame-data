@@ -128,3 +128,42 @@ vorbei;past;ADV
 überall;everywhere;ADV
 wecken;to wake up;VER
 frei;free;ADJ
+Abfahrt;Departure;FEM
+Ankunft;Arrival;FEM
+Autobahn;Highway;FEM
+Fähre;Ferry;FEM
+Gebirge;Mountains;NEU
+Grenze;Boundary;FEM
+Insel;Island;FEM
+Kraftfahrzeug;Vehicle;NEU
+Küste;Coach;FEM
+Motor;Engine;MAS
+Panne;Breakdown;FEM
+Region;Region;FEM
+Reifen;Tyre;MAS
+Tankstelle;Gas station;FEM
+Bauer;Farmer;MAS
+Feld;Field;NEU
+Kassette;Boxed case;FEM
+Pech;Bad luck;NEU
+Seite;Side;FEM
+Zufall;Coincidence;MAS
+ärgerlich;annoyed;ADJ
+bekannt;wellknown;ADJ
+müde;tired;ADJ
+insgesamt;in all together;ADV
+mitten;in the middle;ADV
+plötzlich;suddenly;ADV
+tanken;to fill up;VER
+überqueren;to cut across;VER
+wechseln;to change;VER
+Brücke;Bridge;FEM
+Rätsel;Puzzle;NEU
+Meer;Sea;MAS
+See (fem);Ocean;FEM
+See (mas);Lake;MAS
+Strand;Beach;MAS
+Berg;Mountains;MAS
+Wald;Forest;MAS
+Wüste;Desert;FEM
+Wildschwein;Wild boar;NEU
