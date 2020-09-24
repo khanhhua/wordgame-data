@@ -114,7 +114,7 @@ Halbpension;Half board;FEM
 Kiosk;Kiosk;MAS
 Konferenz;Conference;FEM
 Konferenzraum;Conference room;MAS
-Nichtraucherzimmer;Non-smoker;NEU
+Nichtraucherzimmer;Non-smoker;MAS
 Parkplatz;Parking place;MAS
 Rezeption;Reception;FEM
 Vollpension;Full board;FEM
@@ -167,3 +167,43 @@ Berg;Mountains;MAS
 Wald;Forest;MAS
 Wüste;Desert;FEM
 Wildschwein;Wild boar;NEU
+Eis;Ice;NEU
+Gebiet;Offer;NEU
+Hauptstadt;Capital city;FEM
+Hitze;Heat;FEM
+Jahreszeit;Season;FEM
+Kälte;Coldness;FEM
+Kontinent;Continent;MAS
+Temperatur;Temperature;FEM
+Trockenheit;Dryness;FEM
+Tropfen;Drop;MAS
+Regentropfen;Rain drop;MAS
+Wärme;Warmness;FEM
+eisig;icy;ADJ
+feucht;moist;ADJ
+heiß;hot;ADJ
+hoch;high;ADJ
+niedrig;low;ADJ
+trocken;dry;ADJ
+typisch;typical;ADJ
+sich ärgern über;to be upset about;VER
+denken an;to think (about);VER
+sich freuen auf;to look forward to;VER
+sich interessieren für;to be interested in;VER
+interessiert;interested;ADJ
+Lust haben auf;to feel like;VER
+sprechen über/mit;to talk about/with;VER
+träumen von;to dream about;VER
+sich treffen mit;to meet up with;VER
+zufrieden sein mit;to be satisfied with;VER
+weit;far;ADJ
+normalerweise;normally;ADV
+Gegenteil;Opposite;MAS
+Gewitter;Storm;NEU
+Regen;Rain;MAS
+Nebel;Fog;MAS
+Schnee;Snow;MAS
+Wind;Wind;MAS
+Sonne;Sun;FEM
+Mücke;Mosquito;FEM
+Klavier;Piano;MAS
