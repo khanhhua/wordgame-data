@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "author": "Pons",
+    "collections": [
+      {
+        "name": "Zu Hause",
+        "file": "zuhause.txt"
+      },
+      {
+        "name": "Essen und Trinken",
+        "file": "essen-und-trinken.txt"
+      }
+    ]
+  }

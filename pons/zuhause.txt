@@ -1,0 +1,2 @@
+Hausschlüssel;House key;MAS
+Sprechanlage;Intercom;FEM

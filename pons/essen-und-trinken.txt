@@ -1,0 +1,4 @@
+Lammfleisch;Lamb;NEU
+Rindfleisch;Beef;NEU
+Steak;Steak;NEU
+Wurst;Sausage;FEM
