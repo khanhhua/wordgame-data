@@ -207,3 +207,31 @@ Wind;Wind;MAS
 Sonne;Sun;FEM
 Mücke;Mosquito;FEM
 Klavier;Piano;MAS
+Beginn;Beginning;MAS
+Club;Club;MAS
+Publikum;Audience;NEU
+Spaziergang;Walk;MAS
+Vorstellung;Introduction;MAS
+eröffnen;to open;VER
+verlängern;to extend;VER
+verpassen;to miss;VER
+augezeichnet;excellent;ADJ
+beliebt;favorite;ADJ
+klassisch;classic;ADJ
+kostenlos;free;ADJ
+gratis;free;ADJ
+kulturell;cultural;ADJ
+sich lohnen;to be worthy;VER
+probieren;to try;VER
+recht haben;to be right;VER
+unternehmen;to undertake;VER
+versuchen;to make effort;VER
+weggehen;to go away;VER
+negativ;negative;ADJ
+neugierig;curious;ADJ
+positiv;positive;ADJ
+wahr sein;to be true;VER
+Liebe;Love;FEM
+abstimmen;to vote;VER
+nennen;to name;VER
+Zeugnis;Testimony;NEU
