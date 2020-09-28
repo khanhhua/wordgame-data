@@ -235,3 +235,34 @@ Liebe;Love;FEM
 abstimmen;to vote;VER
 nennen;to name;VER
 Zeugnis;Testimony;NEU
+Autor;Author;MAS
+Autorin;Author;FEM
+Bilderbuch;Picture book;NEU
+Comic;Comic book;MAS
+Gedicht;Poem;NEU
+Hörbuch;Audio book;NEU
+Kinderbuch;Children book;NEU
+Krimi;Thriller;MAS
+Literatur;Literature;FEM
+Märchen;Fairytale;NEU
+Ratgeber;How-to book;MAS
+Roman;Romantic book;MAS
+Sachbuch;Non-fiction book;NEU
+Zeitschrift;Journal;FEM
+Zeitung;Magazine;FEM
+Alltag;Everyday;MAS
+Bettdecke;Bed cover;FEM
+Interesse;Interest;NEU
+Profi;Professional;MAS
+Verwandte;Relative;MAS
+sich beeilen;to hurry;VER
+kriegen;to manage;VER
+weinen;to cry;VER
+ehrlich;honest;ADJ
+vorlesen;to read outload;VER
+furchtbar;dreadful;ADJ
+überhaupt;generallz;ADV
+sicher;sure;ADJ
+Rotkäppchen;Red Riding Hood;NEU
+Froschkönig;Frog Price;MAS
+Schrecken;Scare;MAS
