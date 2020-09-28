@@ -197,7 +197,7 @@ sich treffen mit;to meet up with;VER
 zufrieden sein mit;to be satisfied with;VER
 weit;far;ADJ
 normalerweise;normally;ADV
-Gegenteil;Opposite;MAS
+Gegenteil;Opposite;NEU
 Gewitter;Storm;NEU
 Regen;Rain;MAS
 Nebel;Fog;MAS
