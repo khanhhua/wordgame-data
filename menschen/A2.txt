@@ -54,7 +54,6 @@ Schritt;Step;MAS
 Tafel;Blackboard;FEM
 Zentimeter;Centimeter;MAS
 einpacken;to pack ... in;VER
-packen;to pack;VER
 transportieren;to transport;VER
 untereschreiben;to sign;VER
 abkreuzen;to cross out;VER
@@ -114,7 +113,7 @@ Halbpension;Half board;FEM
 Kiosk;Kiosk;MAS
 Konferenz;Conference;FEM
 Konferenzraum;Conference room;MAS
-Nichtraucherzimmer;Non-smoker;NEU
+Nichtraucherzimmer;Non-smoker;MAS
 Parkplatz;Parking place;MAS
 Rezeption;Reception;FEM
 Vollpension;Full board;FEM
@@ -242,13 +241,11 @@ Comic;Comic book;MAS
 Gedicht;Poem;NEU
 Hörbuch;Audio book;NEU
 Kinderbuch;Children book;NEU
-Krimi;Thriller;MAS
 Literatur;Literature;FEM
 Märchen;Fairytale;NEU
 Ratgeber;How-to book;MAS
 Roman;Romantic book;MAS
 Sachbuch;Non-fiction book;NEU
-Zeitschrift;Journal;FEM
 Zeitung;Magazine;FEM
 Alltag;Everyday;MAS
 Bettdecke;Bed cover;FEM
