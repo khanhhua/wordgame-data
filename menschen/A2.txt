@@ -113,7 +113,7 @@ Halbpension;Half board;FEM
 Kiosk;Kiosk;MAS
 Konferenz;Conference;FEM
 Konferenzraum;Conference room;MAS
-Nichtraucherzimmer;Non-smoker;NEU
+Nichtraucherzimmer;Non-smoker;MAS
 Parkplatz;Parking place;MAS
 Rezeption;Reception;FEM
 Vollpension;Full board;FEM
@@ -210,7 +210,7 @@ Beginn;Beginning;MAS
 Club;Club;MAS
 Publikum;Audience;NEU
 Spaziergang;Walk;MAS
-Vorstellung;Introduction;FEM
+Vorstellung;Introduction;MAS
 eröffnen;to open;VER
 verlängern;to extend;VER
 verpassen;to miss;VER
@@ -261,5 +261,36 @@ furchtbar;dreadful;ADJ
 überhaupt;generallz;ADV
 sicher;sure;ADJ
 Rotkäppchen;Red Riding Hood;NEU
-Froschkönig;Frog Price;MAS
+Froschkönig;Frog Prince;MAS
 Schrecken;Scare;MAS
+Ausweis;ID Card;MAS
+Bargeld;Cash;NEU
+EC Karte;Debit card;FEM
+Telefonkarte;Telephone card;FEM
+Gesundheitskarte;Health insurance card;FEM
+Einbruch;Break-in;MAS
+Feuerwehr;Firetruck;FEM
+Polizist;Policeman;MAS
+Schloss;Lock;NEU
+Täter;Culprit;MAS
+Versicherung;Insurance;FEM
+Zeuge;Witness;MAS
+abschließen;to lock;VER
+absperren;to lock;VER
+anfassen;to take hold of;VER
+etwas sichern;to make sure about sth;VER
+stehlen;to steal;VER
+Glühbirne;Light bulb;FEM
+Hammer;Hammer;MAS
+Liste;List;FEM
+Strom;Electricity;MAS
+Titel;Title;MAS
+ändern;to change;VER
+brennen;to burn;VER
+etwas machen lassen;to have sth done;VER
+nähen;to sew;VER
+reinigen;to clean;VER
+schneiden;to cut;VER
+waschen;to wash;VER
+ängstlich;anxious;ADJ
+schmal;slender;ADJ
