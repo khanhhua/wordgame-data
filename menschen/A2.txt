@@ -113,7 +113,7 @@ Halbpension;Half board;FEM
 Kiosk;Kiosk;MAS
 Konferenz;Conference;FEM
 Konferenzraum;Conference room;MAS
-Nichtraucherzimmer;Non-smoker;MAS
+Nichtraucherzimmer;Non-smoker;NEU
 Parkplatz;Parking place;MAS
 Rezeption;Reception;FEM
 Vollpension;Full board;FEM
