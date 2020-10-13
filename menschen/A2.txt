@@ -210,7 +210,7 @@ Beginn;Beginning;MAS
 Club;Club;MAS
 Publikum;Audience;NEU
 Spaziergang;Walk;MAS
-Vorstellung;Introduction;MAS
+Vorstellung;Introduction;FEM
 eröffnen;to open;VER
 verlängern;to extend;VER
 verpassen;to miss;VER
