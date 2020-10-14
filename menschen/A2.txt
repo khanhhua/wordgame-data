@@ -294,3 +294,35 @@ schneiden;to cut;VER
 waschen;to wash;VER
 ängstlich;anxious;ADJ
 schmal;slender;ADJ
+Anmeldung;Registration;FEM
+Buchstabe;Letter;MAS
+Chipkarte;Electronic card;FEM
+Daten;Data;PLU
+Passwort;Password;NEU
+Vertrag;Contract;MAS
+Zahl;Figure;FEM
+anklicken;to click on;VER
+ausfüllen;to fill out;VER
+bestätigen;to confirm;VER
+wählen;to choose;VER
+Fahrkarte;Travel ticket;FEM
+Mitglied;Member;NEU
+Organisation;Organization;FEM
+Steuer;Tax;FEM
+Umwelt;Environment;FEM
+umweltfreundlich;environment friendly;ADJ
+Verbindung;Connection;FEM
+Ziel;Target;NEU
+besitzen;to own;VER
+erreichen;to reach;VER
+mieten;to rent;VER
+teilen;to share;VER
+sich vorstellen;to imagine;VER
+zurückbringen;to bring back;VER
+zurückfahren;to drive back;VER
+außerhalb;outside;ADV
+höchstens;at most;ADV
+klar;clear;ADJ
+unterwegs;on the way;ADJ
+zunehmen;to put on weight;VER
+abnehmen;to lose weight;VER
