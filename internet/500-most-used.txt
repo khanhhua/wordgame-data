@@ -147,7 +147,7 @@ richtig;right, correct;ADJ
 dafür;for it;ADV
 oft;often;ADV
 Vater;father;MAS
-#VALUE!
+Seite;page;FEM
 verschieden;different;ADJ
 Leben;life;NEU
 allerdings;though, indeed, certainly;ADV
