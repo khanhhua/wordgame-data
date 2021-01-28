@@ -1,0 +1,409 @@
+sein;to be;VER
+haben;to have;VER
+werden;to become;VER
+nicht;not;ADV
+auch;also, too;ADV
+so;so;ADV
+können;can, to be able;VER
+ja;yes;ADV
+wie;how;ADV
+dann;then;ADV
+da;there;ADV
+sein;his, its (poss. form of er, es);ADJ
+noch;still, yet;ADV
+also;so, therefore;ADV
+nur;only;ADV
+müssen;to have to, must;VER
+sagen;to say;VER
+machen;to do, make;VER
+Jahr;year;NEU
+mein;my (poss. form of ich);ADJ
+schon;already;ADV
+geben;to give;VER
+mehr;more;ADV
+andere;other;ADJ
+viel;much, a lot, many;ADJ
+kommen;to come;VER
+jetzt;now;ADV
+sollen;should, ought to;VER
+wollen;to want;VER
+ganz;whole, all the;ADJ
+immer;always;ADV
+gehen;to go;VER
+sehr;very;ADV
+hier;here;ADV
+doch;however, still;ADV
+groß;big, large, great;ADJ
+wieder;again;ADV
+Mal;time;NEU
+gut;good;ADJ
+wissen;to know;VER
+neu;new;ADJ
+sehen;to see;VER
+lassen;to let, allow, have (something) done;VER
+stehen;to stand;VER
+Beispiel;example;NEU
+Zeit;time;FEM
+erste;first;ADJ
+wo;where;ADV
+lang;long;ADJ
+eigentlich;actually;ADV
+damit;with it;ADV
+unser;our (poss. of wir);ADJ
+oben;above, up there;ADV
+wenig;few;ADJ
+Frau;woman, wife, Mrs.;FEM
+Mensch;human being, person;MAS
+deutsch;German;ADJ
+Kind;child;NEU
+Tag;day;MAS
+nun;now;ADV
+finden;to find;VER
+bleiben;to stay;VER
+klein;small, little;ADJ
+alt;old;ADJ
+liegen;to lie;VER
+nein;no;ADV
+heute;today;ADV
+weit;wide, far;ADJ
+heißen;to be called;VER
+denken;to think;VER
+eben;just now;ADV
+erst;first, only, not until;ADV
+natürlich;natural(ly), of course;ADJ
+hoch;high;ADJ
+Mann;er (noun) man;MAS
+einfach;simple, easy;ADJ
+vielleicht;maybe, perhaps;ADV
+dort;there;ADV
+dabei;with it;ADV
+einmal;once;ADV
+nehmen;to take;VER
+tun;to do;VER
+dürfen;to be allowed, may;VER
+glauben;to believe;VER
+halten;to stop, hold;VER
+nennen;to name, call (a thing/person something);VER
+Land;er (noun) land, country, state;NEU
+letzt-;last;ADJ
+gleich;same;ADJ
+dazu;in addition, furthermore, to that;ADV
+mögen;to like;VER
+Frage;question;FEM
+gar;at all;ADV
+zeigen;to show;VER
+führen;to lead;VER
+möglich;possible;ADJ
+sprechen;to speak;VER
+Haus;er (noun) house;NEU
+Fall;e, fall, case;FEM
+eigen;one’s own;ADJ
+bringen;to bring, take;VER
+Leute;people;FEM
+schön;beautiful, pleasant, good;ADJ
+einige;a few, some;ADJ
+bereits;already;ADV
+Arbeit;work;FEM
+leben;to live;VER
+fahren;to drive, ride, go (by vehicle);VER
+meinen;to think, have an opinion;VER
+spät;late;ADJ
+etwa;about, approximately;ADV
+Prozent;percent;NEU
+fragen;to ask;VER
+gerade;just, just now;ADV
+wichtig;important;ADJ
+zwar;admittedly, to be precise;ADV
+Hand;e, hand;FEM
+wirklich;real(ly), actual(ly);ADJ
+kennen;to know;VER
+weitere(-r/-s);(adj.) additional;ADJ
+genau;exact;ADJ
+jung;young;ADJ
+gelten;to be valid;VER
+Stadt;e (noun) city;FEM
+Herr;gentleman, Mr.;MAS
+Teil;part;NEU
+Problem;problem;NEU
+Welt;world;FEM
+jedoch;however;ADV
+stellen;to place, set (in a horizontal position);VER
+darauf;on it, to it;ADV
+nie;never;ADV
+spielen;to play;VER
+Recht;right, law;NEU
+arbeiten;to work;VER
+brauchen;to need;VER
+folgen;to follow;VER
+lernen;to learn;VER
+Ende;end;NEU
+kurz;short;ADJ
+Million;million;FEM
+stark;strong;ADJ
+Schule;school;FEM
+Woche;week;FEM
+bestehen;to exist, insist, pass (an exam);VER
+richtig;right, correct;ADJ
+dafür;for it;ADV
+oft;often;ADV
+Vater;father;MAS
+#VALUE!
+verschieden;different;ADJ
+Leben;life;NEU
+allerdings;though, indeed, certainly;ADV
+verstehen;to understand;VER
+fast;almost;ADV
+wohl;well;ADV
+bestimmt;special, certain;ADJ
+Mutter;mother;FEM
+setzen;to set, place, put;VER
+überhaupt;at all, generally;ADV
+Grund;e (noun) reason, basis;MAS
+besser;better;ADJ
+schnell;fast;ADJ
+bekommen;to get, receive;VER
+gern(e);(adv.) gladly;ADV
+Auge;eye;NEU
+sicher;safe, secure, certain;ADJ
+davon;from it, about it, thereof;ADV
+beginnen;to begin;VER
+erzählen;to narrate, tell;VER
+versuchen;to try, attempt;VER
+besonders;especially;ADV
+Wort;er word;NEU
+schreiben;to write;VER
+warum;why;ADV
+nächst-;next;ADJ
+laufen;to run;VER
+Geld;money;NEU
+erklären;to explain;VER
+Sache;thing;FEM
+Art;kind, type;FEM
+politisch;political;ADJ
+entsprechen;to correspond to (+ dat. obj.);VER
+klar;clear;ADJ
+schwer;difficult, heavy;ADJ
+Bereich;area, region;MAS
+allein(e);(adv.) alone;ADV
+kaum;hardly;ADV
+Weg;way;MAS
+sitzen;to sit, to be sitting;VER
+Stunde;hour;FEM
+einzeln;individual;ADJ
+deshalb;for that reason;ADV
+ziehen;to pull, move;VER
+sogar;even, in fact;ADV
+Name;name;MAS
+damals;back then;ADV
+Geschichte;history, story;FEM
+Gesellschaft;society, company;FEM
+scheinen;to shine, seem, appear;VER
+darüber;above it, about it;ADV
+fallen;to fall;VER
+Kopf;e (noun) head;MAS
+gehören;to belong to;VER
+entstehen;to originate;VER
+bekannt;well-known;ADJ
+erhalten;to receive;VER
+Paar;pair, couple;NEU
+leicht;light, easy;ADJ
+Möglichkeit;possibility;FEM
+treffen;to meet;VER
+sonst;otherwise;ADV
+daran;on it;ADV
+Unternehmen;enterprise, company;NEU
+weiter;further;ADV
+suchen;to search, look for;VER
+Bild;picture;NEU
+Buch;book;NEU
+legen;to put, lay (in a horizontal position);VER
+Wasser;water;NEU
+Stelle;place;FEM
+vor•stellen;to introduce, imagine;VER
+Form;form, shape;FEM
+handeln;to deal, trade;VER
+Mark;mark (former unit of German currency);FEM
+Entwicklung;development;FEM
+Monat;month;MAS
+erreichen;to reach, achieve;VER
+anders;different(ly);ADJ
+schließlich;in the end, finally;ADV
+tragen;to carry, wear;VER
+eher;earlier, more likely, rather;ADV
+Familie;family;FEM
+Morgen;morning;MAS
+je;ever, each;ADV
+Abend;evening;MAS
+darin;in it, inside;ADV
+rund;round;ADJ
+Aufgabe;assignment, task, job;FEM
+frei;free;ADJ
+Universität;university;FEM
+schaffen;to manage;VER
+Sinn;sense, meaning;MAS
+früh;early;ADJ
+lesen;to read;VER
+Staat;state;MAS
+Ziel;goal, destination;NEU
+Freund;friend;MAS
+Thema;theme, topic, subject;NEU
+unterschiedlich;different;ADJ
+daher;from there, therefore;ADV
+Person;person;FEM
+schlecht;bad;ADJ
+Euro;euro (unit of currency of the EU);MAS
+Nacht;e (noun) night;FEM
+verlieren;to lose;VER
+Ding;thing;NEU
+deutlich;clear;ADJ
+allgemein;general;ADJ
+Raum;e (adj.) room, space;MAS
+Blick;look, view, glance;MAS
+einzig;only, single;ADJ
+dar•stellen;to depict, portray;VER
+Platz;e (noun) place, room, square;MAS
+Zahl;number;FEM
+gemeinsam;common, mutual;ADJ
+nah(e);(adj.) near, close;ADJ
+System;system;NEU
+Uhr;clock;FEM
+Eltern;parents;PLU
+erkennen;to recognize;VER
+entwickeln;to develop;VER
+früher;earlier, in former times;ADV
+Straße;street;FEM
+reden;to talk;VER
+voll;full;ADJ
+aus•sehen;to appear, look (a certain way);VER
+erscheinen;to appear;VER
+Minute;minute;FEM
+zunächst;first, at first, for now;ADV
+Gruppe;group;FEM
+Wert;value;MAS
+Gesicht;face;NEU
+irgendwie;somehow;ADV
+Sprache;language;FEM
+bilden;to form, educate;VER
+dadurch;through it, as a result;ADV
+direkt;direct, straight;ADJ
+international;international;ADJ
+sozial;social;ADJ
+an•fangen;to begin;VER
+best-;best;ADJ
+bisher;until now;ADV
+erwarten;to expect;VER
+Anfang;beginning;MAS
+nämlich;namely;ADV
+wohnen;to live;VER
+rot;red;ADJ
+offen;open;VER
+Ort;place, town, location;MAS
+Moment;moment;MAS
+betreffen;to affect, concern;VER
+meist-;most;ADJ
+warten;to wait;VER
+Folge;result, consequence, series;FEM
+besonder-;special;ADJ
+gewiss;certain;ADJ
+Interesse;interest;NEU
+manchmal;sometimes;ADV
+Milliarde;billion;FEM
+Rolle;role;FEM
+vergehen;to elapse (time);VER
+öffentlich;public;ADJ
+Tür;door;FEM
+Schüler;pupil, student (primary and secondary level);MAS
+Bedeutung;meaning;FEM
+Text;text;MAS
+Ergebnis;result;NEU
+helfen;to help;VER
+Krieg;war;MAS
+gewinnen;to win;VER
+halb;half;ADJ
+schließen;to close;VER
+Weise;way, manner;FEM
+Regierung;government;FEM
+wahrscheinlich;probable;ADJ
+europäisch;European;ADJ
+Stück;piece;NEU
+Wohnung;apartment;FEM
+fühlen;to feel;VER
+Gespräch;conversation;NEU
+bieten;to offer;VER
+interessieren;to interest;VER
+wesentlich;essential, fundamental;ADJ
+erinnern;to remind;VER
+Meter;meter;MAS
+her;(in a direction) away from;ADV
+Punkt;dot, point, period;MAS
+Situation;situation;FEM
+ähnlich;similar;ADJ
+ergeben;to result in, yield;VER
+dagegen;against it, on the other hand;ADV
+häufig;frequent;ADJ
+Lehrer;teacher;MAS
+an•bieten;to offer;VER
+ebenso;just as, as much as, as well;ADV
+studieren;to study;VER
+danach;after it, afterwards;ADV
+Preis;price, prize;MAS
+Abbildung;illustration;FEM
+Begriff;concept, idea, term;MAS
+Funktion;function;FEM
+verbinden;to connect, link;VER
+ziemlich;quite, fairly;ADV
+an•sehen;to look at, watch;VER
+Boden;(noun) ground, floor, bottom;MAS
+fehlen;to lack, to be missing, be absent (+ dat. obj.);VER
+Jahrhundert;century;NEU
+Sohn;e (noun) son;MAS
+Werk;work;NEU
+bedeuten;to mean;VER
+schwarz;black;ADJ
+vergleichen;to compare;VER
+außerdem;besides, in addition;ADV
+inzwischen;in the meantime;ADV
+sofort;immediately;ADV
+steigen;to climb, increase;VER
+Stimme;voice;FEM
+plötzlich;sudden(ly);ADJ
+Rahmen;frame, framework;MAS
+Richtung;direction;FEM
+völlig;complete;ADJ
+nutzen;to use;VER
+Programm;program, schedule;NEU
+Angst;e (noun) fear, anxiety;FEM
+gering;low (amount/level), small;ADJ
+Information;information;FEM
+Kunst;e (noun) art;FEM
+Musik;music;FEM
+schauen;to look;VER
+schwierig;difficult;ADJ
+Politik;politics;FEM
+verlassen;to leave;VER
+bald;soon;ADV
+ein•setzen;to put in, insert;VER
+Beruf;occupation, job, profession;MAS
+praktisch;practical;ADJ
+ändern;to change;VER
+genug;enough;ADV
+persönlich;personal(ly);ADJ
+wachsen;to grow;VER
+aus•gehen;to go out;VER
+Regel;rule;FEM
+Schritt;step;MAS
+-jährig;-year-old;ADJ
+Absatz;e (noun) sales;MAS
+geschehen;to happen, occur (+ dat. obj.);VER
+Gott;er (noun) god;MAS
+Auto;car;NEU
+beschreiben;to describe;VER
+Beziehung;relation, relationship;FEM
+Erfahrung;experience;FEM
+Tisch;table;MAS
+an•nehmen;to accept, assume;VER
+endlich;finally, at last;ADV
+kriegen;to get, receive;VER
+Zukunft;e (noun) future;FEM
+planen;to plan;VER
+Spiel;game;NEU
