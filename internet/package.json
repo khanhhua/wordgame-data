@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "author": "Khanh Hua",
+  "name": "Internet",
+  "collections": [
+    {
+      "name": "500 Most Used",
+      "file": "500-most-used.txt"
+    }
+  ]
+}
