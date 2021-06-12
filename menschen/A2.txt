@@ -1,3 +1,41 @@
+Cousin;Cousin;MAS
+Cousine;Cousin;FEM
+Neffe;Nephew;MAS
+Nichte;Niece;FEM
+Onkel;Uncle;MAS
+Tante;Aunt;FEM
+Schwiegervater;Step father;MAS
+Geschichte;Story;FEM
+Jugendliche;Youth;MAS
+Puppe;Doll;FEM
+Sache;Thing;FEM
+Spiel;Game;NEU
+Witz;Joke;MAS
+Anfang;Begin;MAS
+Ende;End;NEU
+Mannschaft;Club;FEM
+Pfeffer;Pepper;MAS
+Punkt;Point;MAS
+Satz;Statement;MAS
+Schluss;End;MAS
+Zigarette;Cigarette;FEM
+Ding;Thing;NEU
+Ecke;Corner;FEM
+Fernsehgerät;TV;NEU
+Gegenstand;Everyday object;MAS
+Raum;Room;MAS
+Regal;Shelf;NEU
+Schreibtisch;Desk;MAS
+Spiegel;Mirror;MAS
+Tür;Door;FEM
+Vorhang;Curtain;MAS
+Wand;Wall;FEM
+Werkzeug;Tool;NEU
+Heft;Booklet;NEU
+Souvenir;Souvenir;NEU
+Herd;Oven;MAS
+Kühlschrank;Fridge;MAS
+Blume;Flower;FEM
 Vokabelkärtchen;Vocalubary card;NEU
 Nachrichten;News;PLU
 Film;Film;MAS
