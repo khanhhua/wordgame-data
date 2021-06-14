@@ -364,3 +364,59 @@ klar;clear;ADJ
 unterwegs;on the way;ADJ
 zunehmen;to put on weight;VER
 abnehmen;to lose weight;VER
+abnehmen;to lose weight;VER
+Abitur;graduation;NEU
+Beruf;job;MAS
+Fachhochschule;technical college;FEM
+Gesamtschule;general school;FEM
+Grundschule;elementary school;FEM
+Gymnasium;highschool;DAS
+Gymnasien;highschools;PLU
+Hauptschule;lower secondary school ;FEM
+Lehre;teaching;FEM
+Note;score;FEM
+Realschule;secondary school;FEM
+Zeugnis;certificate;NEU
+mündlich;verbal;ADJ
+schriftlich;written;ADJ
+Bewerbung;application;FEM
+Einkommen;income;NEU
+Kündigung;termination;FEM
+Praktikant;apprentice;MAS
+Tätigkeit;activity;FEM
+sich bewerben;to apply;VER
+kündigen;to terminate;VER
+Elektroinstallateur;electrician;MAS
+Laune;mood;FEM
+Thema;subject;NEU
+kopieren;to copy;VER
+stören;to disturb;VER
+vorhaben;to plan;VER
+eigentlich;simply;ADV
+freiwillig;voluntarily;ADJ
+genug;enough;ADJ
+neulich;newly;ADV
+vorgestern;the day before yesterday;ADJ
+Abflug;departure;MAS
+Anschluss;connection;MAS
+Impfung;vaccination;FEM
+Konsulat;consulate;NEU
+Kontrolle;control;FEM
+Pass;passport;MAS
+Verspätung;delay;FEM
+Visum;visa;NEU
+Zoll;customs;MAS
+beantragen;to apply for sth;VER
+verlängern;to renew;VER
+gültig;valid;ADJ
+Apartment;apartment;NEU
+Erinnerung;memory;FEM
+Geburt;birth;FEM
+Kenntnis;knowledge;FEM
+Zuhause;home;NEU
+Zukunft;future;FEM
+leiten;to lead, to manage;VER
+sich verabreden;to make an appointment;VER
+ähnlich;similar;ADJ
+sinnvoll;meaningful;ADJ
+wach;awake;ADJ
