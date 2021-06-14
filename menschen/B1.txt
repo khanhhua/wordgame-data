@@ -1,0 +1,92 @@
+Bedeutung;meaning;FEM
+Dialekt; Direct;MAS
+Durchsage;Announcement;FEM
+Missverständnis;Misunderstanding;NEU
+folgen;to follow;VER
+missverstehen;to misunderstand;VER
+deutlich;clear;ADJ
+durcheinander;confusingly;ADV
+peinlich;embarrassed;ADJ
+aus diesem Grund;for this reason;ADV
+deswegen;therefore;ADV
+wegen;because of;PRE
+Amt;Office;NEU
+Anwalt;Lawyer;MAS
+Bank;Bank;FEM
+Beamte;Official clerk;MAS
+Briefträger;Postman;MAS
+Datei;Data;FEM
+Flug;Fly;MAS
+Kursleiter;Course instructor;MAS
+Nagel;Finger nail;FEM
+abfliegen;to fly off;VER
+beißen;to bite;VER
+besorgen;to care for;VER
+erschrecken;to scare;VER
+augenblicklich;momentarily;ADV
+böse;evil;ADJ
+Atem;Breath;MAS
+Eindruck;Impress;MAS
+Erwachsenenbildung;Adult education;FEM
+Fantasie;Fantasy;FEM
+Gefahr;Danger;FEM
+Geschmack;Aroma;MAS
+Gewürz;Seasoning;NEU
+Grundlage;Basis;FEM
+Kultur;Culture;FEM
+Möglichkeit;Possibility;FEM
+Nadel;Needle;FEM
+Rest;Rest;MAS
+Richtung;Direction;FEM
+Geschmacksrichtung;Taste;FEM
+Stilrichtung;Music style;FEM
+Himmelsrichtung;Direction;FEM
+Schere;Scissors;FEM
+Senior;Senior;MAS
+Software;Software;FEM
+Stimme;Voice;FEM
+Tatent;Talent;NEU
+Teilnehmer;Participant;MAS
+Voraussetzung;Prerequisite;FEM
+entdecken;to discover;VER
+laden;to load;VER
+aufladen;to charge;VER
+hochladen;to upload;VER
+herunterladen;to download;VER
+zuhören;to listen;VER
+aktuell;current;ADJ
+notwendig;necessary;ADJ
+reich;rich;ADJ
+rückwärts;backward;ADJ
+staatlich;state owned;ADJ
+Betreuung;Personal care;FEM
+Dichter;Judge;MAS
+Industrie;Industry;FEM
+Mittel;Medium;NEU
+Physik;Physics;FEM
+Präsident;President;MAS
+Presse;Press;FEM
+Recherche;Research;FEM
+Reporter;Reporter;MAS
+Rufnummer;Telephone number;FEM
+Schicht;Layer;FEM
+Schrift;Writing;FEM
+Sozialarbeiter;Social worker;MAS
+Unternehmen;Company;NEU
+Unternehmer;Company owner;MAS
+Wissenschaftler;Scientist;MAS
+annehmen;to accept;VER
+einstellen;to put in;VER
+entwickeln;to develop;VER
+übertragen;to carry over;VER
+veröffentlichen;public;ADJ
+allgemein;general;ADJ
+bisher;up to now;ADV
+einzeln;individual;ADJ
+sicher;sure;ADJ
+Abschnitt;Paragraph;MAS
+Acht geben;to pay attention;VER
+Fleck;Spot;MAS
+Jeans;Jeans;PLU
+Konto;Account;NEU
+anhaben;to put on;VER
