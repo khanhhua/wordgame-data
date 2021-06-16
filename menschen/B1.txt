@@ -90,3 +90,32 @@ Fleck;Spot;MAS
 Jeans;Jeans;PLU
 Konto;Account;NEU
 anhaben;to put on;VER
+Ehe;Marriage;FEM
+Erziehung;Relationship;FEM
+Generation;Generation;FEM
+Konflikt;Conflict;MAS
+Krieg;War;MAS
+Kuss;Kiss;MAS
+Lüge;Lie;FEM
+Ratschlag;Advice;MAS
+Streit;Argument;MAS
+Träne;Tears;FEM
+aufregen;to excite;VER
+ausgehen;to go out;VER
+begegnen;to meet;VER
+entschlossen sein;to be determined;VER
+sich gewöhnen an;to get used to;VER
+sich küssen;to kiss;VER
+sich trennen;to separate;VER
+aufwärts;upwards;ADV
+gewöhnlich;customary;ADJ
+verantwortlich;responsible;ADJ
+hingegen;to go to;VER
+Ernte;Harvest;FEM
+Gegensatz;Opposite;MAS
+Klavier;Piano;NEU
+Kosmetik;Cosmetic;FEM
+Mitternacht;Midnight;FEM
+Schminke;Jewery;FEM
+Wert;Value;MAS
+wochentags;during weekdays;ADV
