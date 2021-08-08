@@ -1,24 +1,57 @@
+und;and;KON
 sein;to be;VER
+in ;in (variation: im in the);PREP
+ein ;a, an;ART
+zu ;to, at;PREP
 haben;to have;VER
+ich ;I;PRO
 werden;to become;VER
+sie ;she, her (acc. form of sie [sing.]);PRO
+von ;from, of;PREP
 nicht;not;ADV
+mit ;with;PREP
+es ;it;PRO
+sich ;-self;PRO
 auch;also, too;ADV
+auf ;on, at, in;PREP
+für ;for;PREP
+an ;at, on (variation: am at/on the);PREP
+er ;he;PRO
 so;so;ADV
+dass ;that;KON
 können;can, to be able;VER
+dies- ;this, that;PRO
+als ;as, when;KON
+ihr ;you (pl., familiar), her (dat. form of sie [sing.]);PRO
 ja;yes;ADV
 wie;how;ADV
+bei ;by, with, at;PREP
+oder ;or;KON
+wir ;we;PRO
+aber ;but;KON
 dann;then;ADV
+man ;one, you;PRO
 da;there;ADV
 sein;his, its (poss. form of er, es);ADJ
 noch;still, yet;ADV
+nach ;after, toward;PREP
+was ;what;PRO
 also;so, therefore;ADV
+aus ;out, out of, from;PREP
+all ;all;PRO
+wenn ;if, when;KON
 nur;only;ADV
 müssen;to have to, must;VER
 sagen;to say;VER
+um ;around, at [variation: um … zu in order to] 48. über (prep.) above, over, about;PREP
 machen;to do, make;VER
+kein ;no, not a/an;PRO
 Jahr;year;NEU
+du ;you (familiar, sing.);PRO
 mein;my (poss. form of ich);ADJ
 schon;already;ADV
+vor ;in front of, before, ago;PREP
+durch ;through;PREP
 geben;to give;VER
 mehr;more;ADV
 andere;other;ADJ
@@ -26,43 +59,62 @@ viel;much, a lot, many;ADJ
 kommen;to come;VER
 jetzt;now;ADV
 sollen;should, ought to;VER
+mir ;[to/for] me (dat. form of ich);PRO
 wollen;to want;VER
 ganz;whole, all the;ADJ
+mich ;me (acc. form of ich);PRO
 immer;always;ADV
 gehen;to go;VER
 sehr;very;ADV
 hier;here;ADV
 doch;however, still;ADV
+bis ;until;PREP
 groß;big, large, great;ADJ
 wieder;again;ADV
 Mal;time;NEU
+zwei ;two;NUM
 gut;good;ADJ
 wissen;to know;VER
 neu;new;ADJ
 sehen;to see;VER
 lassen;to let, allow, have (something) done;VER
+uns ;us (acc., dat. form of wir);PRO
+weil ;because;KON
+unter ;under;PREP
+denn ;because;KON
 stehen;to stand;VER
+jed- ;every, each;PRO
 Beispiel;example;NEU
 Zeit;time;FEM
 erste;first;ADJ
+ihm ;him, it (dat. form of er, es);PRO
+ihn ;him (acc. form of er);PRO
 wo;where;ADV
 lang;long;ADJ
 eigentlich;actually;ADV
 damit;with it;ADV
+selbst ;-self;PRO
 unser;our (poss. of wir);ADJ
 oben;above, up there;ADV
+drei ;three;NUM
 wenig;few;ADJ
 Frau;woman, wife, Mrs.;FEM
 Mensch;human being, person;MAS
 deutsch;German;ADJ
 Kind;child;NEU
+etwas ;something, some, a little;PRO
 Tag;day;MAS
 nun;now;ADV
 finden;to find;VER
+nichts ;nothing;PRO
 bleiben;to stay;VER
+sondern ;but (on the contrary);KON
 klein;small, little;ADJ
+zwischen ;between;PREP
 alt;old;ADJ
+gegen ;against;PREP
 liegen;to lie;VER
+ohne ;without (variation: ohne … zu without (doing something));PREP
 nein;no;ADV
 heute;today;ADV
 weit;wide, far;ADJ
@@ -71,15 +123,20 @@ denken;to think;VER
 eben;just now;ADV
 erst;first, only, not until;ADV
 natürlich;natural(ly), of course;ADJ
+ob ;whether;KON
 hoch;high;ADJ
+beide ;both;PRO
 Mann;er (noun) man;MAS
 einfach;simple, easy;ADJ
 vielleicht;maybe, perhaps;ADV
 dort;there;ADV
 dabei;with it;ADV
 einmal;once;ADV
+ihnen ;[to/for] them (dat. form of sie [pl.]);PRO
+welch- ;which;PRO
 nehmen;to take;VER
 tun;to do;VER
+seit ;since, for (a period of time);PREP
 dürfen;to be allowed, may;VER
 glauben;to believe;VER
 halten;to stop, hold;VER
@@ -87,6 +144,7 @@ nennen;to name, call (a thing/person something);VER
 Land;er (noun) land, country, state;NEU
 letzt-;last;ADJ
 gleich;same;ADJ
+solch- ;such;PRO
 dazu;in addition, furthermore, to that;ADV
 mögen;to like;VER
 Frage;question;FEM
@@ -95,6 +153,7 @@ zeigen;to show;VER
 führen;to lead;VER
 möglich;possible;ADJ
 sprechen;to speak;VER
+während ;during;PREP
 Haus;er (noun) house;NEU
 Fall;e, fall, case;FEM
 eigen;one’s own;ADJ
@@ -109,6 +168,7 @@ fahren;to drive, ride, go (by vehicle);VER
 meinen;to think, have an opinion;VER
 spät;late;ADJ
 etwa;about, approximately;ADV
+wer ;who, whoever;PRO
 Prozent;percent;NEU
 fragen;to ask;VER
 gerade;just, just now;ADV
@@ -129,8 +189,11 @@ Welt;world;FEM
 jedoch;however;ADV
 stellen;to place, set (in a horizontal position);VER
 darauf;on it, to it;ADV
+bisschen ;little bit;PRO
+vier ;four;NUM
 nie;never;ADV
 spielen;to play;VER
+denen ;[to/for] whom/that (dat. pl. form of die [pl.]);PRO
 Recht;right, law;NEU
 arbeiten;to work;VER
 brauchen;to need;VER
@@ -144,22 +207,27 @@ Schule;school;FEM
 Woche;week;FEM
 bestehen;to exist, insist, pass (an exam);VER
 richtig;right, correct;ADJ
+dich ;you (acc. form of du);PRO
 dafür;for it;ADV
+sowie ;as well as;KON
 oft;often;ADV
 Vater;father;MAS
 Seite;page;FEM
 verschieden;different;ADJ
+halt ;just, simply;PAR
 Leben;life;NEU
 allerdings;though, indeed, certainly;ADV
 verstehen;to understand;VER
 fast;almost;ADV
 wohl;well;ADV
+dein ;your (poss. form of du);PRO
 bestimmt;special, certain;ADJ
 Mutter;mother;FEM
 setzen;to set, place, put;VER
 überhaupt;at all, generally;ADV
 Grund;e (noun) reason, basis;MAS
 besser;better;ADJ
+dir ;[to/for] you (dat. form of du);PRO
 schnell;fast;ADJ
 bekommen;to get, receive;VER
 gern(e);(adv.) gladly;ADV
@@ -171,6 +239,7 @@ erzählen;to narrate, tell;VER
 versuchen;to try, attempt;VER
 besonders;especially;ADV
 Wort;er word;NEU
+neben ;beside, next to;PREP
 schreiben;to write;VER
 warum;why;ADV
 nächst-;next;ADJ
@@ -191,11 +260,16 @@ sitzen;to sit, to be sitting;VER
 Stunde;hour;FEM
 einzeln;individual;ADJ
 deshalb;for that reason;ADV
+deren ;whose (gen. form of die [pl.]);PRO
 ziehen;to pull, move;VER
+na ;well;PAR
+beziehungsweise ;(conj.) and/or;KON
 sogar;even, in fact;ADV
 Name;name;MAS
 damals;back then;ADV
+fünf ;five;NUM
 Geschichte;history, story;FEM
+wegen ;because of;PREP
 Gesellschaft;society, company;FEM
 scheinen;to shine, seem, appear;VER
 darüber;above it, about it;ADV
@@ -209,6 +283,7 @@ Paar;pair, couple;NEU
 leicht;light, easy;ADJ
 Möglichkeit;possibility;FEM
 treffen;to meet;VER
+hinter ;behind;PREP
 sonst;otherwise;ADV
 daran;on it;ADV
 Unternehmen;enterprise, company;NEU
@@ -234,6 +309,7 @@ Familie;family;FEM
 Morgen;morning;MAS
 je;ever, each;ADV
 Abend;evening;MAS
+zehn ;ten;NUM
 darin;in it, inside;ADV
 rund;round;ADJ
 Aufgabe;assignment, task, job;FEM
@@ -245,6 +321,7 @@ früh;early;ADJ
 lesen;to read;VER
 Staat;state;MAS
 Ziel;goal, destination;NEU
+gegenüber ;opposite;PREP
 Freund;friend;MAS
 Thema;theme, topic, subject;NEU
 unterschiedlich;different;ADJ
@@ -252,6 +329,7 @@ daher;from there, therefore;ADV
 Person;person;FEM
 schlecht;bad;ADJ
 Euro;euro (unit of currency of the EU);MAS
+obwohl ;although;KON
 Nacht;e (noun) night;FEM
 verlieren;to lose;VER
 Ding;thing;NEU
@@ -267,6 +345,7 @@ gemeinsam;common, mutual;ADJ
 nah(e);(adj.) near, close;ADJ
 System;system;NEU
 Uhr;clock;FEM
+dessen ;whose (gen. form of der, das);PRO
 Eltern;parents;PLU
 erkennen;to recognize;VER
 entwickeln;to develop;VER
@@ -276,6 +355,7 @@ reden;to talk;VER
 voll;full;ADJ
 aus•sehen;to appear, look (a certain way);VER
 erscheinen;to appear;VER
+mehrere ;several;PRO
 Minute;minute;FEM
 zunächst;first, at first, for now;ADV
 Gruppe;group;FEM
@@ -294,30 +374,37 @@ bisher;until now;ADV
 erwarten;to expect;VER
 Anfang;beginning;MAS
 nämlich;namely;ADV
+jen- ;that, those;PRO
 wohnen;to live;VER
 rot;red;ADJ
 offen;open;VER
 Ort;place, town, location;MAS
+naja ;well …;PAR
 Moment;moment;MAS
 betreffen;to affect, concern;VER
 meist-;most;ADJ
 warten;to wait;VER
 Folge;result, consequence, series;FEM
+ab ;from;PREP
 besonder-;special;ADJ
 gewiss;certain;ADJ
 Interesse;interest;NEU
 manchmal;sometimes;ADV
 Milliarde;billion;FEM
 Rolle;role;FEM
+jemand ;someone;PRO
 vergehen;to elapse (time);VER
 öffentlich;public;ADJ
 Tür;door;FEM
 Schüler;pupil, student (primary and secondary level);MAS
 Bedeutung;meaning;FEM
 Text;text;MAS
+ach ;oh;PAR
 Ergebnis;result;NEU
 helfen;to help;VER
 Krieg;war;MAS
+sechs ;six;NUM
+niemand ;nobody;PRO
 gewinnen;to win;VER
 halb;half;ADJ
 schließen;to close;VER
@@ -366,6 +453,7 @@ inzwischen;in the meantime;ADV
 sofort;immediately;ADV
 steigen;to climb, increase;VER
 Stimme;voice;FEM
+acht ;eight;NUM
 plötzlich;sudden(ly);ADJ
 Rahmen;frame, framework;MAS
 Richtung;direction;FEM
@@ -381,6 +469,7 @@ schauen;to look;VER
 schwierig;difficult;ADJ
 Politik;politics;FEM
 verlassen;to leave;VER
+manch- ;some, many a;PRO
 bald;soon;ADV
 ein•setzen;to put in, insert;VER
 Beruf;occupation, job, profession;MAS
