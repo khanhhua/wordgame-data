@@ -119,3 +119,132 @@ Mitternacht;Midnight;FEM
 Schminke;Jewery;FEM
 Wert;Value;MAS
 wochentags;during weekdays;ADV
+vernünftig;reasonable;ADJ
+großzügig;generous;ADJ
+fair;fair;ADJ
+intelligent;intelligent;ADJ
+klug;intelligent;ADJ
+frech;cheaky;ADJ
+kreativ;creative;ADJ
+sparsam;thrifty;ADJ
+realistisch;realistic;ADJ
+hübsch;beautiful;ADJ
+aufmerksam;attentive;ADJ
+mütig;brave;ADJ
+nervös;nervous;ADJ
+kritisch;critical;ADJ
+treu;faithful;ADJ
+ernst;serious;ADJ
+ordentlich;orderly;ADJ
+streng;strict;ADJ
+Anerkennung;Recognition;FEM
+Einfluss;Influence;MAS
+Galerie;Galery;FEM
+Hügel;Hill;MAS
+Medien;Mediun;FEM
+Zerstörung;Destruction;FEM
+ausstellen;to exhibit;VER
+entstehen;to arise;VER
+gründen;to found;VER
+retten;to rescue;VER
+unterrichten;to teach;VER
+farbig;colorful;ADJ
+Antrag;Application;MAS
+Feind;Enemy;MAS
+Geburtsjahr;Year of birth;NEU
+Geburtsort;Place of birth;MAS
+Liebling;Favorite;MAS
+Recht;Right;NEU
+Menschrecht;Human right;NEU
+Vorurteil;Prejudice;NEU
+einsetzen für (sich);to stand up for someone;VER
+kämpfen gegen;to fight against;VER
+gleichberechtigt;equal;ADJ
+klasse;great;ADJ
+wild;wild;ADJ
+öfter;more often;ADJ
+Blitz;Lightning;MAS
+Dieb;Thief;MAS
+Donner;Thunder;MAS
+Droge;Drug;FEM
+Überschrift;Title;MAS
+verhaften;to arrest;VER
+überrascht sein (von);to be surprised of;VER
+drüben;over there;ADV
+Bürgerinitiative;Action group;FEM
+Bundeskanzler;Prime minister;MAS
+Demokratie;Democracy;FEM
+Demonstration;Demonstration;FEM
+Energie;Energy;FEM
+Forschung;Research;FEM
+Frieden;Peace;MAS
+Gebühr;Fee;MAS
+Klima;Climate;NEU
+Kraftwerk;Powerplant;NEU
+Mehrheit;Majority;FEM
+Minderheit;Minority;FEM
+Minister;Minister;MAS
+Nationalfeiertag;National holiday;MAS
+Opposition;Opposition;FEM
+Parlament;Congress;NEU
+Partei;Party;FEM
+Protest;Protest;MAS
+Regierung;Government;FEM
+Schutz;Protection;MAS
+Skandal;Scandal;MAS
+Vertreter;Representative;MAS
+Volk;People;NEU
+Wahl;Election;FEM
+einführen;to establish;VER
+handeln;to handle;VER
+annähern (sich);to draw near;VER
+regieren;to governmen;VER
+verhindern;to hinder;VER
+demokratisch;demoncratic;ADJ
+frei;free;ADJ
+politisch;political;ADJ
+populär;popular;ADJ
+Biologie;Biology;FEM
+Geschwindigkeit;Speed;FEM
+Geschwindigkeitsbeschränkung;Speed limit;FEM
+Rentner;Retiree;MAS
+Rente;Pension;FEM
+Reportage;Report;FEM
+Ware;Goods;FEM
+aufheben;to pick up;VER
+betragen;to account for;VER
+blühen;to blume;VER
+unterscheiden;to differ;VER
+zunehmen;to gain weight;VER
+nah;close;ADJ
+still;silent;ADJ
+Camping;Camping;NEU
+Ereignis;Event;NEU
+ereignen (sich);to occur;VER
+Gras;Grass;NEU
+Honig;Honey;MAS
+Landwirtschaft;Agriculture;FEM
+Saison;Season;FEM
+Tradition;Tradition;FEM
+Übernachtung;Overnight stay;FEM
+Vieh;Cattle;NEU
+Wolle;Wool;FEM
+erholen (sich);to recover;VER
+zelten;to pitch tents;VER
+flach;flat;ADJ
+Aprikose;Apricot;FEM
+Auftritt;Appearance;MAS
+Fasching;Carnival;MAS
+Jahrhundert;Century;NEU
+Titel;Title;MAS
+darstellen;to represent;VER
+heizen;to heat;VER
+leisten (sich);to afford oneself;VER
+treiben;to strive;VER
+berufstätig;employed;ADJ
+dankbar;thankful;ADJ
+fein;fine;ADJ
+tolerant;tolerant;ADJ
+umsonst;free;ADJ
+jedoch;though;KON
+
