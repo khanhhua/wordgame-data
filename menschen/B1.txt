@@ -247,4 +247,48 @@ fein;fine;ADJ
 tolerant;tolerant;ADJ
 umsonst;free;ADJ
 jedoch;though;KON
-
+Aussicht;Prospect;FEM
+Dreck;Dirt;MAS
+Hütte;Hut;FEM
+Imbiss;Snack;MAS
+Lebensgefahr;Life-threatening danger;FEM
+Stein;Stone;MAS
+Stiefel;Boot;MAS
+Tal;Valley;NEU
+Unglück;Misfortune;NEU
+Wirt;Inn-keeper;MAS
+ausziehen;to pull out;VER
+siezen;to address formally;VER
+sorgen für;to take care of someone;VER
+treten;to kick;VER
+steil;steep;ADJ
+untersagt sein;to be forbidden;VER
+Gemeinschaft;Community;FEM
+Rücksicht;Regard;FEM
+Vorschrift;Provision;FEM
+Wohl;Welfare;NEU
+Zweck;Purpose;MAS
+dienen;to serve;VER
+gelten;to be valid;VER
+regeln;to regulate;VER
+verlangen;to long for;VER
+dauernd;perpetual;ADV
+grundsätzlich;fundamentally;ADJ
+ruhig;quiet;ADJ
+sinnvoll;meaningful;ADJ
+wesentlich;essential;ADV
+Decke;Blanket;FEM
+Resultat;Result;NEU
+Schwierigkeit;Difficulty;FEM
+Szene;Scene;FEM
+ausreichen;to suffice;VER
+bekannt geben;to announce;VER
+einstecken;to plug;VER
+klappen;to work;VER
+klingeln;to ring;VER
+umgehen mit;to deal with somebody;VER
+auf sein;to be up;VER
+unheimlich;spooky;ADJ
+nirgends;nowhere;ADV
+indem;by;KON
+sodass;so that;KON
