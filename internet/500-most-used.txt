@@ -155,7 +155,7 @@ möglich;possible;ADJ
 sprechen;to speak;VER
 während ;during;PREP
 Haus;er (noun) house;NEU
-Fall;e, fall, case;FEM
+Fall;e, fall, case;MAS
 eigen;one’s own;ADJ
 bringen;to bring, take;VER
 Leute;people;FEM
@@ -168,7 +168,7 @@ fahren;to drive, ride, go (by vehicle);VER
 meinen;to think, have an opinion;VER
 spät;late;ADJ
 etwa;about, approximately;ADV
-wer ;who, whoever;PRO
+wer;who, whoever;PRO
 Prozent;percent;NEU
 fragen;to ask;VER
 gerade;just, just now;ADV
