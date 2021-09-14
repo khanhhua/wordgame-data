@@ -377,3 +377,43 @@ zwingen;to force;VER
 angeblich;so-called;ADV
 eventuell;possible;ADJ
 hinterher;afterwards;ADV
+Anbieter;Supplier;MAS
+Energie;Engergy;FEM
+Gesetz;Law;NEU
+Konsum;Consumption;MAS
+Mobilität;Mobility;FEM
+Reinigung;Cleaning;FEM
+Station;Station;FEM
+Stecker;Plug;MAS
+Steckdose;Power socket;FEM
+Umweltverschmutzung;Pollution;FEM
+konsumieren;to consume;VER
+schützen;to protect;VER
+verbessern;to improve;VER
+verbrauchen;to use up;VER
+verschlectern;to make worse;VER
+nützlich;practical;ADJ
+Bremse;Brake;FEM
+Druck;Pressure;MAS
+Eisenbahn;Railroad;FEM
+Ersatzteil;Replacement part;NEU
+Klingel;Bell;FEM
+Kreuzung;Intersection;FEM
+Vorfahrt;Priority;FEM
+Badewanne;Bathtub;FEM
+Forum;Forum;NEU
+Standpunkt;Point of view;MAS
+abhängen;to depend;VER
+bemühen (sich);to try hard;VER
+feststehen;to be certain;VER
+feststellen;to hold tight;VER
+vorziehen;to prefer;VER
+zustimmen;to agree with;VER
+breit;wide;ADJ
+gleich;the same;ADJ
+nötig;necessary;ADJ
+rein;clear;ADJ
+meinetwegen;because of me;ADV
+nebenbei;außerdem;ADV
+offenbar;adjective;ADJ
+sowieso;so oder so;ADV
