@@ -292,3 +292,61 @@ unheimlich;spooky;ADJ
 nirgends;nowhere;ADV
 indem;by;KON
 sodass;so that;KON
+Atmosphäre;Atmosphere;FEM
+Ausgang;Exit;MAS
+Empfang;Reception;MAS
+Garderobe;Wardrobe;FEM
+Lautsprecher;Speaker;MAS
+Misserfolg;Failure;MAS
+Note;Note;FEM
+Stimmung;Voice;FEM
+Studio;Studio;NEU
+Vergnügen;Pleasure;NEU
+versäumen;to miss;VER
+besetzt;occupied;ADJ
+Ausfahrt;Exit;FEM
+Fußgängerzone;Padestrian zone;FEM
+Fußgänger;Padestrian;MAS
+Gaststätte;Restaurant;FEM
+Gebäude;Building;NEU
+Hallenbad;Indoor swimming house;NEU
+Kaufhaus;Department store;NEU
+Parkhaus;Parking house;NEU
+Platz;Place;MAS
+Stadion;Stadium;NEU
+Stadien;Stadia;PLU
+Umgebung;Surrounding;FEM
+Ausdruck;Expression;MAS
+Gastfreundschaft;Hospitality;FEM
+Gebäck;Cake and pastery;NEU
+Kredit;Credit;MAS
+Not;Emergency;FEM
+Papiere;Papers;PLU
+Patient;Patient;MAS
+Schuld;Guilt;FEM
+Sekunde;Second;FEM
+Sozialsiedlung;Social settlement;FEM
+Vergleich;Comparison;MAS
+Zustand;Status;MAS
+abheben;to lift off;VER
+behandeln;to treat;VER
+einzahlen;to deposit money;VER
+mischen;to mix;VER
+nachschlagen;to look up;VER
+ordnen;to arrange;VER
+schweigen;to keep silent;VER
+überweisen;to transfer money;VER
+verpflegen;to cater food and drink;VER
+verteilen;to distribute;VER
+vorkommen;to happen;VER
+gestrig;of yesterday;ADJ
+wert;worth;ADJ
+quer;cross;ADV
+solange;so long as;KON
+übermorgen;the day after tomorrow;ADV
+übrigens;especially;ADV
+entgegen;against;PREP
+innerhalb;within;PREP
+außerhalb;outside;PREP
+um ... herum;around;ADV
+
