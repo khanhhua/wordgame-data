@@ -349,4 +349,31 @@ entgegen;against;PREP
 innerhalb;within;PREP
 außerhalb;outside;PREP
 um ... herum;around;ADV
-
+Bau;Construction;MAS
+Bundesstaat;Federal state;MAS
+Bundesregierung;Federal government;FEM
+Denkmal;Monument;NEU
+Einführung;Establishment;FEM
+Europäische Union;EU;FEM
+Flucht;Refuge;FEM
+Gegner;Rival;MAS
+Gewalt;Violence;FEM
+Macht;Power;FEM
+Soldat;Soldier;MAS
+Teil;Part;MAS
+Ursache;Cause;FEM
+Verlust;Loss;MAS
+fordern;to require;VER
+protestieren;to protest;VER
+Anzahl;Total;FEM
+Garantie;Guarantee;FEM
+Genehmigung;Approval;FEM
+Hit;Hit;MAS
+Konsequenz;Consequence;FEM
+Vorstellung;Introduction;FEM
+erscheinen;to appear;VER
+loben;to praise;VER
+zwingen;to force;VER
+angeblich;so-called;ADV
+eventuell;possible;ADJ
+hinterher;afterwards;ADV
