@@ -1,19 +1,19 @@
 {
-    "version": "1.0",
-    "author": "Khanh Hua",
-    "name": "Menschen",
-    "collections": [
-      {
-        "name": "A1 - Menschen",
-        "file": "A1.txt"
-      },
-      {
-        "name": "A2 - Menschen",
-        "file": "A2.txt"
-      },
-      {
-        "name": "B1 - Menschen",
-        "file": "B1.txt"
-      }
-    ]
-  }
+  "version": "1.0",
+  "author": "Khanh Hua",
+  "name": "Menschen",
+  "collections": [
+    {
+      "name": "A1 - Menschen",
+      "file": "A1.txt"
+    },
+    {
+      "name": "A2 - Menschen",
+      "file": "A2.txt"
+    },
+    {
+      "name": "B1 - Menschen",
+      "file": "B1.txt"
+    }
+  ]
+}

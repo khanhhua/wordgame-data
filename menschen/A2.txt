@@ -372,7 +372,7 @@ Gesamtschule;general school;FEM
 Grundschule;elementary school;FEM
 Gymnasium;highschool;DAS
 Gymnasien;highschools;PLU
-Hauptschule;lower secondary school ;FEM
+Hauptschule;lower secondary school;FEM
 Lehre;teaching;FEM
 Note;score;FEM
 Realschule;secondary school;FEM
