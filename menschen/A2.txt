@@ -117,7 +117,7 @@ Programm;Program;NEU
 Rundfunk;Radio broadcasting;MAS
 Sender;Broadcaster;MAS
 Serie;Series;FEM
-Spielfilm;Feature fiel;MAS
+Spielfilm;Feature film;MAS
 Video;Video;NEU
 Zuschauer;TV Viewer;MAS
 Anzug;Suit;MAS
