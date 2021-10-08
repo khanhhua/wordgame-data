@@ -91,7 +91,7 @@ Jeans;Jeans;PLU
 Konto;Account;NEU
 anhaben;to put on;VER
 Ehe;Marriage;FEM
-Erziehung;Relationship;FEM
+Erziehung;Education;FEM
 Generation;Generation;FEM
 Konflikt;Conflict;MAS
 Krieg;War;MAS
