@@ -1,0 +1,1198 @@
+Kater;Male cat;MAS
+verstecken;to hide;VER
+kratzen;to scratch;VER
+Feier;Celebration;FEM
+früher;before;ADV
+Husten;Cough;MAS
+erkälten;to catch a cold;VER
+Gedanke;Thought;MAS
+glaubt;believes;VER
+geklettert;climbed;VER
+Globus;Globe;MAS
+geführt;led;ADJ
+Wissen;Knowledge;NEU
+wieder;again;ADV
+fast;firm; fixed;ADV
+Wald;Forest;MAS
+Handtuch;Towel;NEU
+Fahrer;Driver;MAS
+Klebstoff;Glue;MAS
+richten;to aim;VER
+goldene;gold;ADJ
+umsonst;especially;ADV
+betrachten;to consider;VER
+Jaguar;Jaguar;MAS
+Radiergummi;Eraser;MAS
+Ansicht;Opinion;FEM
+aufgeweckt;awoken;ADJ
+wühlen;to dig;VER
+wahr;true;ADJ
+Spitze;Tip;FEM
+schlafen;to sleep;VER
+voraus;ahead;ADV
+Wände;Walls;PLU
+Weg;Way;MAS
+früh;early;ADJ
+Schnupfen;Cod;MAS
+wählen;to choose;VER
+anziehen;to put on;VER
+Herr;Sir;MAS
+eilen;to hurry;VER
+die;the;ART
+hervor;ago;ADV
+hinunter;down;ADV
+persönlich;personal;ADJ
+beißen;to bite;VER
+Urlaub;Holiday;MAS
+Geige;Violin;FEM
+verzaubern;to enchant;VER
+blüht;blooms;VER
+Spielplatz;Playground;MAS
+pflücken;to pick;VER
+jeder;each;PRO
+Möwe;Seagull;FEM
+Hälfte;Halves;FEM
+Waren;Goods;PLU
+wärmer;warmer;ADJ
+schütten;to shake;VER
+Eisenbahn;Railroad;FEM
+brannte;burned;VER
+Soße;Sauce;FEM
+entfernen;to remove;VER
+grün;green;ADJ
+Haare;Hairs;PLU
+ausgeben;to spend;VER
+für;for;PREP
+Post;Post office;FEM
+abenteuerlich;adventurous;ADJ
+salzig;salty;ADJ
+aufräumen;to clean up;VER
+sägen;to saw;VER
+beste;best;ADJ
+erklärt;explained;ADJ
+erschraken;to scare;VER
+dürfte;might;VER
+mag;like;VER
+tüchtig;capable;ADJ
+ausrutschen;to slip;VER
+Bohnen;Beans;PLU
+fressen;to eat;VER
+hob;lifted;VER
+eine;one;ART
+da;as;KON
+wenigstens;at least;ADV
+gegessen;eaten;ADJ
+erlebt;experienced;VER
+es;it;PRO
+vergaß;forgot;VER
+zerstören;to destroy;VER
+Kosten;Cost;PLU
+Temperatur;Temperature;FEM
+Gemüse;Vegetable;NEU
+dachte;thought;VER
+zugucken;to watch;VER
+gut;good;ADJ
+anstrengen;to strain;VER
+mitspielen;to join in;VER
+mixen;to mix;VER
+Bote;Messenger;MAS
+Reich;Kingdom;NEU
+Besen;Broom;MAS:PLU
+Luft;Air;FEM
+lachen;to laugh;VER
+heben;to lieft;VER
+konnten;could;VER
+auslachen;to laugh at;VER
+Fledermaus;Bat;FEM
+mahlen;to grind;VER
+gesungen;sung;ADJ
+morgen;tomorrow;ADV
+Ärzte;Doctors;PLU
+gefressen;eaten;ADJ
+Monat;Month;MAS
+heulen;to howl;VER
+geschickt;sent;ADJ
+moderne;modern;ADJ
+Nagel;Nail;MAS
+legen;to put;VER
+ihrem;her; your; their;PRO
+Daten;Data;PLU
+schweigen;to keep quiet;VER
+Marmelade;Marmelade;FEM
+gerissen;ripped;ADJ
+nie;never;ADV
+Sinn;Sense;MAS
+heimlich;secret;ADJ
+brav;brave;ADJ
+wirst;will;VER
+rechts;to the right; on the right;ADV
+Hörer;Headset;MAS
+raschelt;rustle;VER
+Tank;Tank;MAS
+Frisur;Hairstyle;FEM
+Backen;Baking;NEU
+Ordnung;Order;FEM
+Abmachung;Agreement;FEM
+Dose;Food can;FEM
+Sekunde;Second;FEM
+dürfen;may;VER
+schmieren;to smear;VER
+Kissen;Cushion;FEM
+fließen;to flow;VER
+fünf;five;NUM
+zahm;tame;ADJ
+Personen;People;PLU
+Schaufel;Shovel;FEM
+Sohle;Sole;FEM
+Geschwindigkeit;Speed;FEM
+bist;are;VER
+pflügen;to plough;VER
+merken;to notice;VER
+Geburt;Birthdate;MAS
+Welt;World;FEM
+Bücherei;Book store;FEM
+bleibt;stays;VER
+beten;to say one's pray;VER
+Jacht;Yacht;FEM
+Kopf;Head;MAS
+gemeinsam;common;ADV
+überfahren;to run sb. over;VER
+Mittwoch;Wednesday;MAS
+Vormittag;Morning;MAS
+weg;over;ADV
+ersten;first;ADJ
+Vorrat;Supply;MAS
+lieb;dear; good;ADJ
+Schirm;Screen;MAS
+Freude;Peace;FEM
+Balken;Beam;MAS
+Glut;Ember;FEM
+geklebt;stuck;ADJ
+Theater;Theater;NEU
+Ehre;Honor;FEM
+geradeaus;straight ahead;ADV
+klang;sounded;VER
+Sieg;Victory;MAS
+dir;you;PRO
+Busse;Busses;PLU
+Wunder;Wonder;NEU
+toll;great;ADJ
+Folge;Consequence;FEM
+Abendbrot;Supper;MAS
+gefielen;pleased;VER
+Kritik;Critique;FEM
+Blüte;Flower;FEM
+sonnig;sunny;ADJ
+Hahn;Cock;MAS
+Beschreibung;Description;FEM
+Spieß;Skewer;MAS
+beim;by;PREP
+anhalten;to stop;VER
+Gas;Gas;NEU
+Blitz;Lightning;MAS
+Kraft;Power;FEM
+Locken;Tresses;PLU
+entscheiden;to decide;VER
+Norden;North;MAS
+gekannt;known;ADJ
+Landschaft;Landscape;FEM
+kämmt;combt;VER
+Scherz;Joke;MAS
+Freizeit;Free time;FEM
+Kampf;Struggle;MAS
+reparieren;to fix;VER
+bluten;to bleed;VER
+Fernseher;TV;MAS
+taufen;to baptize;VER
+Rand;Rim;MAS
+Gegend;Area;MAS
+Mittag;Noon;MAS
+einfallen;to occur to sb;VER
+Zimmer;Room;NEU
+Werkstatt;Workstation;FEM
+hinauf;upwards;ADV
+allerdings;however;ADV
+Schuss;Shot;MAS
+Lohn;Salary;MAS
+Esel;Donkey;MAS
+Gefäß;Vessel;NEU
+Heft;Note;NEU
+Krone;Crown;FEM
+Stube;Room;FEM
+darauf;thereon;ADV
+neunzehn;nineteen;NUM
+stieß;kicked; bumped;VER
+Apfel;Apple;MAS
+hohl;hollow;ADJ
+aussuchen;to choose;VER
+Pilze;Mushrooms;PLU
+Ofen;Oven;MAS
+verstehen;to understand;VER
+baten;asked;VER
+Roller;Scooter;MAS:PLU
+lag;lied;VER
+blieb;stayed;VER
+erwartet;expected;ADJ
+weißt;knows;VER
+sitzen;to sit;VER
+Spiegel;Mirror;MAS
+Ball;Ball;MAS
+Ernte;Harvest;FEM
+sollten;should;VER
+Diktat;Dictator;MAS
+Schaum;Foam;MAS
+dieses;this;PRO
+Riese;Giant;MAS
+zwischen;between;PREP
+Maßband;Tape measure;NEU
+Unglück;Misfortune;NEU
+erfreuen;to delight;VER
+blond;blond;ADJ
+Bahnhof;Train station;MAS
+Christbaum;Christmas tree;MAS
+Frosch;Frog;MAS
+berichten;to report;VER
+welk;limp;ADJ
+rühren;to affect; to stir;VER
+Gasthaus;Guest house;NEU
+blutig;bloody;ADJ
+schlau;smart;ADJ
+am;at;PREP
+Beutel;Bag;MAS
+nirgends;nowhere;ADV
+Reh;Deer;NEU
+sofort;immediate;ADV
+Äpfel;Apples;PLU
+Klasse;Class;FEM
+Wut;Anger;FEM
+klar;clear;ADJ
+über;over;PREP
+Anfang;Beginning;MAS
+Maske;Mask;FEM
+gerufen;called;ADJ
+Kasse;Checkout;FEM
+nasse;wet;ADJ
+ebenso;alike;ADV
+Wetter;Weather;NEU
+dein;your;PRO
+Meinung;Opinion;FEM
+ziemlich;apparently;ADV
+Dächer;Roofs;PLU
+Klee;Clover;MAS
+warnen;to warm up;VER
+verbessern;to improve;VER
+strahlen;to shine;VER
+normal;normal;ADJ
+Achse;Axis;FEM
+schließen;to close;VER
+ernähren;to feed;VER
+spüren;to feel;VER
+sechzehn;sixteen;NUM
+Sitz;Seat;MAS
+Rohr;Pipe;NEU
+loben;to praise;VER
+eifrig;eager;ADJ
+Abend;Evening;MAS
+Speer;Spear;MAS
+Qualität;Quality;FEM
+Mohrrübe;Carrot;FEM
+hier;here;ADV
+Blume;Flower;FEM
+zurück;back;ADV
+flogen;flown;VER
+ihm;him;PRO
+Zitrone;Lemon;FEM
+höher;higher;ADJ
+nirgendwo;nowhere;ADV
+Haushalt;Household;MAS
+allen;all;PRO
+Unterricht;Education;MAS
+Bayern;Bavaria;NEU
+bellt;barks;VER
+wärmen;to warm up;VER
+heiser;hoarse;ADJ
+Publikum;Audience;NEU
+kneten;knead;VER
+Ausnahme;Exception;FEM
+höflich;polite;ADJ
+tatsächlich;actual;ADV
+einst;once;ADV
+dich;you;PRO
+notwendig;required;ADJ
+deutlich;clear;ADJ:ADV
+Vogel;Bird;MAS
+Feiertag;Holiday;MAS
+Hunger;Hunger;MAS
+verlangen;to demand;VER
+Krippe;Manger;FEM
+brummt;hums;VER
+Geschichte;Story;FEM
+kehren;to bend;VER
+handelt;handles;VER
+Kanne;can, pot;FEM
+Fisch;Fish;MAS
+Unterstützung;Support;FEM
+Form;Shape;FEM
+herauskommen;to come out;VER
+achten;to respect;VER
+braucht;needs;VER
+mähen;to mow;VER
+hilft;helps;VER
+Vulkan;Volcano;MAS
+fort;gone;ADJ
+Restaurant;Restaurant;NEU
+ersetzen;to replace;VER
+Mehl;Flour;NEU
+sollen;should;VER
+Königin;Queen;FEM
+Karotte;Carot;FEM
+meistens;mostly;ADV
+Hecke;Hedge;FEM
+liebt;loves;VER
+Kabel;Cable;NEU
+fürchterlich;terrible;ADJ
+spitz;sharp;ADJ
+hören;to hear;VER
+Storch;Stork;MAS
+toben;to rage;VER
+Gewalt;Violence;FEM
+Programm;Program;NEU
+zustimmen;to agreen;VER
+Gewand;Garment;NEU
+hatte;had;VER
+Gelände;Area;NEU
+anzünden;to ignite;VER
+Namen;Names;PLU
+sieht;sees;VER
+Krankheit;Sickness;FEM
+Werk;Work;NEU
+Strauch;Shrub;MAS
+wie;how;PRO
+streng;strict;ADJ
+Ausrede;Excuse;FEM
+müssen;to have (to);VER
+stimmen;to voice;VER
+erforschen;to research;VER
+wirft;throws;VER
+Schnur;String;FEM
+Rest;Rest;MAS
+Angabe;Information given;FEM
+kneifen;pinch;VER
+Milliarde;Billion;FEM
+Brot;Bread;NEU
+Kontrolle;Control;FEM
+Mitte;Middle;FEM
+Pflaumen;Plums;PLU
+erzählt;told;VER
+geschenkt;given as gift;ADJ
+Geräusch;Noise;NEU
+höchstens;at most;ADV
+Beule;Bump, Dent;FEM
+quälen;to torment;VER
+verletzt;injured;ADJ
+wird;will;VER
+pflegt;tends;VER
+Westen;Vests;PLU
+warten;to wait;VER
+untergehen;to go down;VER
+Blech;Metal sheet;NEU
+Meerschweinchen;Guinea pigs;NEU:PLU
+doch;but; even;;PAR
+heiraten;to marry;VER
+tapfer;brave;ADJ
+Fabrik;Factory;FEM
+mindestens;at least;ADV
+Interesse;Interest;NEU
+längst;long;ADV
+Klima;Climate;NEU
+Autofahrer;Driver;MAS
+Grenze;Border;FEM
+Angebot;Offer;NEU
+nachdenken;to ponder;VER
+anfangen;to begin;VER
+hacken;to chop, to mince;VER
+eckig;awkward;ADJ
+winzig;tiny;ADJ
+werfen;to throw;VER
+viel;much;ADJ:ADV
+wenn;if;PRO
+siebzig;seventy;NUM
+vergessen;to forget;VER
+niemals;never;ADV
+aussteigen;to get out;VER
+Fahrräder;Bicycler;MAS:PLU
+Hals;Throat;MAS
+Macht;Power;FEM
+Quark;Curd;MAS
+rosa;pink;ADJ
+Feuerwehr;Fire brigade;FEM
+wurden;would;VER
+bemerken;to notice;VER
+Stoff;Material;MAS
+Führung;Leadership;FEM
+ausstehen;to stand, to bear;VER
+aussehen;to appear;VER
+Möhre;Carrot;FEM
+Ergebnis;Result;NEU
+aß;ate;VER
+erhalten;to receive;VER
+gewesen;been;VER
+Skizze;Sketch;FEM
+Nuss;Nut;FEM
+Ferien;Holiday;PLU
+diesem;for this;ART
+Rennen;Race;NEU:PLU
+gepfiffen;whistled;VER
+haben;to have;VER
+Rathaus;Townhall;NEU
+schwer;hard;ADJ
+verschieden;different;ADJ
+grüßen;to greet;VER
+hielten;held;VER
+Sprudel;Sparkling water;MAS
+Tube;Tube;FEM
+schafft;makes;VER
+ob;whether;PRO
+einschalten;to switch on;VER
+roch;smelled;VER
+Stellung;Position;FEM
+Bevölkerung;Population;FEM
+Cent;Cent;MAS
+friedlich;peaceful;ADJ
+Mühle;Mill;FEM
+gegangen;gone;VER
+bestehen;to endure;VER
+erklärte;explained;VER
+schlug;stroke;VER
+brechen;to break;VER
+Bühne;Stage;FEM
+Dampfer;Steamer;MAS
+erwischen;to catch;VER
+Bank;Bank;FEM
+besonders;especially;ADV
+August;August;MAS
+Bogen;Arc;MAS
+Plastik;Plastic;NEU
+Vorfahrt;Priority;FEM
+Großvater;Grandfather;MAS
+Ameise;Ant;FEM
+nicht;not;ADV
+bedeuten;to mean;VER
+blass;faint;ADJ
+Dach;Roof;NEU
+Metall;Metal;NEU
+Freundin;Girlfriend;FEM
+anstrengend;restrictive;ADJ
+herunter;downwards;ADV
+begonnen;begun;VER
+anschauen;to look at;VER
+Aufgabe;Task;FEM
+Eis;Ice;NEU
+abtrocknen;to dry off;VER
+Anorak;Anorak;MAS
+Motorrad;Motorcycle;NEU
+Tanker;Oil tanker;MAS:PLU
+Aal;Eel;MAS
+Korn;Corn, Grain;NEU
+Briefmarke;Stamp;FEM
+Blatt;Sheet;NEU
+Bauer;Famer;MAS
+Weihnachten;Christmas;NEU
+dafür;for that;ADV
+erwidern;to repond;VER
+Wellen;Waves;PLU
+aufwachen;to wake up;VER
+bog;turned;VER
+aus;out;PREP
+Amsel;Blackbird;FEM
+Arbeit;Work;FEM
+parken;to park;VER
+abschreiben;to write sth off;VER
+Bleistift;Pencil;MAS
+Aussehen;Appearance;NEU
+Biss;Bite;MAS
+ausmachen;to account for;VER
+bedeutet;means;VER
+daneben;next to it;ADV
+bleich;pale;ADJ
+belohnen;to reward;VER
+Ast;Branch;MAS
+bleiben;to stay;VER
+Künstler;Artist;MAS
+Bericht;News, Report;MAS
+Busch;Bush;MAS
+bauen;to build;VER
+nass;wet;ADJ
+arm;poor;ADJ
+anrufen;to call;VER
+gleichzeitig;concurrent;ADJ
+Abstand;Distance;NEU
+ganz;totally;ADJ
+neun;nine;NUM
+Cousin;cousin;MAS
+Schinken;Ham;MAS
+Autobahn;Highway;FEM
+boxen;to box;VER
+Linie;Line;FEM
+beginnen;to begin;VER
+Besuch;Visit;MAS
+kämmen;to comb;VER
+Schlucht;Canyon;FEM
+ausführlich;detailed;ADJ
+spucken;to spit;VER
+ausgelesen;selected;ADJ
+faul;lazy;ADJ
+Clown;Clown;MAS
+gib;gave;VER
+bieten;to offer;VER
+beide;both;PRO
+gähnen;to yawn;VER
+gewusst;aware;ADJ
+aufnehmen;to take in;VER
+Bus;Bus;MAS
+ein;a;ART
+bei;by;PREP
+Igel;Hedgehog;MAS:PLU
+Bewegung;Move;FEM
+auseinander;out of each other;PREP
+Geschmack;Favor;MAS
+Mähne;Crest;FEM
+Warnung;Warning;FEM
+ängstlich;anxious;ADJ
+Braten;Roast;MAS
+Lieblingslied;Favorite song;NEU
+auch;also;ADV
+Autor;Author;MAS
+wach;woke;VER
+nachmachen;to resemble;VER
+streuen;to spread;VER
+empfahl;Recommended;VER
+falten;to fold;VER
+Axt;Axe;FEM
+Bäche;Streams;PLU
+Höhle;Hole;FEM
+beeilen;to hurry;VER
+aufhängen;to hang;VER
+durstig;thirsty;ADJ
+Auftrag;Contract, Order;MAS
+angefasst;touched;ADJ
+Bild;Picture;NEU
+alles;all;PRO
+Sport;Sport;MAS
+Antwort;Answer;FEM
+Bonn;Bonn;NEU
+brennt;burns;VER
+Wellensittich;budgie;MAS
+gestoßen;pushed;ADJ
+aufstellen;to put up;VER
+erschrecken;to frighten;VER
+Minute;Minute;FEM
+Ärger;Anger;MAS
+Beitrag;Contribution;MAS
+Bau;Construction;MAS
+ärgert;annoyed;ADJ
+behält;keeps;VER
+annehmen;to accept;VER
+Verkäuferin;Seller;FEM
+bestellen;to order;VER
+anmalen;to paint;VER
+alt;old;ADJ
+ausprobieren;to try out;VER
+Schachtel;Package, Box;FEM
+Obst;Autumn;MAS
+Lehne;Backrest;FEM
+Ausland;Foreign;NEU
+bisher;until now;PREP
+Bier;Beer;NEU
+beschäftigen;to employ;VER
+rasch;quick;ADJ
+bat;asked;VER
+nur;only;ADV
+oben;on top;ADV
+bevor;before;PREP
+Herbst;Autumn;MAS
+Bescheid;Notice;MAS
+Ton;Clay;MAS
+Augen;Eyes;PLU
+ähnlich;similar;ADJ
+Sträucher;bushes;PLU
+Lärm;Noise;MAS
+Banane;Banana;FEM
+Land;Country;NEU
+dabei;thereby;ADV
+standen;stood;VER
+Zufall;Coincidence;MAS
+gegeben;given;ADJ
+beschreiben;to describe;VER
+ausziehen;to take off;VER
+Brause;Shower;FEM
+erfunden;to invent;VER
+Ähre;Wheat ear;FEM
+aufmachen;to open;VER
+länger;longer;ADJ
+Bach;Stream;MAS
+Bruder;Brother;MAS
+Adler;Eagle;MAS
+billig;cheap;ADJ
+verbinden;to connect;VER
+Haufen;Pile;MAS:PLU
+bekommen;to receive;VER
+Tier;Animal;NEU
+biegt;turns;VER
+Chor;Chor;MAS
+bücken;to bend down;VER
+dumm;stupid;ADJ
+Garage;Garage;FEM
+höchsten;highest;ADJ
+bot;offer;VER
+Papa;Daddy;MAS
+baden;to swim;VER
+wunderbar;wonderful;ADJ
+ahnen;to guess;VER
+befehlen;to command;VER
+Bälle;Balls;PLU
+Filzschreiber;Felt marker;MAS
+verhindern;to prevent;VER
+mitkommen;to come along;VER
+alarmieren;to alert;VER
+allein;alone;ADJ
+abreißen;to bite off;VER
+Christkind;Baby Jesus;NEU
+Pfeil;Arrow;MAS
+geschwommen;swum;VER
+bewegen;to move;VER
+empfangen;to begin;VER
+auf einmal;at once;ADV
+Adresse;Address;FEM
+Acker;Farmland;MAS
+brummen;to hum;VER
+Teer;Tar;MAS
+gering;low;ADJ
+wen;who;PRO
+Brücke;Bridge;FEM
+Burg;Castle;FEM
+gezeigt;shown;ADJ
+waren;were;VER
+aufessen;to eat up;VER
+Wachs;Wax;NEU
+unten;below, downstairs;ADV
+Brezel;Pretzel;FEM
+beliebt;popular;ADJ
+voll;full;ADJ
+Glanz;Gloss;MAS
+Pech;Bad luck;NEU
+Baum;Tree;MAS
+Läufer;Runner;MAS:PLU
+Ängste;Fears;PLU
+blamieren;to embarrass;VER
+Beet;Bed;NEU
+bin;am;VER
+liefern;to deliver;VER
+Bereich;Area;MAS
+bügeln;to iron;VER
+Vergnügen;Pleasure;NEU
+Erfolg;Success;MAS
+Berlin;Berlin;NEU
+einen;a;ART
+Gewicht;Weight;NEU
+aufstehen;to stand up;VER
+bricht;break;VER
+blind;blind;ADJ
+gefangen;caught;ADJ
+danach;after that;ADV
+von;from; of;PREP
+beinahe;almost;ADV
+genügen;to satisfy;VER
+Bonbon;Candy;NEU
+Doktor;Doctor;MAS
+Bibel;Bible;FEM
+borgen;to lend out;VER
+jedoch;though;KON
+vorbereiten;to prepare;VER
+Fluss;River;MAS
+Alm;Mountain pasture;FEM
+angeben;to declare;VER
+betteln;to begin;VER
+Abenteuer;Adventure;NEU
+bekam;received;VER
+Wohnung;Flat;FEM
+Schätze;Treasures;PLU
+Flöte;Flute;FEM
+Flagge;Flag;FEM
+entsetzlich;horrible;ADJ
+brüllen;to roar;VER
+Gipfel;Summit;MAS
+Bett;Bed;NEU
+wer;Who;PRO
+Band;Band;FEM
+sehr;very;ADV
+freundlich;friendly;ADJ
+allerlei;all kinds of;QUA
+begegnen;to meet;VER
+gewinnen;to win;VER
+fragen;to question;VER
+dann;then;ADV
+abends;every evening;ADV
+ausweichen;to avoid;VER
+Lastwagen;Truck;MAS:PLU
+besuchen;to visit;VER
+Dreck;Trash;MAS
+achtzehn;eighteen;NUM
+bestimmt;determines;VER
+gebeten;requested;ADJ
+bellen;to bark;VER
+herein;inwards;ADV
+blicken;to look;VER
+nahen;to draw near;VER
+backen;to bake;VER
+Diebstahl;Theft;MAS
+Gespräch;Conversation;NEU
+Bluse;Blouse;FEM
+Bucht;Bay;FEM
+Freund;Friend;MAS
+atmen;to breathe;VER
+auf;on, onto;PREP
+binden;to bind;VER
+ausreißen;to tear away;VER
+Zeitung;Newspaper;FEM
+lehnen (sich);to recline;VER
+Brille;Glasses;FEM
+Angst;Fear;FEM
+Aprikose;Apricot;FEM
+Chef;Boss;MAS
+Beeren;Berries;PLU
+bemerkt;notices;VER
+putzen;to clean;VER
+las;let;VER
+Gramm;Gram;NEU
+helfen;to help;VER
+Gefahr;Danger, Risk;FEM
+Turnschuhe;Sport shoes;PLU
+acht;eight;NUM
+trocknen;to dry;VER
+bitte;ask;VER
+brach;brought;VER
+Betrieb;Company;MAS
+Arm;Arm;MAS
+fehlen;to miss, to fail;VER
+bald;early;ADJ
+täglich;daily;ADJ
+beweisen;to prove;VER
+gar;really;ADV
+gebaut;built;ADJ
+ärgern;to annoy;VER
+Abfall;Trash;MAS
+schießen;to shoot;VER
+Ästen;Branches;PLU:DAT
+Kehle;Throat;FEM
+bequem;comfortable;ADJ
+Beil;Axe;NEU
+band;bound;VER
+bereit;ready;ADJ
+gebrauchen;to use;VER
+breit;wide;ADJ
+Büro;Office;NEU
+bringen;to bring;VER
+hassen;to hate;VER
+Bäume;Trees;PLU
+erraten;to guess;VER
+nimmt;takes;VER
+stützen;to support;VER
+Mitglied;Member;NEU
+trank;drank;VER
+Nudeln;Noodles;PLU
+angucken;to look at;VER
+retten;to rescue;VER
+turnen;to do gymnastics;VER
+Bein;Leg;NEU
+Bänder;Bands;PLU
+Cowboy;Cowboy;MAS
+Antenne;Antennae;FEM
+Abitur;Highschool graduation;NEU
+Benzin;Petrol;NEU
+natürlich;natural;ADJ
+Arbeiter;Worker;MAS:PLU
+benötigen;to require;VER
+Großmutter;Grandma;FEM
+neben;next to;PREP
+Badewanne;Bathtub;FEM
+damit;with that;ADV
+blühen;to bloom;VER
+älter;elderly;ADJ
+Botschaft;Embassy;FEM
+Dame;Lady;FEM
+Augenblick;Moment;MAS
+Terrasse;Terrace;FEM
+Computer;Computer;MAS:PLU
+Birne;Pear, Bulb;FEM
+bitter;bitter;ADJ
+Bart;Beard;MAS
+beachten;to respect;VER
+säen;to sow;VER
+aufgeben;to give up;VER
+bereits;ready;ADV
+drehen;to turn;VER
+daraus;thereof;ADV
+ansehen;to look at;VER
+hauen;to beat;VER
+Straßenbahn;Tram;FEM
+dadurch;thereby;ADV
+quieken;to squeak;VER
+Raum;Room;MAS
+Kilo;Kilogram;NEU:PLU
+besaß;possesses;VER
+Blase;Bubble, Bladder;FEM
+bekannt;known;ADJ
+ausschalten;to turn off;VER
+Tüte;Bag;FEM
+trägt;wears;VER
+ärmer;poorer;ADJ
+Brett;Board;NEU
+beißt;bites;VER
+Mäppchen;Pencil case;NEU
+küssen;to kiss;VER
+Ärztin;Doctor;FEM
+Suppe;Soup;FEM
+berichtet;reports;VER
+Blätter;Sheets;PLU
+Chance;Chance;FEM
+Nest;Nest;NEU
+Dampf;Steam;MAS
+zäh;tough;ADJ
+Ausstellung;Exhibition;FEM
+drohen;to threaten;VER
+Freundschaft;Friendship;FEM
+Butter;Butter;FEM
+hatten;had;VER
+beginnt;begins;VER
+Angel;Fishing rod;FEM
+reißen;to rip;VER
+Hilfe;Help;FEM
+blöd;stupid;ADJ
+Braut;Bride;FEM
+Ufer;Shore;NEU
+davon;thereof;ADV
+Horn;Horn;NEU
+Ampel;Traffic light;FEM
+man;people;PRO
+daran;thereon;ADV
+ärgerlich;angry;ADJ
+berühmt;famous;ADJ
+ändern;to change;VER
+Affe;Monkey;MAS
+Boden;Floor;MAS
+Hand;Hand;FEM
+Adjektiv;Adjective;NEU
+bitten;to ask;VER
+aufgeregt;excited;ADJ
+Schiff;Boat;NEU
+außen;outside;ADV
+Schäfer;Shepherd;MAS:PLU
+als;when;KON
+Ei;Egg;NEU
+artig;good;ADJ
+Schülerinnen;school girls;PLU
+bringt;brings;VER
+bestimmen;to determine;VER
+Lernen;Learning;NEU
+Brunnen;Well;MAS:PLU
+Allee;Avenue;FEM
+besorgen;to provide;VER
+erscheinen;to appear;VER
+basteln;to do handicrafts;VER
+heraus;out of here;ADV
+Prüfung;Test;FEM
+bietet;offers;VER
+sprachen;spoke;VER
+begriffen;understood;VER
+Laus;Louse;FEM
+Besucher;Visitor;MAS
+Birke;Birch;FEM
+umkehren;to turn around;VER
+fünfzehn;fifteen;NUM
+still;peaceful;ADJ
+bezahlen;to pay;VER
+Torte;Sweet cake;FEM
+aufschreiben;to write down;VER
+Wurm;Worm;MAS
+Frühjahr;Spring;NEU
+Ventil;Vent;NEU
+vernünftig;reasonable; rational;ADJ
+praktisch;practical;ADJ
+Räuber;Robber;MAS
+Riss;crack;MAS
+sollte;should;VER
+Weile;While;FEM
+Stand;Status;MAS
+Jeans;Jeans;PLU
+schnell;fast;ADJ
+Amerika;America;NEU
+daheim;at home;ADV
+schlagen;to strike;VER
+Engel;Angel;MAS:PLU
+Bedeutung;Meaning;FEM
+hinsetzen;to seat;VER
+wundern;to wonder;VER
+Dank;Thank;MAS
+Brei;Porridge;MAS
+an;at;PREP
+anders;other;ADJ
+Damm;Dam;MAS
+Herz;Heart;NEU
+bisschen;little;ADV
+Brauch;Practice;MAS
+begann;began;VER
+Bremsen;Brake;NEU
+saß;sat;VER
+erinnern;to remember;VER
+Aufsatz;Essay;MAS
+beantworten;to answer;VER
+einschlagen;to take; to smash;VER
+entdecken;to discover;VER
+benutzen;to use;VER
+Bub;Boy;MAS
+brachte;brought;VER
+danke;thank;VER
+Baby;Baby;NEU
+böse;bad;ADJ
+dazu;to that;ADV
+Kran;Cane;MAS
+Arzt;Doctor;MAS
+geweckt;aroused;ADJ
+Afrika;Africa;NEU
+gleich;likewise;ADJ
+einige;a few;PRO
+Mann;Man;MAS
+ausruhen;to relax;VER
+schrie;shouted;VER
+Aquarium;Aquarium;NEU
+abschneiden;to cut off;VER
+Atem;Breath;MAS
+traf;met;VER
+wirken;to have an affect;VER
+beschäftigt;employed;ADJ
+Sandalen;Sandals;PLU
+ab;off, from;PREP
+China;China;NEU
+sechs;six;NUM
+also;also;ADV
+Auto;Car;NEU
+Art;Kind;FEM
+besteht;endures;VER
+Ärmel;Sleeve;MAS:PLU
+Pause;Break;FEM
+Butterbrot;Butter bread;NEU
+möchten;would like;VER
+dauern;to last;VER
+machen;to make;VER
+Zebra;Zebra;NEU
+Büchse;Box;FEM
+betreten;to enter sth;VER
+cool;cool;ADJ
+wäre;were;VER
+allmählich;gradual;ADJ
+geschnitten;cut;ADJ
+Käufer;Buyer;MAS
+hoffentlich;hopefully;ADJ
+Bagger;Excavator;MAS:PLU
+abgeben;to submit;VER
+Buchstaben;Letters, Characters;PLU
+aufmerksam;attentive;ADJ
+achtzig;eighty;NUM
+bunt;colorful;ADJ
+andauernd;continuous;ADJ
+Daumen;Thumb;MAS
+Abschuss;Launch;MAS
+würfeln;to throw dice;VER
+könnten;could;VER
+auffressen;to eat up;VER
+Witz;Joke;MAS
+gelingen;to succeed;VER
+Schülerin;school girl;FEM
+bereiten;to prepare;VER
+neulich;recently;ADJ
+Faden;Thread;MAS
+glänzen;shine;VER
+neugierig;curious;ADJ
+Bäcker;Baker;MAS:PLU
+biegen;to turn;VER
+Wechsel;Change;MAS
+Bad;Bathroom;NEU
+verirren;to lose one's way;VER
+aufregen;to excite;VER
+Anker;Anchor;MAS
+blau;blue;ADJ
+Alarm;Alarm;MAS
+passen;to fit;VER
+stehlen;to steal;VER
+Anzug;Suit;MAS
+liefen;walked;VER
+bloß;mere;ADJ
+Appetit;Appetite;MAS
+aufbauen;to set up;VER
+Beispiel;Example;NEU
+Artikel;Article;MAS
+Kühe;Cows;PLU
+hinter;behind;PREP
+Rock;Skirt;MAS
+dagegen;against that;ADV
+Zweig;Twig;MAS
+anfassen;to touch;VER
+Lesebuch;Reading book;NEU
+Entscheidung;Decision;FEM
+Angeber;Bragger;MAS
+Blut;Blood;NEU
+tanzen;to dance;VER
+Berichtigung;Correction;FEM
+übermorgen;day after tomorrow;ADV
+danken;to thank;VER
+begeistern;to thrill;VER
+bürsten;to brush;VER
+Brötchen;Bread;NEU
+abbauen;to take apart;VER
+brennen;to burn;VER
+ankommen;to arrive;VER
+damals;back that time;ADV
+Biber;Beaver;MAS
+qualmt;gives out thick smoke;VER
+Dackel;Dachshund;MAS:PLU
+Bär;Bear;MAS
+Balkon;Balcony;MAS
+Heimat;Homeland;FEM
+April;April;MAS
+anspringen;to start up;VER
+Belohnung;Reward;FEM
+abholen;to pick up;VER
+abnehmen;to lose weight;VER
+braun;brown;ADJ
+arbeiten;to work;VER
+Spaten;Spade;MAS
+Kragen;Collar;MAS
+Hirte;Shepherd;MAS
+ich;I;PRO
+angeln;to fish;VER
+dampfen;to steam;VER
+Kurbel;Crank;FEM
+Meister;Master;MAS
+Bauch;Stomache;MAS
+aufheben;to pick up;VER
+aufreißen;to tear up;VER
+brauchst;need;VER
+lecker;delicious;ADJ
+marschieren;to march;VER
+Buchen;Booking;NEU
+beobachten;to observe;VER
+empfiehlt;recommends;VER
+zerreißen;to bite up;VER
+bummeln;to stroll;VER
+blasen;to blow;VER
+sauber;clean;ADJ
+Blick;View;MAS
+Ananas;Pineapple;FEM
+Probe;Sample;FEM
+Tee;Tea;MAS
+bis;until;PREP
+Apfelsine;Orange;FEM
+Dachs;Badger;MAS
+Strauß;Flower bouquet;MAS
+Asche;Ash;FEM
+Jahrhundert;Century;NEU
+rasten;to rest;VER
+Buch;Book;NEU
+flüssig;fluent;ADJ
+Amt;Office;NEU
+Beine;Legs;PLU
+betragen;to account for;VER
+Paar (ein glückliches P.);Pair;NEU
+einladen;to invite;VER
+Moor;Swamp;NEU
+Bürger;Citizen;MAS:PLU
+Ahnung;Idea;FEM
+Anfänger;Beginner;MAS
+groß;big;ADJ
+Stoß;Impact;MAS
+alle;all;PRO
+Beruf;Job;MAS
+Waffe;Weapon;FEM
+Begeisterung;Enthusiasm;FEM
+brauchen;to need;VER
+flach;flat;ADJ
+Hammer;Hammer;MAS
+Brüder;Brothers;PLU
+besten;best;ADJ
+Mehrheit;Majority;FEM
+Bürste;Brush;FEM
+Mannschaft;Club;FEM
+Absicht;Intention;FEM
+Dämmerung;Dawn;FEM
+gebrochen;broken;ADJ
+Astronaut;Astronaut;MAS
+Küche;Kitchen;FEM
+heilen;to heal;VER
+bekommt;receives;VER
+Bücher;Books;PLU
+aufhören;to stop;VER
+Alter;Age;NEU
+besser;better;ADJ
+Campingplatz;Campin ground;MAS
+ausgehen;to run out, to finish;VER
+Becher;Cup;NEU
+überlegen;to consider;VER
+behalten;to keep;VER
+aßen;ate;VER
+aber;but;KON
+Stuhl;Chair;MAS
+Kartoffeln;Potatoes;PLU
+blitzen;to flash;VER
+bilden;to train;VER
+Erlebnis;Experience;NEU
+anlegen;to invest;VER
+Biene;Bee;FEM
+Äste;Branches;PLU
+Bahn;Track;FEM
+außer;except;KON
+blieben;stayed;VER
+Aufregung;Excitement;FEM
+Hamster;Hamster;MAS:PLU
+dort;there;ADV
+Geld;Money;NEU
+Wahrheit;Truth;FEM
+Weise;Manner;FEM
+Juni;June;MAS
+Feuer;Fire;NEU
+aufpassen;to watch out;VER
+Anteil;Share;MAS
+bohren;to drill;VER
+irgendwas;Something;PRO
+losen;to draw;VER
+Apfelsaft;Apple juice;MAS
+braten;to roast;VER
+überraschen;to surprise;VER
+frisch;fresh;ADJ
+gibt;gives;VER
+Keller;Celler;MAS
+Brief;Mail;MAS
+Löffel;Spoon;MAS
+aufwecken;to rouse;VER
+Boot;Boat;NEU
+Ausflug;Excusion;MAS
+hetzen;to rush;VER
+heftig;violent;ADJ
+bellte;barked;VER
+Bauplatz;Buidling site;MAS
+Eichhörnchen;squirrel;NEU:PLU
+besitzen;to possess;VER
+Elefant;Elephant;MAS
+bremsen;to brake;VER
+abbiegen;to turn from;VER
+ausdenken;to think up;VER
+Berg;Mountain;MAS
+abmachen;to arrange;VER
+eilig;hurried;ADJ
+Batterie;Battery;FEM
+Korb;Basket;MAS:PLU
+schlimm;bad;ADJ
+gestohlen;stolen;ADJ
+Bedienung;Service;FEM
+beschließen;to decide;VER
+Feld;Field;NEU
