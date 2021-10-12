@@ -155,7 +155,7 @@ möglich;possible;ADJ
 sprechen;to speak;VER
 während;during;PREP
 Haus;er (noun) house;NEU
-Fall;e, fall, case;MAS
+Fall;e, fall, case;FEM
 eigen;one’s own;ADJ
 bringen;to bring, take;VER
 Leute;people;FEM
@@ -294,7 +294,7 @@ Buch;book;NEU
 legen;to put, lay (in a horizontal position);VER
 Wasser;water;NEU
 Stelle;place;FEM
-vor•stellen;to introduce, imagine;VER
+vorstellen;to introduce, imagine;VER
 Form;form, shape;FEM
 handeln;to deal, trade;VER
 Mark;mark (former unit of German currency);FEM
@@ -338,7 +338,7 @@ allgemein;general;ADJ
 Raum;e (adj.) room, space;MAS
 Blick;look, view, glance;MAS
 einzig;only, single;ADJ
-dar•stellen;to depict, portray;VER
+darstellen;to depict, portray;VER
 Platz;e (noun) place, room, square;MAS
 Zahl;number;FEM
 gemeinsam;common, mutual;ADJ
@@ -353,7 +353,7 @@ früher;earlier, in former times;ADV
 Straße;street;FEM
 reden;to talk;VER
 voll;full;ADJ
-aus•sehen;to appear, look (a certain way);VER
+aussehen;to appear, look (a certain way);VER
 erscheinen;to appear;VER
 mehrere;several;PRO
 Minute;minute;FEM
@@ -368,7 +368,7 @@ dadurch;through it, as a result;ADV
 direkt;direct, straight;ADJ
 international;international;ADJ
 sozial;social;ADJ
-an•fangen;to begin;VER
+anfangen;to begin;VER
 best-;best;ADJ
 bisher;until now;ADV
 erwarten;to expect;VER
@@ -429,7 +429,7 @@ ergeben;to result in, yield;VER
 dagegen;against it, on the other hand;ADV
 häufig;frequent;ADJ
 Lehrer;teacher;MAS
-an•bieten;to offer;VER
+anbieten;to offer;VER
 ebenso;just as, as much as, as well;ADV
 studieren;to study;VER
 danach;after it, afterwards;ADV
@@ -439,7 +439,7 @@ Begriff;concept, idea, term;MAS
 Funktion;function;FEM
 verbinden;to connect, link;VER
 ziemlich;quite, fairly;ADV
-an•sehen;to look at, watch;VER
+ansehen;to look at, watch;VER
 Boden;(noun) ground, floor, bottom;MAS
 fehlen;to lack, to be missing, be absent (+ dat. obj.);VER
 Jahrhundert;century;NEU
@@ -471,14 +471,14 @@ Politik;politics;FEM
 verlassen;to leave;VER
 manch-;some, many a;PRO
 bald;soon;ADV
-ein•setzen;to put in, insert;VER
+einsetzen;to put in, insert;VER
 Beruf;occupation, job, profession;MAS
 praktisch;practical;ADJ
 ändern;to change;VER
 genug;enough;ADV
 persönlich;personal(ly);ADJ
 wachsen;to grow;VER
-aus•gehen;to go out;VER
+ausgehen;to go out;VER
 Regel;rule;FEM
 Schritt;step;MAS
 -jährig;-year-old;ADJ
@@ -490,7 +490,7 @@ beschreiben;to describe;VER
 Beziehung;relation, relationship;FEM
 Erfahrung;experience;FEM
 Tisch;table;MAS
-an•nehmen;to accept, assume;VER
+annehmen;to accept, assume;VER
 endlich;finally, at last;ADV
 kriegen;to get, receive;VER
 Zukunft;e (noun) future;FEM
