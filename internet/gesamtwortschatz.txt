@@ -33,7 +33,7 @@ voraus;ahead;ADV
 Wände;Walls;PLU
 Weg;Way;MAS
 früh;early;ADJ
-Schnupfen;Cod;MAS
+Schnupfen;Cold;MAS
 wählen;to choose;VER
 anziehen;to put on;VER
 Herr;Sir;MAS
