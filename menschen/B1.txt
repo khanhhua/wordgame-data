@@ -417,3 +417,44 @@ meinetwegen;because of me;ADV
 nebenbei;außerdem;ADV
 offenbar;adjective;ADJ
 sowieso;so oder so;ADV
+Abgas;Exhaust;NEU
+Absicht;Intention;FEM
+Altenheim;Old people's home;NEU
+Entfernung;Distance;FEM
+Entlassung;Release;FEM
+Kritik;Criticism;FEM
+Nachfrage;Inquiry question;FEM
+Planung;Planning;FEM
+Prozess;Process;MAS
+Smog;Smog;MAS
+Technologie;Technology;FEM
+Verbrechen;Crime;NEU:PLU
+Wirklichkeit;Reality;FEM
+Zweifel;Doubt;MAS
+beschließen;to resolve;VER
+erhöhen;to increase;VER
+klagen;to wail;VER
+realisieren;to realize;VER
+verändern;to change;VER
+vergrößern;to enlarge;VER
+zweifeln;to doubt;VER
+abhängig;dependent;ADJ
+ewig;forever;ADJ
+Blatt;Page;NEU
+Distanz;Distance;FEM
+Einzelheit;Detail;FEM
+Metzgerei;Butcher's shop;FEM
+Pflaume;Plum;FEM
+Reihe;Row;FEM
+Rollstuhl;Wheelchair;MAS
+anzünden;to light up;VER
+begründen;to found;VER
+anwesend;present;ADJ
+abwesend;absent;ADJ
+reif;ripe;ADJ
+allmählich;gradually;ADJ
+anfangs;at first;ADV
+anscheinend;apparently;ADJ
+nebenan;next-door;ADV
+damit;in order to;KON
+um ... zu;in order to;KON
