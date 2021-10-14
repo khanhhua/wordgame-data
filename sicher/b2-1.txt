@@ -1,0 +1,87 @@
+Herkunft;Origin;FEM
+Motiv,-e;Motivation;NEU
+entwerfen,entwarf, hat entworfen;to design;VER
+kommentieren;to comment;VER
+Alternative,-n;Alternative;FEM
+Aufzählung,-en;Enumeration list;FEM
+Enschränkung,-en;Restriction;FEM
+Gegensatz,:e;Opposite statement;MAS
+Geschmack,:er;Taste;MAS
+Missvertändnis,-se;Misunderstanding;NEU
+Neuigkeit,-en;Piece of news;FEM
+Umfrage,-n;Survey;FEM
+anvertrauen;to entrust sth to sb;VER
+jdm etwas ausmachen;to constitute;VER
+bezeichnen;to call sb sth;VER
+verlassen,verließ, hat verlassen;to leave;VER
+verlassen auf AKK;to rely on sb;VER:RVER
+verstehen,vertand, hat verstanden;to understand;VER
+verstehen unter DAT;to understand sth by sth;VER
+hin- und hergerissen sein;to be unsure;VER
+verlieren,verlor, hat verloren;to lose;VER
+aus den Augen verlieren;to lose sight of;VER:RVER
+einerseits;on one hand;ADV
+anderseits;on the other hand;ADV
+Auftrag,:e;Task;MAS
+in Auftrag geben;to give instructions;VER
+Daten;Data;PLU
+Daten auswerten;to analyze data;VER
+Daten erfassen;to grasp data;VER
+Erdbevölkerung;Earth's population;FEM
+Fakt,-en;Fact;MAS
+Freundschaftsanfrage,-n;Friend request;FEM
+Nutzer,-;User;MAS:PLU
+Redensart,-en;Empty word;MAS
+ermöglichen;to enable;VER
+vernetzt sein;to be connected;VER
+über sechs Ecken kennen;to know sb not so well;VER
+kennen,kannt, hat gekannt;to know;VER
+mittlerweile;in the meantime;ADV
+Ankündigung,-en;Announcement;FEM
+Eindruck,:e;Impression;MAS
+den Eindruck haben;to have an expression;VER
+Gesprächsrunde,-n;Discussion round;FEM
+Ratgeber,-;Adviser;MAS:PLU
+Verwirrung;Confusion;FEM
+auffallen,fiel auf, ist aufgefallen;to stand out;VER
+feststellen;to establish;VER
+oberflächlich;superficial;ADJ
+Bedürfnis,-se;Necessity;NEU
+Beziehung,-en;Relationship;FEM
+eine Beziehung haben;to have a relationship;VER
+Dankbarkeit;Gratitude;FEM
+Emotion,-en;Emotion;FEM
+Komiker,-;Clown;MAS:PLU
+Lebensabschnitt,-e;Chapter in one's life;MAS
+Lebensphase,-n;Phase of one's life;FEM
+Teenager,-;Teenager;MAS
+zusammenkomment mit;to meet sb;VER
+befreundet sein mit;to be friend with;VER
+Freundschaft schließen mit;to make friend with;VER
+Altersunterschied,-e;Age difference;MAS
+Einblick,-e;Insight;MAS
+Feedback,-s;Feedback;NEU
+Folie,-n;Foil;FEM
+Inhaltsverzeichnis,-se;Table of contents;NEU
+Konkurrent,-en;Competitor;MAS
+Übergang,:e;Transition;MAS
+erwähnen;to mention;VER
+abenteuerlustig;adventurous;ADJ
+außergewöhnlich;exceptional;ADJ
+extrovertiert;extrovert;ADJ
+hilfsbereit;helpful;ADJ
+introvertiert;introvert;ADJ
+nachdenklich;thoughtful;ADJ
+risikofreudig;venturesome;ADJ
+rücksichtslos;reckless;ADJ
+rücksichtsvoll;considerate;ADJ
+Auswertung,-en;Analysis;FEM
+Rückseite,-n;Reverse side;FEM
+Vorderseite,-n;Front side;FEM
+bewerten;assess;VER
+gestalten;to shape;VER
+Kontakte pflegen;to socialize;VER
+Besen,-;Broom;MAS:PLU
+sorgen für;to care for;VER
+vertraut machen mit;to acquaint sb with sth;VER:RVER
+mental;mental;ADJ:ADV
