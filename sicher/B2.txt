@@ -31,7 +31,7 @@ Erdbevölkerung;Earth's population;FEM
 Fakt,-en;Fact;MAS
 Freundschaftsanfrage,-n;Friend request;FEM
 Nutzer,-;User;MAS:PLU
-Redensart,-en;Empty word;MAS
+Redensart,-en;Empty word;FEM
 ermöglichen;to enable;VER
 vernetzt sein;to be connected;VER
 über sechs Ecken kennen;to know sb not so well;VER
