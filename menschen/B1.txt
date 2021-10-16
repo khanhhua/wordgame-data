@@ -1,24 +1,24 @@
-Bedeutung;meaning;FEM
-Dialekt; Direct;MAS
-Durchsage;Announcement;FEM
-Missverständnis;Misunderstanding;NEU
+Bedeutung,-en;meaning;FEM
+Dialekt,-e; Direct;MAS
+Durchsage,-n;Announcement;FEM
+Missverständnis,-se;Misunderstanding;NEU
 folgen;to follow;VER
-missverstehen;to misunderstand;VER
+missverstehen,missverstand, hat missverstanden;to misunderstand;VER
 deutlich;clear;ADJ
 durcheinander;confusingly;ADV
 peinlich;embarrassed;ADJ
 aus diesem Grund;for this reason;ADV
 deswegen;therefore;ADV
 wegen;because of;PRE
-Amt;Office;NEU
-Anwalt;Lawyer;MAS
-Bank;Bank;FEM
+Amt,:er;Office;NEU
+Anwalt,:e;Lawyer;MAS
+Bank,-en;Bank;FEM
 Beamte;Official clerk;MAS
-Briefträger;Postman;MAS
-Datei;Data;FEM
-Flug;Fly;MAS
-Kursleiter;Course instructor;MAS
-Nagel;Finger nail;FEM
+Briefträger,-;Postman;MAS
+Datei,-en;Data;FEM
+Flug,:e;Fly;MAS
+Kursleiter,-;Course instructor;MAS
+Nagel,:;Finger nail;FEM
 abfliegen;to fly off;VER
 beißen;to bite;VER
 besorgen;to care for;VER
@@ -26,28 +26,28 @@ erschrecken;to scare;VER
 augenblicklich;momentarily;ADV
 böse;evil;ADJ
 Atem;Breath;MAS
-Eindruck;Impress;MAS
-Erwachsenenbildung;Adult education;FEM
-Fantasie;Fantasy;FEM
-Gefahr;Danger;FEM
-Geschmack;Aroma;MAS
-Gewürz;Seasoning;NEU
-Grundlage;Basis;FEM
-Kultur;Culture;FEM
-Möglichkeit;Possibility;FEM
-Nadel;Needle;FEM
-Rest;Rest;MAS
-Richtung;Direction;FEM
-Geschmacksrichtung;Taste;FEM
-Stilrichtung;Music style;FEM
-Himmelsrichtung;Direction;FEM
-Schere;Scissors;FEM
-Senior;Senior;MAS
-Software;Software;FEM
-Stimme;Voice;FEM
-Tatent;Talent;NEU
-Teilnehmer;Participant;MAS
-Voraussetzung;Prerequisite;FEM
+Eindruck,:e;Impress;MAS
+Erwachsenenbildung,-en;Adult education;FEM
+Fantasie,-n;Fantasy;FEM
+Gefahr,-en;Danger;FEM
+Geschmack,:e;Aroma;MAS
+Gewürz,:e;Seasoning;NEU
+Grundlage,-n;Basis;FEM
+Kultur,-en;Culture;FEM
+Möglichkeit,-en;Possibility;FEM
+Nadel,-n;Needle;FEM
+Rest,-e;Rest;MAS
+Richtung,-en;Direction;FEM
+Geschmacksrichtung,-en;Taste;FEM
+Stilrichtung,-en;Music style;FEM
+Himmelsrichtung,-en;Direction;FEM
+Schere,-n;Scissors;FEM
+Senior,-en;Senior;MAS
+Software,-s;Software;FEM
+Stimme,-n;Voice;FEM
+Tatent,-e;Talent;NEU
+Teilnehmer,-;Participant;MAS
+Voraussetzung,-en;Prerequisite;FEM
 entdecken;to discover;VER
 laden;to load;VER
 aufladen;to charge;VER
@@ -59,22 +59,22 @@ notwendig;necessary;ADJ
 reich;rich;ADJ
 rückwärts;backward;ADJ
 staatlich;state owned;ADJ
-Betreuung;Personal care;FEM
-Dichter;Judge;MAS
-Industrie;Industry;FEM
-Mittel;Medium;NEU
+Betreuung,-en;Personal care;FEM
+Dichter,-;Judge;MAS
+Industrie,-n;Industry;FEM
+Mittel,-;Medium;NEU
 Physik;Physics;FEM
-Präsident;President;MAS
-Presse;Press;FEM
-Recherche;Research;FEM
-Reporter;Reporter;MAS
-Rufnummer;Telephone number;FEM
-Schicht;Layer;FEM
-Schrift;Writing;FEM
-Sozialarbeiter;Social worker;MAS
-Unternehmen;Company;NEU
-Unternehmer;Company owner;MAS
-Wissenschaftler;Scientist;MAS
+Präsident,-en;President;MAS
+Presse,-n;Press;FEM
+Recherche,-n;Research;FEM
+Reporter,-;Reporter;MAS
+Rufnummer,-n;Telephone number;FEM
+Schicht,-en;Layer;FEM
+Schrift,-en;Writing;FEM
+Sozialarbeiter,-;Social worker;MAS
+Unternehmen,-;Company;NEU
+Unternehmer,-;Company owner;MAS
+Wissenschaftler,-;Scientist;MAS
 annehmen;to accept;VER
 einstellen;to put in;VER
 entwickeln;to develop;VER
@@ -86,20 +86,21 @@ einzeln;individual;ADJ
 sicher;sure;ADJ
 Abschnitt;Paragraph;MAS
 Acht geben;to pay attention;VER
-Fleck;Spot;MAS
+Fleck,-en;Spot;MAS
 Jeans;Jeans;PLU
-Konto;Account;NEU
+Konto,-s;Account;NEU
+Konten;Accounts;PLU
 anhaben;to put on;VER
-Ehe;Marriage;FEM
-Erziehung;Education;FEM
-Generation;Generation;FEM
-Konflikt;Conflict;MAS
-Krieg;War;MAS
-Kuss;Kiss;MAS
-Lüge;Lie;FEM
-Ratschlag;Advice;MAS
-Streit;Argument;MAS
-Träne;Tears;FEM
+Ehe,-n;Marriage;FEM
+Erziehung,-en;Relationship;FEM
+Generation,-en;Generation;FEM
+Konflikt,-e;Conflict;MAS
+Krieg,-e;War;MAS
+Kuss,:e;Kiss;MAS
+Lüge,-n;Lie;FEM
+Ratschlag,:e;Advice;MAS
+Streit,-e;Argument;MAS
+Träne,-n;Tears;FEM
 aufregen;to excite;VER
 ausgehen;to go out;VER
 begegnen;to meet;VER
@@ -111,13 +112,13 @@ aufwärts;upwards;ADV
 gewöhnlich;customary;ADJ
 verantwortlich;responsible;ADJ
 hingegen;to go to;VER
-Ernte;Harvest;FEM
-Gegensatz;Opposite;MAS
-Klavier;Piano;NEU
+Ernte,-n;Harvest;FEM
+Gegensatz,:e;Opposite;MAS
+Klavier,-e;Piano;NEU
 Kosmetik;Cosmetic;FEM
-Mitternacht;Midnight;FEM
-Schminke;Jewery;FEM
-Wert;Value;MAS
+Mitternacht,:e;Midnight;FEM
+Schminke,-n;Jewery;FEM
+Wert,-e;Value;MAS
 wochentags;during weekdays;ADV
 vernünftig;reasonable;ADJ
 großzügig;generous;ADJ
@@ -137,64 +138,65 @@ treu;faithful;ADJ
 ernst;serious;ADJ
 ordentlich;orderly;ADJ
 streng;strict;ADJ
-Anerkennung;Recognition;FEM
-Einfluss;Influence;MAS
-Galerie;Galery;FEM
-Hügel;Hill;MAS
-Medien;Mediun;FEM
-Zerstörung;Destruction;FEM
+Anerkennung,-en;Recognition;FEM
+Einfluss,:e;Influence;MAS
+Galerie,-n;Galery;FEM
+Hügel,-;Hill;MAS
+Medien;Media;PLU
+Zerstörung,-en;Destruction;FEM
 ausstellen;to exhibit;VER
 entstehen;to arise;VER
 gründen;to found;VER
 retten;to rescue;VER
 unterrichten;to teach;VER
 farbig;colorful;ADJ
-Antrag;Application;MAS
-Feind;Enemy;MAS
-Geburtsjahr;Year of birth;NEU
-Geburtsort;Place of birth;MAS
-Liebling;Favorite;MAS
-Recht;Right;NEU
-Menschrecht;Human right;NEU
-Vorurteil;Prejudice;NEU
+Antrag,:e;Application;MAS
+Feind,-e;Enemy;MAS
+Geburtsjahr,-e;Year of birth;NEU
+Geburtsort,-e;Place of birth;MAS
+Liebling,-e;Favorite;MAS
+Recht,-e;Right;NEU
+Menschrecht,-e;Human right;NEU
+Vorurteil,-e;Prejudice;NEU
 einsetzen für (sich);to stand up for someone;VER
 kämpfen gegen;to fight against;VER
 gleichberechtigt;equal;ADJ
 klasse;great;ADJ
 wild;wild;ADJ
 öfter;more often;ADJ
-Blitz;Lightning;MAS
-Dieb;Thief;MAS
-Donner;Thunder;MAS
-Droge;Drug;FEM
-Überschrift;Title;MAS
+Blitz,-e;Lightning;MAS
+Dieb,-e;Thief;MAS
+Donner,-;Thunder;MAS
+Droge,-n;Drug;FEM
+Überschrift,-en;Title;MAS
 verhaften;to arrest;VER
 überrascht sein (von);to be surprised of;VER
 drüben;over there;ADV
-Bürgerinitiative;Action group;FEM
-Bundeskanzler;Prime minister;MAS
-Demokratie;Democracy;FEM
-Demonstration;Demonstration;FEM
-Energie;Energy;FEM
-Forschung;Research;FEM
-Frieden;Peace;MAS
-Gebühr;Fee;MAS
+Bürgerinitiative,-n;Action group;FEM
+Bundeskanzler,-;Prime minister;MAS
+Demokratie,-n;Democracy;FEM
+Demonstration,-en;Demonstration;FEM
+Energie,-n;Energy;FEM
+Forschung,-en;Research;FEM
+Frieden,-;Peace;MAS
+Gebühr,-en;Fee;MAS
 Klima;Climate;NEU
-Kraftwerk;Powerplant;NEU
-Mehrheit;Majority;FEM
-Minderheit;Minority;FEM
-Minister;Minister;MAS
-Nationalfeiertag;National holiday;MAS
-Opposition;Opposition;FEM
-Parlament;Congress;NEU
-Partei;Party;FEM
-Protest;Protest;MAS
-Regierung;Government;FEM
-Schutz;Protection;MAS
-Skandal;Scandal;MAS
-Vertreter;Representative;MAS
-Volk;People;NEU
-Wahl;Election;FEM
+Klimata;Climate;PLU
+Kraftwerk,-e;Powerplant;NEU
+Mehrheit,-en;Majority;FEM
+Minderheit,-en;Minority;FEM
+Minister,-;Minister;MAS
+Nationalfeiertag,-e;National holiday;MAS
+Opposition,-en;Opposition;FEM
+Parlament,-e;Congress;NEU
+Partei,-n;Party;FEM
+Protest,-e;Protest;MAS
+Regierung,-en;Government;FEM
+Schutz,-e;Protection;MAS
+Skandal,-e;Scandal;MAS
+Vertreter,-;Representative;MAS
+Volk,:er;People;NEU
+Wahl,-en;Election;FEM
 einführen;to establish;VER
 handeln;to handle;VER
 annähern (sich);to draw near;VER
@@ -205,12 +207,12 @@ frei;free;ADJ
 politisch;political;ADJ
 populär;popular;ADJ
 Biologie;Biology;FEM
-Geschwindigkeit;Speed;FEM
-Geschwindigkeitsbeschränkung;Speed limit;FEM
-Rentner;Retiree;MAS
-Rente;Pension;FEM
-Reportage;Report;FEM
-Ware;Goods;FEM
+Geschwindigkeit,-en;Speed;FEM
+Geschwindigkeitsbeschränkung,-en;Speed limit;FEM
+Rentner,-;Retiree;MAS
+Rente,-n;Pension;FEM
+Reportage,-n;Report;FEM
+Ware,-n;Goods;FEM
 aufheben;to pick up;VER
 betragen;to account for;VER
 blühen;to blume;VER
@@ -219,24 +221,24 @@ zunehmen;to gain weight;VER
 nah;close;ADJ
 still;silent;ADJ
 Camping;Camping;NEU
-Ereignis;Event;NEU
+Ereignis,-se;Event;NEU
 ereignen (sich);to occur;VER
-Gras;Grass;NEU
-Honig;Honey;MAS
-Landwirtschaft;Agriculture;FEM
-Saison;Season;FEM
-Tradition;Tradition;FEM
-Übernachtung;Overnight stay;FEM
+Gras,:er;Grass;NEU
+Honig,-e;Honey;MAS
+Landwirtschaft,-en;Agriculture;FEM
+Saison,-s;Season;FEM
+Tradition,-en;Tradition;FEM
+Übernachtung,-en;Overnight stay;FEM
 Vieh;Cattle;NEU
-Wolle;Wool;FEM
+Wolle,-n;Wool;FEM
 erholen (sich);to recover;VER
 zelten;to pitch tents;VER
 flach;flat;ADJ
-Aprikose;Apricot;FEM
-Auftritt;Appearance;MAS
-Fasching;Carnival;MAS
-Jahrhundert;Century;NEU
-Titel;Title;MAS
+Aprikose,-n;Apricot;FEM
+Auftritt,-e;Appearance;MAS
+Fasching,-e;Carnival;MAS
+Jahrhundert,-e;Century;NEU
+Titel,-;Title;MAS
 darstellen;to represent;VER
 heizen;to heat;VER
 leisten (sich);to afford oneself;VER
@@ -247,27 +249,27 @@ fein;fine;ADJ
 tolerant;tolerant;ADJ
 umsonst;free;ADJ
 jedoch;though;KON
-Aussicht;Prospect;FEM
+Aussicht,-en;Prospect;FEM
 Dreck;Dirt;MAS
-Hütte;Hut;FEM
-Imbiss;Snack;MAS
-Lebensgefahr;Life-threatening danger;FEM
-Stein;Stone;MAS
-Stiefel;Boot;MAS
-Tal;Valley;NEU
-Unglück;Misfortune;NEU
-Wirt;Inn-keeper;MAS
+Hütte,-n;Hut;FEM
+Imbiss,-e;Snack;MAS
+Lebensgefahr,-en;Life-threatening danger;FEM
+Stein,-e;Stone;MAS
+Stiefel,-;Boot;MAS
+Tal,:er;Valley;NEU
+Unglück,-e;Misfortune;NEU
+Wirt,-e;Inn-keeper;MAS
 ausziehen;to pull out;VER
 siezen;to address formally;VER
 sorgen für;to take care of someone;VER
 treten;to kick;VER
 steil;steep;ADJ
 untersagt sein;to be forbidden;VER
-Gemeinschaft;Community;FEM
-Rücksicht;Regard;FEM
-Vorschrift;Provision;FEM
+Gemeinschaft,-en;Community;FEM
+Rücksicht,-en;Regard;FEM
+Vorschrift,-en;Provision;FEM
 Wohl;Welfare;NEU
-Zweck;Purpose;MAS
+Zweck,-e;Purpose;MAS
 dienen;to serve;VER
 gelten;to be valid;VER
 regeln;to regulate;VER
@@ -277,10 +279,10 @@ grundsätzlich;fundamentally;ADJ
 ruhig;quiet;ADJ
 sinnvoll;meaningful;ADJ
 wesentlich;essential;ADV
-Decke;Blanket;FEM
-Resultat;Result;NEU
-Schwierigkeit;Difficulty;FEM
-Szene;Scene;FEM
+Decke,-n;Blanket;FEM
+Resultat,-e;Result;NEU
+Schwierigkeit,-en;Difficulty;FEM
+Szene,-n;Scene;FEM
 ausreichen;to suffice;VER
 bekannt geben;to announce;VER
 einstecken;to plug;VER
@@ -292,42 +294,42 @@ unheimlich;spooky;ADJ
 nirgends;nowhere;ADV
 indem;by;KON
 sodass;so that;KON
-Atmosphäre;Atmosphere;FEM
-Ausgang;Exit;MAS
-Empfang;Reception;MAS
-Garderobe;Wardrobe;FEM
-Lautsprecher;Speaker;MAS
-Misserfolg;Failure;MAS
-Note;Note;FEM
-Stimmung;Voice;FEM
-Studio;Studio;NEU
-Vergnügen;Pleasure;NEU
+Atmosphäre,-n;Atmosphere;FEM
+Ausgang,:e;Exit;MAS
+Empfang,:e;Reception;MAS
+Garderobe,-n;Wardrobe;FEM
+Lautsprecher,-;Speaker;MAS
+Misserfolg,-e;Failure;MAS
+Note,-n;Note;FEM
+Stimmung,-en;Voice;FEM
+Studio,-s;Studio;NEU
+Vergnügen,-;Pleasure;NEU
 versäumen;to miss;VER
 besetzt;occupied;ADJ
-Ausfahrt;Exit;FEM
-Fußgängerzone;Padestrian zone;FEM
-Fußgänger;Padestrian;MAS
-Gaststätte;Restaurant;FEM
-Gebäude;Building;NEU
-Hallenbad;Indoor swimming house;NEU
-Kaufhaus;Department store;NEU
-Parkhaus;Parking house;NEU
-Platz;Place;MAS
+Ausfahrt,-en;Exit;FEM
+Fußgängerzone,-n;Padestrian zone;FEM
+Fußgänger,-;Padestrian;MAS
+Gaststätte,-n;Restaurant;FEM
+Gebäude,-;Building;NEU
+Hallenbad,:er;Indoor swimming house;NEU
+Kaufhaus,:er;Department store;NEU
+Parkhaus,:er;Parking house;NEU
+Platz,:e;Place;MAS
 Stadion;Stadium;NEU
 Stadien;Stadia;PLU
-Umgebung;Surrounding;FEM
-Ausdruck;Expression;MAS
-Gastfreundschaft;Hospitality;FEM
-Gebäck;Cake and pastery;NEU
-Kredit;Credit;MAS
-Not;Emergency;FEM
-Papiere;Papers;PLU
-Patient;Patient;MAS
-Schuld;Guilt;FEM
-Sekunde;Second;FEM
-Sozialsiedlung;Social settlement;FEM
-Vergleich;Comparison;MAS
-Zustand;Status;MAS
+Umgebung,-en;Surrounding;FEM
+Ausdruck,:e;Expression;MAS
+Gastfreundschaft,-en;Hospitality;FEM
+Gebäck,-e;Cake and pastery;NEU
+Kredit,-e;Credit;MAS
+Not,:e;Emergency;FEM
+Papier,-e;Paper;NEU
+Patient,-en;Patient;MAS
+Schuld,-en;Guilt;FEM
+Sekunde,-n;Second;FEM
+Sozialsiedlung,-en;Social settlement;FEM
+Vergleich,-e;Comparison;MAS
+Zustand,:e;Status;MAS
 abheben;to lift off;VER
 behandeln;to treat;VER
 einzahlen;to deposit money;VER
@@ -349,60 +351,61 @@ entgegen;against;PREP
 innerhalb;within;PREP
 außerhalb;outside;PREP
 um ... herum;around;ADV
-Bau;Construction;MAS
-Bundesstaat;Federal state;MAS
-Bundesregierung;Federal government;FEM
-Denkmal;Monument;NEU
-Einführung;Establishment;FEM
+Bau,-e;Construction;MAS
+Bundesstaat,-en;Federal state;MAS
+Bundesregierung,-en;Federal government;FEM
+Denkmal,:er;Monument;NEU
+Einführung,-en;Establishment;FEM
 Europäische Union;EU;FEM
-Flucht;Refuge;FEM
-Gegner;Rival;MAS
-Gewalt;Violence;FEM
-Macht;Power;FEM
-Soldat;Soldier;MAS
-Teil;Part;MAS
-Ursache;Cause;FEM
-Verlust;Loss;MAS
+Flucht,-en;Refuge;FEM
+Gegner,-;Rival;MAS
+Gewalt,-en;Violence;FEM
+Macht,:e;Power;FEM
+Soldat,-en;Soldier;MAS
+Teil,-e;Part;MAS
+Ursache,-n;Cause;FEM
+Verlust,-e;Loss;MAS
 fordern;to require;VER
 protestieren;to protest;VER
-Anzahl;Total;FEM
-Garantie;Guarantee;FEM
-Genehmigung;Approval;FEM
-Hit;Hit;MAS
-Konsequenz;Consequence;FEM
-Vorstellung;Introduction;FEM
+Anzahl,-en;Total;FEM
+Garantie,-n;Guarantee;FEM
+Genehmigung,-en;Approval;FEM
+Hit,-s;Hit;MAS
+Konsequenz,-en;Consequence;FEM
+Vorstellung,-en;Introduction;FEM
 erscheinen;to appear;VER
 loben;to praise;VER
 zwingen;to force;VER
 angeblich;so-called;ADV
 eventuell;possible;ADJ
 hinterher;afterwards;ADV
-Anbieter;Supplier;MAS
-Energie;Engergy;FEM
-Gesetz;Law;NEU
+Anbieter,-;Supplier;MAS
+Energie,-n;Engergy;FEM
+Gesetz,-e;Law;NEU
 Konsum;Consumption;MAS
 Mobilität;Mobility;FEM
-Reinigung;Cleaning;FEM
-Station;Station;FEM
-Stecker;Plug;MAS
-Steckdose;Power socket;FEM
-Umweltverschmutzung;Pollution;FEM
+Reinigung,-en;Cleaning;FEM
+Station,-en;Station;FEM
+Stecker,-;Plug;MAS
+Steckdose,-n;Power socket;FEM
+Umweltverschmutzung,-en;Pollution;FEM
 konsumieren;to consume;VER
 schützen;to protect;VER
 verbessern;to improve;VER
 verbrauchen;to use up;VER
 verschlectern;to make worse;VER
 nützlich;practical;ADJ
-Bremse;Brake;FEM
-Druck;Pressure;MAS
-Eisenbahn;Railroad;FEM
-Ersatzteil;Replacement part;NEU
-Klingel;Bell;FEM
-Kreuzung;Intersection;FEM
-Vorfahrt;Priority;FEM
-Badewanne;Bathtub;FEM
+Bremse,-n;Brake;FEM
+Druck,:e;Pressure;MAS
+Eisenbahn,-en;Railroad;FEM
+Ersatzteil,-e;Replacement part;NEU
+Klingel,-n;Bell;FEM
+Kreuzung,-en;Intersection;FEM
+Vorfahrt,-en;Priority;FEM
+Badewanne,-n;Bathtub;FEM
 Forum;Forum;NEU
-Standpunkt;Point of view;MAS
+Fora;Forums;PLU
+Standpunkt,-e;Point of view;MAS
 abhängen;to depend;VER
 bemühen (sich);to try hard;VER
 feststehen;to be certain;VER
@@ -417,20 +420,20 @@ meinetwegen;because of me;ADV
 nebenbei;außerdem;ADV
 offenbar;adjective;ADJ
 sowieso;so oder so;ADV
-Abgas;Exhaust;NEU
-Absicht;Intention;FEM
-Altenheim;Old people's home;NEU
-Entfernung;Distance;FEM
-Entlassung;Release;FEM
-Kritik;Criticism;FEM
-Nachfrage;Inquiry question;FEM
-Planung;Planning;FEM
-Prozess;Process;MAS
-Smog;Smog;MAS
-Technologie;Technology;FEM
+Abgas,-e;Exhaust;NEU
+Absicht,-en;Intention;FEM
+Altenheim,-e;Old people's home;NEU
+Entfernung,-en;Distance;FEM
+Entlassung,-en;Release;FEM
+Kritik,-en;Criticism;FEM
+Nachfrage,-n;Inquiry question;FEM
+Planung,-en;Planning;FEM
+Prozess,-e;Process;MAS
+Smog,-s;Smog;MAS
+Technologie,-n;Technology;FEM
 Verbrechen;Crime;NEU:PLU
-Wirklichkeit;Reality;FEM
-Zweifel;Doubt;MAS
+Wirklichkeit,-en;Reality;FEM
+Zweifel,-;Doubt;MAS
 beschließen;to resolve;VER
 erhöhen;to increase;VER
 klagen;to wail;VER
@@ -440,13 +443,13 @@ vergrößern;to enlarge;VER
 zweifeln;to doubt;VER
 abhängig;dependent;ADJ
 ewig;forever;ADJ
-Blatt;Page;NEU
-Distanz;Distance;FEM
-Einzelheit;Detail;FEM
-Metzgerei;Butcher's shop;FEM
-Pflaume;Plum;FEM
-Reihe;Row;FEM
-Rollstuhl;Wheelchair;MAS
+Blatt,:er;Leaf;NEU
+Distanz,-en;Distance;FEM
+Einzelheit,-en;Detail;FEM
+Metzgerei,-en;Butcher's shop;FEM
+Pflaume,-n;Plum;FEM
+Reihe,-n;Row;FEM
+Rollstuhl,:e;Wheelchair;MAS
 anzünden;to light up;VER
 begründen;to found;VER
 anwesend;present;ADJ
