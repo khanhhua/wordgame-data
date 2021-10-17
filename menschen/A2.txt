@@ -173,7 +173,7 @@ Gebirge,-;Mountains;NEU
 Grenze,-n;Boundary;FEM
 Insel,-n;Island;FEM
 Kraftfahrzeug,-e;Vehicle;NEU
-Küste,-n;Coach;FEM
+Küste,-n;Coast;FEM
 Motor,-en;Engine;MAS
 Panne,-n;Breakdown;FEM
 Region,-en;Region;FEM
