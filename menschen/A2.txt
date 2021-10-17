@@ -243,7 +243,7 @@ Schnee;Snow;MAS
 Wind,-e;Wind;MAS
 Sonne,-n;Sun;FEM
 Mücke,-n;Mosquito;FEM
-Klavier,-e;Piano;MAS
+Klavier,-e;Piano;NEU
 Beginn,-e;Beginning;MAS
 Club,-s;Club;MAS
 Publikum;Audience;NEU
