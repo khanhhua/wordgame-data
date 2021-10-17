@@ -151,7 +151,7 @@ Halbpension,-en;Half board;FEM
 Kiosk,-e;Kiosk;MAS
 Konferenz,-en;Conference;FEM
 Konferenzraum,:e;Conference room;MAS
-Nichtraucherzimmer,-;Non-smoker;MAS
+Nichtraucherzimmer,-;Non-smoker;NEU
 Parkplatz,:e;Parking place;MAS
 Rezeption,-en;Reception;FEM
 Vollpension,-en;Full board;FEM
