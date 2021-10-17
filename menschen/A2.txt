@@ -1,59 +1,59 @@
-Cousin;Cousin;MAS
-Cousine;Cousin;FEM
-Neffe;Nephew;MAS
-Nichte;Niece;FEM
-Onkel;Uncle;MAS
-Tante;Aunt;FEM
-Schwiegervater;Step father;MAS
-Geschichte;Story;FEM
+Cousin,-s;Cousin;MAS
+Cousine,-n;Cousin;FEM
+Neffe,-n;Nephew;MAS
+Nichte,-n;Niece;FEM
+Onkel,-;Uncle;MAS
+Tante,-n;Aunt;FEM
+Schwiegervater,:;Step father;MAS
+Geschichte,-n;Story;FEM
 Jugendliche;Youth;MAS
-Puppe;Doll;FEM
-Sache;Thing;FEM
-Spiel;Game;NEU
-Witz;Joke;MAS
-Anfang;Begin;MAS
-Ende;End;NEU
-Mannschaft;Club;FEM
+Puppe,-n;Doll;FEM
+Sache,-n;Thing;FEM
+Spiel,-e;Game;NEU
+Witz,-e;Joke;MAS
+Anfang,:e;Begin;MAS
+Ende,-n;End;NEU
+Mannschaft,-en;Club;FEM
 Pfeffer;Pepper;MAS
-Punkt;Point;MAS
-Satz;Statement;MAS
-Schluss;End;MAS
-Zigarette;Cigarette;FEM
-Ding;Thing;NEU
-Ecke;Corner;FEM
-Fernsehgerät;TV;NEU
-Gegenstand;Everyday object;MAS
-Raum;Room;MAS
-Regal;Shelf;NEU
-Schreibtisch;Desk;MAS
-Spiegel;Mirror;MAS
-Tür;Door;FEM
-Vorhang;Curtain;MAS
-Wand;Wall;FEM
-Werkzeug;Tool;NEU
-Heft;Booklet;NEU
-Souvenir;Souvenir;NEU
-Herd;Oven;MAS
-Kühlschrank;Fridge;MAS
-Blume;Flower;FEM
-Vokabelkärtchen;Vocalubary card;NEU
+Punkt,-e;Point;MAS
+Satz,:e;Statement;MAS
+Schluss,:e;End;MAS
+Zigarette,-n;Cigarette;FEM
+Ding,-e;Thing;NEU
+Ecke,-n;Corner;FEM
+Fernsehgerät,-e;TV;NEU
+Gegenstand,:e;Everyday object;MAS
+Raum,:e;Room;MAS
+Regal,-e;Shelf;NEU
+Schreibtisch,-e;Desk;MAS
+Spiegel,-;Mirror;MAS
+Tür,-en;Door;FEM
+Vorhang,:e;Curtain;MAS
+Wand,:e;Wall;FEM
+Werkzeug,-e;Tool;NEU
+Heft,-e;Booklet;NEU
+Souvenir,-s;Souvenir;NEU
+Herd,-e;Oven;MAS
+Kühlschrank,:e;Fridge;MAS
+Blume,-n;Flower;FEM
+Vokabelkärtchen,-;Vocalubary card;NEU
 Nachrichten;News;PLU
-Film;Film;MAS
-Wort;Word;NEU
-Lied;Lyric;NEU
-Satz;Sentence;MAS
-Fehler;Error;MAS
-Zeitschrift;Magazine;FEM
-Bild;Picture;NEU
-Grammatikaufgabe;Grammar homework;FEM
-Aufgabe;Task;FEM
+Film,-e;Film;MAS
+Wort,:er;Word;NEU
+Lied,-er;Lyric;NEU
+Satz,:e;Sentence;MAS
+Fehler,-;Error;MAS
+Zeitschrift,-en;Magazine;FEM
+Bild,-er;Picture;NEU
+Grammatikaufgabe,-n;Grammar homework;FEM
+Aufgabe,-n;Task;FEM
 Goethe-Institut;Goethe Institute;NEU
-Klasse;Class;FEM
-Semester;Semester;NEU
-Sprachenschule;Language school;FEM
-Test;Test;MAS
-Typ;Person;MAS
-Volkshochschule;Adult Education Center;FEM
+Klasse,-n;Class;FEM
+Semester,-;Semester;NEU
+Sprachenschule,-n;Language school;FEM
+Test,-e;Test;MAS
+Typ,-en;Person;MAS
+Volkshochschule,-n;Adult Education Center;FEM
 Gegenwart;Present time;FEM
 Vergangenheit;Past time;FEM
 anschauen;to watch;VER
@@ -69,28 +69,28 @@ sich verlieben;to fall in love;VER
 verreisen;to travel;VER
 möglich;possible;ADJ
 wichtig;important;ADJ
-Post;Post;FEM
-Packchen;Small package;NEU
-Paket;Package;NEU
-Absender;Sender;MAS
-Adresse;Address;FEM
-Empfänger;Receiver;MAS
-Unterschrift;Signature;FEM
-Briefumschlag;Envelope;MAS
-Schalter;Post office counter;MAS
-Briefkasten;Mailbox;MAS
-Postkarte;Post card;FEM
-Brief;Mail;MAS
+Post,-en;Post;FEM
+Packchen,-;Small package;NEU
+Paket,-e;Package;NEU
+Absender,-;Sender;MAS
+Adresse,-n;Address;FEM
+Empfänger,-;Receiver;MAS
+Unterschrift,-en;Signature;FEM
+Briefumschlag,:e;Envelope;MAS
+Schalter,-;Post office counter;MAS
+Briefkasten,:;Mailbox;MAS
+Postkarte,-n;Post card;FEM
+Brief,-e;Mail;MAS
 packen;to pack;VER
-Karton;Carton box;MAS
-Geschenk;Gift;NEU
-Gesicht;Face;NEU
-Junge;Boy;MAS
-Mädchen;Girl;NEU
-Projekt;Project;NEU
-Schritt;Step;MAS
-Tafel;Blackboard;FEM
-Zentimeter;Centimeter;MAS
+Karton,-s;Carton box;MAS
+Geschenk,-e;Gift;NEU
+Gesicht,-er;Face;NEU
+Junge,-n;Boy;MAS
+Mädchen,-;Girl;NEU
+Projekt,-e;Project;NEU
+Schritt,-en;Step;MAS
+Tafel,-n;Blackboard;FEM
+Zentimeter,-;Centimeter;MAS
 einpacken;to pack ... in;VER
 transportieren;to transport;VER
 untereschreiben;to sign;VER
@@ -99,35 +99,35 @@ benutzen;to use;VER
 denken;to think (about);VER
 ergänzen;to fill in;VER
 gebrauchen;to use;VER
-Creme;Cream;FEM
-Gebrauchsanweisung;User guide;FEM
+Creme,-s;Cream;FEM
+Gebrauchsanweisung,-en;User guide;FEM
 arm;poor;ADJ
 verschieden;different;ADJ
 schließlich;final;ADJ
-DVD;DVD;FEM
+DVD,-s;DVD;FEM
 Fernsehen;Watching TV;NEU
-Folge;Part;FEM
-Krimi;Thriller;MAS
-Mediathek;Media library;FEM
-Darsteller;Actor;MAS
-Regisseur;Director;MAS
-Fernbedienung;Remote control;FEM
-Sendung;TV programs;FEM
-Programm;Program;NEU
+Folge,-n;Part;FEM
+Krimi,-s;Thriller;MAS
+Mediathek,-en;Media library;FEM
+Darsteller,-;Actor;MAS
+Regisseur,-e;Director;MAS
+Fernbedienung,-en;Remote control;FEM
+Sendung,-en;TV programs;FEM
+Programm,-e;Program;NEU
 Rundfunk;Radio broadcasting;MAS
-Sender;Broadcaster;MAS
-Serie;Series;FEM
-Spielfilm;Feature film;MAS
-Video;Video;NEU
-Zuschauer;TV Viewer;MAS
-Anzug;Suit;MAS
-Fahrplan;Timetable scheduling;MAS
-Gaststätte;Restaurant;FEM
-Gegend;Region;FEM
-Kinderwagen;Child car;MAS
-Parfüm;Perfume;NEU
-Rose;Rose;FEM
-Topf;Pot;MAS
+Sender,-;Broadcaster;MAS
+Serie,-n;Series;FEM
+Spielfilm,-e;Feature fiel;MAS
+Video,-s;Video;NEU
+Zuschauer,-;TV Viewer;MAS
+Anzug,:e;Suit;MAS
+Fahrplan,:e;Timetable scheduling;MAS
+Gaststätte,-n;Restaurant;FEM
+Gegend,-en;Region;FEM
+Kinderwagen,-;Child car;MAS
+Parfüm,s;Perfume;NEU
+Rose,-n;Rose;FEM
+Topf,:e;Pot;MAS
 bedeuten;mean;VER
 gucken;see;VER
 produzieren;produce;VER
@@ -139,25 +139,25 @@ knapp;low;ADJ
 sozial;social;ADJ
 außer;apart from;PRE
 inzwischen;in between;ADV
-Umgang;Contact dealings;MAS
-Hotel;Hotel;NEU
-Aufenthalt;Stay;MAS
-Doppelzimmer;Double room;NEU
-Einzelzimmer;Single room;NEU
-Empfangshalle;Reception hall;FEM
-Fitnessraum;Fitness room;MAS
-Frühstücksraum;Breakfast room;MAS
-Halbpension;Half board;FEM
-Kiosk;Kiosk;MAS
-Konferenz;Conference;FEM
-Konferenzraum;Conference room;MAS
-Nichtraucherzimmer;Non-smoker;NEU
-Parkplatz;Parking place;MAS
-Rezeption;Reception;FEM
-Vollpension;Full board;FEM
+Umgang,:e;Contact dealings;MAS
+Hotel,-s;Hotel;NEU
+Aufenthalt,-e;Stay;MAS
+Doppelzimmer,-;Double room;NEU
+Einzelzimmer,-;Single room;NEU
+Empfangshalle,-n;Reception hall;FEM
+Fitnessraum,:e;Fitness room;MAS
+Frühstücksraum,:e;Breakfast room;MAS
+Halbpension,-en;Half board;FEM
+Kiosk,-e;Kiosk;MAS
+Konferenz,-en;Conference;FEM
+Konferenzraum,:e;Conference room;MAS
+Nichtraucherzimmer,-;Non-smoker;NEU
+Parkplatz,:e;Parking place;MAS
+Rezeption,-en;Reception;FEM
+Vollpension,-en;Full board;FEM
 Ärger;Anger;MAS
-Raucher;Smoker;MAS
-Spaß;Fun;MAS
+Raucher,-;Smoker;MAS
+Spaß,:e;Fun;MAS
 angenehm;pleasant;ADJ
 durch;through;PRE
 gegenüber;opposite;ADV
@@ -165,26 +165,26 @@ vorbei;past;ADV
 überall;everywhere;ADV
 wecken;to wake up;VER
 frei;free;ADJ
-Abfahrt;Departure;FEM
-Ankunft;Arrival;FEM
-Autobahn;Highway;FEM
-Fähre;Ferry;FEM
-Gebirge;Mountains;NEU
-Grenze;Boundary;FEM
-Insel;Island;FEM
-Kraftfahrzeug;Vehicle;NEU
-Küste;Coach;FEM
-Motor;Engine;MAS
-Panne;Breakdown;FEM
-Region;Region;FEM
-Reifen;Tyre;MAS
-Tankstelle;Gas station;FEM
-Bauer;Farmer;MAS
-Feld;Field;NEU
-Kassette;Boxed case;FEM
+Abfahrt,-en;Departure;FEM
+Ankunft,:e;Arrival;FEM
+Autobahn,-en;Highway;FEM
+Fähre,-n;Ferry;FEM
+Gebirge,-;Mountains;NEU
+Grenze,-n;Boundary;FEM
+Insel,-n;Island;FEM
+Kraftfahrzeug,-e;Vehicle;NEU
+Küste,-n;Coast;FEM
+Motor,-en;Engine;MAS
+Panne,-n;Breakdown;FEM
+Region,-en;Region;FEM
+Reifen,-;Tyre;MAS
+Tankstelle,-n;Gas station;FEM
+Bauer,-;Farmer;MAS
+Feld,-er;Field;NEU
+Kassette,-n;Boxed case;FEM
 Pech;Bad luck;NEU
-Seite;Side;FEM
-Zufall;Coincidence;MAS
+Seite,-n;Side;FEM
+Zufall,-e;Coincidence;MAS
 ärgerlich;annoyed;ADJ
 bekannt;wellknown;ADJ
 müde;tired;ADJ
@@ -194,27 +194,27 @@ plötzlich;suddenly;ADV
 tanken;to fill up;VER
 überqueren;to cut across;VER
 wechseln;to change;VER
-Brücke;Bridge;FEM
+Brücke,-n;Bridge;FEM
 Rätsel;Puzzle;NEU
-Meer;Sea;MAS
-See (fem);Ocean;FEM
-See (mas);Lake;MAS
-Strand;Beach;MAS
-Berg;Mountains;MAS
-Wald;Forest;MAS
-Wüste;Desert;FEM
-Wildschwein;Wild boar;NEU
+Meer,-e;Sea;MAS
+See (fem),-n;Ocean;FEM
+See (mas),-n;Lake;MAS
+Strand,:e;Beach;MAS
+Berg,-e;Mountains;MAS
+Wald,:er;Forest;MAS
+Wüste,-n;Desert;FEM
+Wildschwein,-e;Wild boar;NEU
 Eis;Ice;NEU
-Gebiet;Offer;NEU
-Hauptstadt;Capital city;FEM
-Hitze;Heat;FEM
-Jahreszeit;Season;FEM
+Gebiet,-;Region;NEU
+Hauptstadt,:e;Capital city;FEM
+Hitze,-n;Heat;FEM
+Jahreszeit,-en;Season;FEM
 Kälte;Coldness;FEM
-Kontinent;Continent;MAS
-Temperatur;Temperature;FEM
-Trockenheit;Dryness;FEM
-Tropfen;Drop;MAS
-Regentropfen;Rain drop;MAS
+Kontinent,-e;Continent;MAS
+Temperatur,-en;Temperature;FEM
+Trockenheit,-en;Dryness;FEM
+Tropfen,-;Drop;MAS
+Regentropfen,-;Rain drop;MAS
 Wärme;Warmness;FEM
 eisig;icy;ADJ
 feucht;moist;ADJ
@@ -235,20 +235,21 @@ sich treffen mit;to meet up with;VER
 zufrieden sein mit;to be satisfied with;VER
 weit;far;ADJ
 normalerweise;normally;ADV
-Gegenteil;Opposite;NEU
-Gewitter;Storm;NEU
-Regen;Rain;MAS
-Nebel;Fog;MAS
+Gegenteil,-e;Opposite;NEU
+Gewitter,-;Storm;NEU
+Regen,-;Rain;MAS
+Nebel,-;Fog;MAS
 Schnee;Snow;MAS
-Wind;Wind;MAS
-Sonne;Sun;FEM
-Mücke;Mosquito;FEM
-Klavier;Piano;MAS
-Beginn;Beginning;MAS
-Club;Club;MAS
+Wind,-e;Wind;MAS
+Sonne,-n;Sun;FEM
+Mücke,-n;Mosquito;FEM
+Klavier,-e;Piano;NEU
+Beginn,-e;Beginning;MAS
+Club,-s;Club;MAS
 Publikum;Audience;NEU
-Spaziergang;Walk;MAS
-Vorstellung;Introduction;FEM
+Publika;Audience;PLU
+Spaziergang,:e;Walk;MAS
+Vorstellung,-en;Introduction;FEM
 eröffnen;to open;VER
 verlängern;to extend;VER
 verpassen;to miss;VER
@@ -268,27 +269,27 @@ negativ;negative;ADJ
 neugierig;curious;ADJ
 positiv;positive;ADJ
 wahr sein;to be true;VER
-Liebe;Love;FEM
+Liebe,-n;Love;FEM
 abstimmen;to vote;VER
 nennen;to name;VER
-Zeugnis;Testimony;NEU
-Autor;Author;MAS
-Autorin;Author;FEM
-Bilderbuch;Picture book;NEU
-Comic;Comic book;MAS
-Gedicht;Poem;NEU
-Hörbuch;Audio book;NEU
-Kinderbuch;Children book;NEU
-Literatur;Literature;FEM
-Märchen;Fairytale;NEU
-Ratgeber;How-to book;MAS
-Roman;Romantic book;MAS
-Sachbuch;Non-fiction book;NEU
-Zeitung;Magazine;FEM
+Zeugnis,-se;Testimony;NEU
+Autor,-;Author;MAS
+Autorin,-nen;Author;FEM
+Bilderbuch,:er;Picture book;NEU
+Comic,-s;Comic book;MAS
+Gedicht,-e;Poem;NEU
+Hörbuch,:er;Audio book;NEU
+Kinderbuch,:er;Children book;NEU
+Literatur,-en;Literature;FEM
+Märchen,-;Fairytale;NEU
+Ratgeber,-;How-to book;MAS
+Roman,-e;Romantic book;MAS
+Sachbuch,:er;Non-fiction book;NEU
+Zeitung,-en;Magazine;FEM
 Alltag;Everyday;MAS
-Bettdecke;Bed cover;FEM
-Interesse;Interest;NEU
-Profi;Professional;MAS
+Bettdecke,-n;Bed cover;FEM
+Interesse,-n;Interest;NEU
+Profi,-s;Professional;MAS
 Verwandte;Relative;MAS
 sich beeilen;to hurry;VER
 kriegen;to manage;VER
@@ -299,29 +300,29 @@ furchtbar;dreadful;ADJ
 überhaupt;generallz;ADV
 sicher;sure;ADJ
 Rotkäppchen;Red Riding Hood;NEU
-Froschkönig;Frog Prince;MAS
-Schrecken;Scare;MAS
-Ausweis;ID Card;MAS
+Froschkönig,-e;Frog Prince;MAS
+Schrecken,-;Scare;MAS
+Ausweis,-e;ID Card;MAS
 Bargeld;Cash;NEU
-EC Karte;Debit card;FEM
-Telefonkarte;Telephone card;FEM
-Gesundheitskarte;Health insurance card;FEM
-Einbruch;Break-in;MAS
-Feuerwehr;Firetruck;FEM
-Polizist;Policeman;MAS
-Schloss;Lock;NEU
-Täter;Culprit;MAS
-Versicherung;Insurance;FEM
-Zeuge;Witness;MAS
+EC Karte,-n;Debit card;FEM
+Telefonkarte,-n;Telephone card;FEM
+Gesundheitskarte,-n;Health insurance card;FEM
+Einbruch,:e;Break-in;MAS
+Feuerwehr,-en;Fire service;FEM
+Polizist,-en;Policeman;MAS
+Schloss,:er;Lock;NEU
+Täter,-;Culprit;MAS
+Versicherung,-en;Insurance;FEM
+Zeuge,-n;Witness;MAS
 abschließen;to lock;VER
 absperren;to lock;VER
 anfassen;to take hold of;VER
 etwas sichern;to make sure about sth;VER
 stehlen;to steal;VER
-Glühbirne;Light bulb;FEM
-Hammer;Hammer;MAS
+Glühbirne,-n;Light bulb;FEM
+Hammer,:;Hammer;MAS
 Liste;List;FEM
-Strom;Electricity;MAS
+Strom,:e;Electricity;MAS
 Titel;Title;MAS
 ändern;to change;VER
 brennen;to burn;VER
@@ -332,25 +333,25 @@ schneiden;to cut;VER
 waschen;to wash;VER
 ängstlich;anxious;ADJ
 schmal;slender;ADJ
-Anmeldung;Registration;FEM
-Buchstabe;Letter;MAS
-Chipkarte;Electronic card;FEM
+Anmeldung,-en;Registration;FEM
+Buchstabe,-n;Letter;MAS
+Chipkarte,-n;Electronic card;FEM
 Daten;Data;PLU
-Passwort;Password;NEU
-Vertrag;Contract;MAS
-Zahl;Figure;FEM
+Passwort,:er;Password;NEU
+Vertrag,:e;Contract;MAS
+Zahl,-en;Figure;FEM
 anklicken;to click on;VER
 ausfüllen;to fill out;VER
 bestätigen;to confirm;VER
 wählen;to choose;VER
-Fahrkarte;Travel ticket;FEM
-Mitglied;Member;NEU
-Organisation;Organization;FEM
-Steuer;Tax;FEM
-Umwelt;Environment;FEM
+Fahrkarte,-n;Travel ticket;FEM
+Mitglied,-er;Member;NEU
+Organisation,-en;Organization;FEM
+Steuer,-n;Tax;FEM
+Umwelt,-en;Environment;FEM
 umweltfreundlich;environment friendly;ADJ
-Verbindung;Connection;FEM
-Ziel;Target;NEU
+Verbindung,-en;Connection;FEM
+Ziel,-e;Target;NEU
 besitzen;to own;VER
 erreichen;to reach;VER
 mieten;to rent;VER
@@ -364,31 +365,31 @@ klar;clear;ADJ
 unterwegs;on the way;ADJ
 zunehmen;to put on weight;VER
 abnehmen;to lose weight;VER
-abnehmen;to lose weight;VER
-Abitur;graduation;NEU
-Beruf;job;MAS
-Fachhochschule;technical college;FEM
-Gesamtschule;general school;FEM
-Grundschule;elementary school;FEM
+Abitur,-e;graduation;NEU
+Beruf,-e;job;MAS
+Fachhochschule,-n;technical college;FEM
+Gesamtschule,-n;general school;FEM
+Grundschule,-n;elementary school;FEM
 Gymnasium;highschool;DAS
 Gymnasien;highschools;PLU
-Hauptschule;lower secondary school;FEM
-Lehre;teaching;FEM
-Note;score;FEM
-Realschule;secondary school;FEM
-Zeugnis;certificate;NEU
+Hauptschule,-n;lower secondary school ;FEM
+Lehre,-n;Apprenticeship;FEM
+Note,-n;Score;FEM
+Realschule,-n;Secondary school;FEM
+Zeugnis,-se;Certificate;NEU
 mündlich;verbal;ADJ
 schriftlich;written;ADJ
-Bewerbung;application;FEM
-Einkommen;income;NEU
-Kündigung;termination;FEM
-Praktikant;apprentice;MAS
-Tätigkeit;activity;FEM
+Bewerbung,-en;Application;FEM
+Einkommen;Income;NEU
+Kündigung,-en;Termination;FEM
+Praktikant,-en;Apprentice;MAS
+Tätigkeit,-en;Activity;FEM
 sich bewerben;to apply;VER
 kündigen;to terminate;VER
-Elektroinstallateur;electrician;MAS
-Laune;mood;FEM
-Thema;subject;NEU
+Elektroinstallateur,-e;Electrician;MAS
+Laune,-n;Mood;FEM
+Thema;Subject;NEU
+Themen;Subjects;PLU
 kopieren;to copy;VER
 stören;to disturb;VER
 vorhaben;to plan;VER
@@ -397,24 +398,25 @@ freiwillig;voluntarily;ADJ
 genug;enough;ADJ
 neulich;newly;ADV
 vorgestern;the day before yesterday;ADJ
-Abflug;departure;MAS
-Anschluss;connection;MAS
-Impfung;vaccination;FEM
-Konsulat;consulate;NEU
-Kontrolle;control;FEM
-Pass;passport;MAS
-Verspätung;delay;FEM
-Visum;visa;NEU
-Zoll;customs;MAS
+Abflug,:e;Departure;MAS
+Anschluss,:e;Connection;MAS
+Impfung,-en;Vaccination;FEM
+Konsulat,-en;Consulate;NEU
+Kontrolle,-n;Control;FEM
+Pass,:e;Passport;MAS
+Verspätung,-en;Delay;FEM
+Visum;Visa;NEU
+Visa;Visas;PLU
+Zoll,:e;Customs;MAS
 beantragen;to apply for sth;VER
 verlängern;to renew;VER
 gültig;valid;ADJ
-Apartment;apartment;NEU
-Erinnerung;memory;FEM
-Geburt;birth;FEM
-Kenntnis;knowledge;FEM
-Zuhause;home;NEU
-Zukunft;future;FEM
+Apartment,-s;Apartment;NEU
+Erinnerung,-en;Memory;FEM
+Geburt,-en;Birth;FEM
+Kenntnis,-se;Knowledge;FEM
+Zuhause;Home;NEU
+Zukunft,:e;Future;FEM
 leiten;to lead, to manage;VER
 sich verabreden;to make an appointment;VER
 ähnlich;similar;ADJ
