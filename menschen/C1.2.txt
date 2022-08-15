@@ -1,0 +1,75 @@
+Parasit,-en;Parasite;MAS
+Schmarotzer,-;Parasite;MAS:PLU
+Tramper,-;Hitchhiker;MAS:PLU
+Utopie,-n;Utopia;FEM
+ausdrücken in DAT;to express in certain medium;VER:REF
+bemessen AKK nach DAT;to measure something according to something;VER:REF
+einbringen in AKK;to play part in something;VER:REF
+sanieren;to sanitize;VER
+sich etwas bewusst machen;to make oneself known;VER
+jdn in Verlegenheit bringen;to embarass someone;VER
+sich schwer tun mit etwas;to struggle with something;VER
+auf Kosten anderer;at the cost of others;ADJ
+Bezirk,-e;District;MAS
+Mahnung,-en;Reminder;FEM
+Prävention,-en;Prevention;FEM
+Ratenzahlung,-en;Instalment;FEM
+Schuldenfalle,-n;Debt trap;FEM
+Wohlfahrt;Welfare;FEM
+Auflage,-n;Requirement;FEM
+Ausweg,-e;Escape;MAS
+Betroffene,-n;the affected;MAS:FEM
+Gläubiger,-;Creditor;MAS
+Insolvenz,-en;Bankruptcy;FEM
+Schuldner,-;Debtor;MAS
+Verfahren,-;Process;NEU
+Verfassung;Mental state;FEM
+sich begeben;to befall;VER
+geraten in AKK;to turn out;VER
+sich überschulden;to get in debt;VER
+jdn zustehen;to concede;VER
+etwas ansehen als;to consider as;VER
+sich gegenseitig bedingen;to require one another;VER
+sich wechselseitig bedingen;to require one another alternatively;VER
+Schiffbruch erleiden;be wrecked;VER
+auf sich nehmen;to shoulder something;VER
+abgesehen von;apart from;PREP
+betroffen sein von;be affected by;VER
+außergerichtlich;extrajudicially;ADV
+aufgrund GEN;for reason of;PREP
+mangels GEN;in the lack of;PREP
+zumal;specially;PREP
+Boom;Boom;MAS
+Konjunktur,-en;Economy;FEM
+Landwirt,-en;Farmer;MAS
+Mindestlohn,-:e;Minimum wage;MAS
+Prognose,-n;Forecast;FEM
+Quote,-n;Rate;FEM
+Wachstum;Growth;NEU
+prognostizieren;predict;VER
+hiesig;local;ADJ
+abseits;aside;PREP
+ehemals;formerly;PREP
+mehrmals;a few times;PREP
+Grundsicherung;Basic income;FEM
+einhaken;to hook up;VER
+investieren in AKK;to invest in;VER
+jdn unterbrechen;to interrupt;VER
+jdn ausreden lassen;to let someone finish talking;VER
+obdachlos;homeless;ADJ
+Bankleitzahl,-en;BIC;FEM
+Bargeld;Cash;NEU
+Behörde,-n;Authority;FEM
+Code,-s;Code;MAS
+Dauerauftrag,-:e;Standing order;MAS
+Lastschrift,-en;Debit;FEM
+Transfer,-s;Transfer;MAS
+Währung,-en;Currency;FEM
+Zahlungsverkehr;Transaction;MAS
+Ziffer,-n;Number;FEM
+Budget,-s;Budget;NEU
+Kanton,-e;canton;MAS
+liegen bei;to lie by;VER
+geballt sein;to be concentrated;VER
+erheblich;considerably;ADJ
+schätzungsweise;roughly;ADV
