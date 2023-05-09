@@ -14,6 +14,10 @@
     {
       "name": "B1 - Menschen",
       "file": "B1.txt"
+    },
+    {
+      "name": "B2-1 Sicher",
+      "file": "B2-1.txt"
     }
   ]
 }
