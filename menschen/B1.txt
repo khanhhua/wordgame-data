@@ -168,7 +168,7 @@ Blitz,-e;Lightning;MAS
 Dieb,-e;Thief;MAS
 Donner,-;Thunder;MAS
 Droge,-n;Drug;FEM
-Überschrift,-en;Title;MAS
+Überschrift,-en;Title;FEM
 verhaften;to arrest;VER
 überrascht sein (von);to be surprised of;VER
 drüben;over there;ADV
