@@ -69,9 +69,9 @@ in Kontakt treten mit;kontaktieren;VER
 die Kosten tragen;bezahlen;VER
 Kritik üben an;kritisieren;VER
 in der Lage sein zu;können, fähig sein;VER
-am Laufen halten;dafür sorgen, dass etw. weiterläuft informiert sein;VER
-auf dem Laufenden sein;(zum ersten Mal);VER
-auf den Markt bringen;verkaufen;VER
+am Laufen halten;dafür sorgen, dass etw. weiterläuft;VER
+auf dem Laufenden sein;informiert sein;VER
+auf den Markt bringen;(zum ersten Mal) verkaufen;VER
 sich Mühe geben;sich bemühen;VER
 auf die Nerven gehen;nerven;VER
 an einem Plan festhalten;nicht aufgeben;VER
