@@ -48,7 +48,7 @@ einen Entschluss fassen;beschließen, sich entschließen;VER
 eine Entscheidung treffen;entscheiden;VER
 in Erfüllung gehen;sich erfüllen, wahr werden;VER
 die Erlaubnis erteilen;erlauben;VER
-einen Fehler begehen;letw. falsch machen;VER
+einen Fehler begehen;etw. falsch machen;VER
 zur Folge haben;folgen aus, bewirken;VER
 eine Forderung stellen;fordern;VER
 einer Frage nachgehen;forschen, herausfinden;VER
