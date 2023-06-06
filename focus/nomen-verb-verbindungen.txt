@@ -53,7 +53,8 @@ zur Folge haben;folgen aus, bewirken;VER
 eine Forderung stellen;fordern;VER
 einer Frage nachgehen;forschen, herausfinden;VER
 außer Frage stehen;(zweifellos) richtig sein;VER
-eine Frage stellen;etwas nicht bezweifeln fragen;VER
+außer Frage stehen;etwas nicht bezweifeln;VER
+eine Frage stellen;fragen;VER
 sich Gedanken machen über;nachdenken;VER
 in Gefahr sein;gefährdet sein;VER
 die Gelegenheit haben zu;möglich sein;VER
