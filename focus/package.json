@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "author": "Khanh Hua",
+  "name": "Focus",
+  "collections": [
+    {
+      "name": "Nomen-Verb-Verbindungen",
+      "file": "nomen-verb-verbindungen.txt"
+    }
+  ]
+}

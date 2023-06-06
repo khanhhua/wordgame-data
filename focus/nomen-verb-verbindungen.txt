@@ -1,0 +1,105 @@
+sich in Acht nehmen vor;aufpassen, vorsichtig sein;VER
+jdm. Achtung entgegenbringen;jdn. achten, respektieren;VER
+die Absicht haben zu;beabsichtigen;VER
+eine Anderung vornehmen;ändern;VER
+Anerkennung finden;anerkannt werden;VER
+eine Anforderung erfüllen;genügen;VER
+eine Anfrage stellen an;anfragen;VER
+ein Angebot machen;anbieten;VER
+ein Angebot unterbreiten;anbieten;VER
+in Angriff nehmen;sich kümmern um;VER
+Angst machen;sich ängstigen vor;VER
+ein Anliegen sein;wichtig sein;VER
+einen Anspruch haben auf;zustehen;VER
+in Anspruch nehmen;(be)nutzen;VER
+in Anspruch nehmen;beanspruchen;VER
+einen Antrag stellen auf;beantragen;VER
+zur Anwendung kommen;angewendet werden;VER
+an die Arbeit gehen;anfangen zu arbeiten;VER
+gute Arbeit leisten;etw. gut machen;VER
+Arbeit machen;mühsam sein;VER
+sich an die Arbeit machen;anfangen zu arbeiten;VER
+in Arbeit sein;im Moment bearbeitet werden;VER
+zu der Auffassung gelangen;erkennen;VER
+die Aufmerksamkeit gewinnen von;aufmerksam machen;VER
+einen Auftrag geben;beauftragen;VER
+einen Auftrag erteilen;beauftragen;VER
+zum Ausdruck bringen;äußern, ausdrücken;VER
+zur Auswahl stehen;angeboten werden;VER
+Auswirkungen haben auf;sich auswirken auf;VER
+Beachtung finden;beachtet werden;VER
+einen Beitrag leisten;beitragen;VER
+einen Beruf ausüben;arbeiten (als), beruflich machen;VER
+einen Beruf ergreifen;beginnen zu arbeiten (als);VER
+Bescheid geben/sagen;informieren;VER
+Bescheid wissen über;informiert sein über;VER
+eine Bestellung aufgeben;bestellen;VER
+in Betracht kommen;möglich sein;VER
+in Betracht ziehen;überlegen;VER
+im Betrieb sein;laufen, an sein;VER
+Bezug nehmen auf;sich beziehen auf;VER
+unter Beweis stellen;beweisen;VER
+zur Diskussion stehen;diskutiert werden;VER
+unter Druck stehen;gestresst sein;VER
+Eindruck machen auf;beeindrucken;VER
+Einfluss nehmen auf;beeinflussen;VER
+zu Ende bringen;beenden/abschließen;VER
+einen Entschluss fassen;beschließen, sich entschließen;VER
+eine Entscheidung treffen;entscheiden;VER
+in Erfüllung gehen;sich erfüllen, wahr werden;VER
+die Erlaubnis erteilen;erlauben;VER
+einen Fehler begehen;letw. falsch machen;VER
+zur Folge haben;folgen aus, bewirken;VER
+eine Forderung stellen;fordern;VER
+einer Frage nachgehen;forschen, herausfinden;VER
+außer Frage stehen;(zweifellos) richtig sein;VER
+eine Frage stellen;etwas nicht bezweifeln fragen;VER
+sich Gedanken machen über;nachdenken;VER
+in Gefahr sein;gefährdet sein;VER
+die Gelegenheit haben zu;möglich sein;VER
+ein Gespräch führen mit;sich unterhalten;VER
+ein Gespräch führen über;sich unterhalten;VER
+den Grund angeben;sprechen mit begründen;VER
+einen Gruß erwidern;zurückgrüßen;VER
+Interesse wecken für;jdm. interessieren für;VER
+in Kauf nehmen;(Nachteiliges) akzeptieren;VER
+zur Kenntnis nehmen;bemerken, wahrnehmen;VER
+Kontakt aufnehmen mit;kontaktieren;VER
+in Kontakt treten mit;kontaktieren;VER
+die Kosten tragen;bezahlen;VER
+Kritik üben an;kritisieren;VER
+in der Lage sein zu;können, fähig sein;VER
+am Laufen halten;dafür sorgen, dass etw. weiterläuft informiert sein;VER
+auf dem Laufenden sein;(zum ersten Mal);VER
+auf den Markt bringen;verkaufen;VER
+sich Mühe geben;sich bemühen;VER
+auf die Nerven gehen;nerven;VER
+an einem Plan festhalten;nicht aufgeben;VER
+eine Prüfung ablegen;geprüft werden;VER
+idm. Respekt entgegenbringen;idm. respektieren, achten;VER
+eine Rolle spielen;wichtig/relevant sein;VER
+Rückmeldung geben zu;rückmelden;VER
+Rücksicht nehmen auf;rücksichtsvoll sein;VER
+Ruhe bewahren;ruhig bleiben;VER
+in Schutz nehmen;(be)schützen, verteidigen;VER
+sich Sorgen machen um;sich sorgen;VER
+aufs Spiel setzen;riskieren;VER
+zur Sprache bringen;ansprechen;VER
+zur Sprache kommen;angesprochen werden;VER
+auf den neuesten Stand bringen;informieren, aktualisieren;VER
+auf dem Standpunkt stehen;meinen;VER
+Stellung nehmen zu;seine Meinung äußern;VER
+eine Verabredung treffen zu;vereinbaren;VER
+eine Verabredung treffen mit;vereinbaren;VER
+Verantwortung tragen für;verantwortlich sein;VER
+sich in Verbindung setzen mit;jdn. kontaktieren;VER
+in Verlegenheit bringen;verlegen machen;VER
+zur Verfügung stehen;vorhanden sein/da sein;VER
+zur Verfügung stellen;dafür sorgen, dass etw. vorhanden/da ist;VER
+Verständnis aufbringen für;verstehen;VER
+jdm. den Vorzug geben;bevorzugen, vorziehen;VER
+jdm. aus dem Weg gehen;vermeiden, ausweichen;VER
+im Zentrum stehen;am wichtigsten sein;VER
+im Zusammenhang stehen mit;zusammenhängen;VER
+Zweifel haben an;bezweifeln;VER
+außer Zweifel stehen;nicht bezweifelt werden;VER
