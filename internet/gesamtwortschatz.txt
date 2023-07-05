@@ -1,7 +1,7 @@
 Kater,-;Male cat;MAS
 Katze,-n;Female cat;FEM
 Hund,:e;Male dog;MAS
-Hundin,-innen;Female dog;FEM
+Hundin,-nen;Female dog;FEM
 verstecken;to hide;VER
 kratzen;to scratch;VER
 Feier;Celebration;FEM
