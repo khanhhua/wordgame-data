@@ -4,7 +4,7 @@ entwerfen,entwarf, hat entworfen;to design;VER
 kommentieren;to comment;VER
 Alternative,-n;Alternative;FEM
 Aufzählung,-en;Enumeration list;FEM
-Enschränkung,-en;Restriction;FEM
+Einschränkung,-en;Restriction;FEM
 Gegensatz,:e;Opposite statement;MAS
 Geschmack,:er;Taste;MAS
 Missvertändnis,-se;Misunderstanding;NEU
