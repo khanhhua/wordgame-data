@@ -525,8 +525,8 @@ Verhältnis,-se;Verhältnis;NEU
 Wut (Sg.);Wut (Sg.);FEM
 akzeptieren;akzeptieren;VER
 multikulturell;multikulturell;ADJ
-die/der Alleinerziehende;die/der Alleinerziehende;FEM:MAS
-die/der Alleinstehende;die/der Alleinstehende;FEM:MAS
+Alleinerziehende;Alleinerziehende;FEM:MAS
+Alleinstehende;Alleinstehende;FEM:MAS
 Drittel;Drittel;NEU
 Grafik,-en;Grafik;FEM
 Halfte,-n;Halfte;FEM
@@ -668,7 +668,7 @@ ertragreich;ertragreich;ADJ
 prickelnd;prickelnd;ADJ
 Abbildung,-en;Abbildung;FEM
 Aroma;Aroma;NEU
-die Aromen;die Aromen;PLU
+Aromen;Aromen;PLU
 Entschadigung,-en;Entschadigung;FEM
 Konzentrat,-e;Konzentrat;NEU
 Mindesthaltbarkeit (Sg.).;Mindesthaltbarkeit (Sg.).;FEM
@@ -736,7 +736,7 @@ festlegen;festlegen;VER
 verassen;verassen;VER
 relevant;relevant;ADJ
 Anziehungspunkt,-e;Anziehungspunkt;MAS
-der Beschäftigte,-n;der Beschäftigte;FEM
+Beschäftigte,-n;Beschäftigte;MAS:FEM
 Betreuung (Sg.);Betreuung (Sg.);FEM
 Campus (Sg.);Campus (Sg.);MAS
 Disziplin,-en;Disziplin;FEM
@@ -823,7 +823,7 @@ Umsetzung,-en;Umsetzung;FEM
 verlockend;verlockend;ADJ
 klingen,klang, hat geklungen;klingen;VER
 inbegriffen sein;inbegriffen sein;VER
-der Beteiligte,-n;der Beteiligte;FEM
+Beteiligte,-n;Beteiligte;MAS:FEM
 Enttäuschung,-en;Enttäuschung;FEM
 Fachmann,-er;Fachmann;MAS
 Gutschein,-e;Gutschein;MAS
