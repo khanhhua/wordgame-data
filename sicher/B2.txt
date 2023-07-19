@@ -507,8 +507,9 @@ entkräften;entkräften;VER
 Einstellung,-en;Einstellung;FEM
 Leidenschaft,-en;Leidenschaft;FEM
 Welle,-n;Welle;FEM
-der Ex;der Ex;FEM
-Exfrau / der -mann;Exfrau / der -mann;FEM
+Ex;Ex;MAS
+Exfrau;Exfrau;FEM
+Exmann;Exmann;MAS
 Gatte,-n;Gatte;MAS
 Konstellation,-en;Konstellation;FEM
 Stieftochter;Stieftochter;FEM
