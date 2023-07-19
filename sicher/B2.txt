@@ -529,7 +529,7 @@ Alleinerziehende;Alleinerziehende;FEM:MAS
 Alleinstehende;Alleinstehende;FEM:MAS
 Drittel;Drittel;NEU
 Grafik,-en;Grafik;FEM
-Halfte,-n;Halfte;FEM
+Hälfte,-n;Halves;FEM
 Lebensform,-en;Lebensform;FEM
 Schaubild,-er;Schaubild;NEU
 Single,-s;Single;MAS
