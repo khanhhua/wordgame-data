@@ -1,4 +1,4 @@
-Herkunft;Origin;FEM
+Herkunft,:e;Origin;FEM
 Motiv,-e;Motivation;NEU
 entwerfen,entwarf, hat entworfen;to design;VER
 kommentieren;to comment;VER
@@ -31,7 +31,7 @@ Erdbevölkerung;Earth's population;FEM
 Fakt,-en;Fact;MAS
 Freundschaftsanfrage,-n;Friend request;FEM
 Nutzer,-;User;MAS:PLU
-Redensart,-en;Empty word;FEM
+Redensart,-en;Empty word;MAS
 ermöglichen;to enable;VER
 vernetzt sein;to be connected;VER
 über sechs Ecken kennen;to know sb not so well;VER
@@ -85,3 +85,979 @@ Besen,-;Broom;MAS:PLU
 sorgen für;to care for;VER
 vertraut machen mit;to acquaint sb with sth;VER:RVER
 mental;mental;ADJ:ADV
+Profil,-e;Profil;NEU
+Anforderung,-en;Anforderung;FEM
+Bereich,-e;Bereich;MAS
+Bundesgebiet,-e;Bundesgebiet;NEU
+Klinik,-en;Klinik;FEM
+Konzept,-e;Konzept;NEU
+Messe,-n;Messe;FEM
+Schicht,-en;Schicht;FEM
+Schichtdienst,-e;Schichtdienst;MAS
+Spontaneität,-en;Spontaneität;FEM
+Unternehmen,-;Unternehmen;NEU
+Visitenkarte,-n;Visitenkarte;FEM
+Vorlesung,-en;Vorlesung;FEM
+erläutern;erläutern;VER
+forschen;forschen;VER
+knüpfen;knüpfen;VER
+mobil sein;mobil sein;VER
+ins Stocken geraten;ins Stocken geraten;VER
+tätig sein;tätig sein;VER
+zur Verfügung haben;zur Verfügung haben;VER
+zur Verfügung stellen;zur Verfügung stellen;VER
+Ablage,-n;Ablage;FEM
+Assistent,-en;Assistent;MAS
+Bereichsleiter,-;Bereichsleiter;MAS
+Konferenz,-en;Konferenz;FEM
+Position,-en;Position;FEM
+Projektleiter;Projektleiter;MAS
+Unterlage,-n;Unterlage;FEM
+durchsetzen;durchsetzen;VER
+dominant;dominant;ADJ
+durchsetzungsstark;durchsetzungsstark;ADJ
+ehrgeizig;ehrgeizig;ADJ
+strukturiert;strukturiert;ADJ
+teamfähig;teamfähig;ADJ
+unabhängig;unabhängig;ADJ
+Arbeitskraft,-e;Arbeitskraft;FEM
+Effekt,-e;Effekt;FEM
+Motivation,-en;Motivation;FEM
+Reportage,-n;Reportage;FEM
+Therapeut,-en;Therapeut;MAS
+Veränderung,-en;Veränderung;FEM
+Zusammenbruch,:e;Zusammenbruch;MAS
+spüren;spüren;VER
+erfahren sein (in);erfahren sein (in);ADJ
+begeistert;begeistert;ADJ
+Persönlichkeit,-en;Persönlichkeit;FEM
+Steigerung,-en;Steigerung;FEM
+Umsatz,:e;Umsatz;MAS
+Werbeaktion,-en;Werbeaktion;FEM
+erfüllen;erfüllen;VER
+hinterlassen;hinterlassen;VER
+sich spezialisieren auf;sich spezialisieren auf;VER
+verdreifachen;verdreifachen;VER
+am Laufen halten;am Laufen halten;VER
+kreativ;kreativ;ADJ
+ungezwungen;ungezwungen;ADJ
+unkonventionell;unkonventionell;ADJ
+Gewissen,-;Gewissen;NEU
+Offenheit,-en;Offenheit;FEM
+Stichwort,-e;Stichwort;NEU
+pendeln;pendeln;VER
+Bezug nehmen auf;Bezug nehmen auf;VER
+ein Gespräch fuhren;ein Gespräch fuhren;VER
+sich die Zeit vertreiben;sich die Zeit vertreiben;VER
+flüssig;flüssig;ADJ
+aufgrund;aufgrund;PREP
+ausführlich;ausführlich;ADJ
+dank;dank;PREP
+zumindest;zumindest;ADV
+Arbeitsgericht,-e;Arbeitsgericht;NEU
+Arbeitsrechtler,-;Arbeitsrechtler;MAS
+Aufregung;Aufregung;FEM
+Aufsehen;Aufsehen;NEU
+Aufsehen erregen;Aufsehen erregen;VER
+Besprechung,-en;Besprechung;FEM
+Diebstahl,:e;Diebstahl;MAS
+Einverständnis,-se;Einverständnis;NEU
+Fachanwalt,:e;Fachanwalt;MAS
+Genehmigung,-en;Genehmigung;FEM
+Keks,-e;Keks;MAS
+Sitte,-n;Sitte;FEM
+aufladen;aufladen;VER
+sich befassen mit;sich befassen mit;VER
+erwähnen;erwähnen;VER
+naschen;naschen;VER
+Bedenken äußern;Bedenken äußern;VER
+den Job kosten;den Job kosten;VER
+ausdrücklich;ausdrücklich;ADJ
+bedenklich;bedenklich;ADJ
+fristlos;fristlos;ADJ
+üblich;üblich;ADJ
+unüblich;unüblich;ADJ
+eine Reihe von;eine Reihe von;FEM
+Konvention;Konvention;FEM
+Anliegen;Anliegen;NEU
+weswegen,why;weswegen;ADV
+Medium;Medium;NEU
+Medien;Medien;PLU
+benutzen;benutzen;VER
+nutzen;nutzen;VER
+Buchhändlerin,-nen;Buchhändlerin;FEM
+Lesung,-en;Lesung;FEM
+Neuheit,-en;Neuheit;FEM
+Sachbuch,:er;Sachbuch;NEU
+Stammkunde,-n;Stammkunde;MAS
+animieren zu;animieren zu;VER
+beurteilen;beurteilen;VER
+quatschen;quatschen;VER
+angenommen werden;angenommen werden;VER
+verführerisch;verführerisch;ADJ
+Aufnahme,-n;Aufnahme;FEM
+Lufaufnahme,-n;Lufaufnahme;FEM
+Bildband,:e;Bildband;MAS
+Leseratte,-n;Leseratte;FEM
+anrühren;anrühren;VER
+greifen zu;greifen zu;VER
+jedermanns Sache sein;jedermanns Sache sein;VER
+Auflage,-n;Auflage;FEM
+Befürchtung,-en;Befürchtung;FEM
+Branche,-n;Branche;FEM
+Geschehen;Geschehen;NEU
+Gleichaltrige;Gleichaltrige;MAS
+Heranwachsende,-n;Heranwachsende;MAS
+Nachrichtenmagazin,-e;Nachrichtenmagazin;NEU
+Popularität;Popularität;FEM
+Printmedium;Printmedium;NEU
+Printmedien;Printmedien;PLU
+Vorbild,-er;Vorbild;NEU
+imitieren;imitieren;VER
+hierzulande;hierzulande;ADV
+Dokumentarfilm,-e;Dokumentarfilm;MAS
+Drehbuch,:er;Drehbuch;NEU
+Drehort,-e;Drehort;MAS
+Hintergrund,:e;Hintergrund;MAS
+Horrorfilm,-e;Horrorfilm;MAS
+Komödie,-e;Komödie;FEM
+Literaturverfilmung,-en;Literaturverfilmung;FEM
+Maskenbildner,-;Maskenbildner;MAS
+Prominente,-n;Prominente;MAS
+Redakteur,-e;Redakteur;MAS
+Regisseur,-e;Regisseur;MAS
+Skript,-s;Skript;NEU
+Stylist,-en;Stylist;MAS
+Szene,-n;Szene;FEM
+Vorlage,-n;Vorlage;FEM
+führen;führen;VER
+überarbeiten;überarbeiten;VER
+auswendig lernen;auswendig lernen;VER
+einen Film drehen;einen Film drehen;VER
+abwechslungsreich;abwechslungsreich;ADJ
+authentisch;authentisch;ADJ
+bilderreich;bilderreich;ADJ
+gruselig;gruselig;ADJ
+handlungsarm;handlungsarm;ADJ
+humorvoll;humorvoll;ADJ
+lehrreich;lehrreich;ADJ
+reißerisch;reißerisch;ADJ
+sachlich;sachlich;ADJ
+unsachlich;unsachlich;ADJ
+turbulent;turbulent;ADJ
+unterhaltsam;unterhaltsam;ADJ
+witzig;witzig;ADJ
+Raute,-n;Raute;FEM
+Großleinwand,:e;Großleinwand;FEM
+Schwäche,-n;Schwäche;FEM
+sich abheben von;sich abheben von;VER
+anschaffen;anschaffen;VER
+dahinterstecken;dahinterstecken;VER
+starren;starren;VER
+verfolgen;verfolgen;VER
+bemerkenswert;bemerkenswert;ADJ
+großartig;großartig;ADJ
+Komplexität;Komplexität;FEM
+Logik;Logik;FEM
+Meldung,-en;Meldung;FEM
+Quelle,-n;Quelle;FEM
+erläutern;erläutern;VER
+ansprechend;ansprechend;ADV
+anspruchsvoll;anspruchsvoll;ADJ
+bebildert;bebildert;ADJ
+übersichtlich;übersichtlich;ADV
+das Herz ausschüttern;das Herz ausschüttern;VER
+Bildungswerk,-e;Bildungswerk;NEU
+Bundesfreiwilligendienst,-e;Bundesfreiwilligendienst;MAS
+Freiwilligendienst leisten;Freiwilligendienst leisten;VER
+Einrichting,-en;Einrichting;FEM
+Behindertenwerkstatt,:en;Behindertenwerkstatt;FEM
+Beliebtheitsskala,-en;Beliebtheitsskala;FEM
+Dienstleistung,-en;Dienstleistung;FEM
+Einheimische,-n;Einheimische;MAS
+Faust,:e;Faust;FEM
+etwas auf eigene Faust organisieren;etwas auf eigene Faust organisieren;VER
+Gegenseitigkeit,-en;Gegenseitigkeit;FEM
+auf Gegenseitigkeit beruhen;auf Gegenseitigkeit beruhen;VER
+Gelengenheitsjob,-s;Gelengenheitsjob;MAS
+Schulabgänger,-;Schulabgänger;MAS
+Weise,-n;Weise;FEM
+Zuschuss,:e;Zuschuss;MAS
+vorgehen;vorgehen;VER
+Kenntnisse anwenden;Kenntnisse anwenden;VER
+Wissen erwerben;Wissen erwerben;VER
+einheimisch;einheimisch;ADJ
+gegenüberliegend;gegenüberliegend;ADJ
+gemeinnützig;gemeinnützig;ADJ
+ehe;ehe;KON
+in der Regel;in der Regel;ADV
+sobald;sobald;KON
+solange;solange;KON
+Aufenthaltserlaubnis,-se;Aufenthaltserlaubnis;FEM
+Auszeit,-en;Auszeit;FEM
+Brückenjahr,-en;Brückenjahr;NEU
+begrenzen;begrenzen;VER
+durchatmen;durchatmen;VER
+sich etwas erfüllen;sich etwas erfüllen;VER
+sich leisten;sich leisten;VER
+sich wenden an;sich wenden an;VER
+berechtigt sein;berechtigt sein;VER
+jedem selbst überlassen sein;jedem selbst überlassen sein;VER
+Bereicherung,-en;Bereicherung;FEM
+Eintrag,:e;Eintrag;MAS
+Mitbringsel,-;Mitbringsel;NEU
+beifügen;beifügen;VER
+bewerten;bewerten;VER
+zugeben;zugeben;VER
+eine Erfahrung nicht missen wollen;eine Erfahrung nicht missen wollen;VER
+lohnend;lohnend;ADJ
+Berufsorientierung;Berufsorientierung;FEM
+Berufsorientierungsmesse;Berufsorientierungsmesse;FEM
+Notendurchscnitt,-e;Notendurchscnitt;MAS
+Leistungsdruck;Leistungsdruck;MAS
+Vorliebe,-n;Vorliebe;FEM
+Werkstudent,-en;Werkstudent;MAS
+jdm absagen;jdm absagen;VER
+jdm zusagen;jdm zusagen;VER
+geeignet sein für;geeignet sein für;VER
+infrage kommen für;infrage kommen für;VER
+ausnahmsweise;ausnahmsweise;ADV
+dummerweise;dummerweise;ADV
+erfreundlicherweise;erfreundlicherweise;ADV
+erstaunlicherweise;erstaunlicherweise;ADV
+normalerweise;normalerweise;ADV
+probeweise;probeweise;ADV
+sinnvollerweise;sinnvollerweise;ADV
+stellenweise;stellenweise;ADV
+überraschenderweise;überraschenderweise;ADV
+vergleichsweise;vergleichsweise;ADV
+verständlicherweise;verständlicherweise;ADV
+Aufnahmerprüfung;Aufnahmerprüfung;FEM
+Bühnenbild,-er;Bühnenbild;NEU
+Klassiker,-;Klassiker;MAS
+Niederlage,-n;Niederlage;FEM
+Spielplan,:e;Spielplan;MAS
+Studiengang,:e;Studiengang;MAS
+aufführen;aufführen;VER
+vielfältig;vielfältig;ADJ
+zeitgenössisch;zeitgenössisch;ADJ
+Fotomontage,-n;Fotomontage;FEM
+Hilfsmittel,-n;Hilfsmittel;NEU
+Kampagne,-n;Kampagne;FEM
+Styling,-s;Styling;NEU
+wirken;wirken;VER
+Ausgabe,-n;Ausgabe;FEM
+Ausschreibung,-en;Ausschreibung;FEM
+Aspekt,-e;Aspekt;MAS
+Klamotten;Klamotten;PLU
+Laufsteg,-e;Laufsteg;MAS
+Makel,-;Makel;MAS
+Model,-s;Model;NEU
+Wettbewerb,-e;Wettbewerb;FEM
+sich beschränken auf;sich beschränken auf;VER
+durchblättern;durchblättern;VER
+irritieren;irritieren;VER
+sein lassen;sein lassen;VER
+staunen über;staunen über;VER
+stylen;stylen;VER
+vorführen;vorführen;VER
+verschreiben;verschreiben;VER
+verzichten auf;verzichten auf;VER
+zustimmen;zustimmen;VER
+attractiv;attractiv;ADJ
+selbsbewusst;selbsbewusst;ADJ
+vielseitig;vielseitig;ADJ
+Entdeckung,-en;Entdeckung;FEM
+Mentalität,-en;Mentalität;FEM
+Schönheitsideal,-e;Schönheitsideal;NEU
+prägen;prägen;VER
+entdeckt werden;entdeckt werden;VER
+neidisch sein;neidisch sein;VER
+riskant sein;riskant sein;VER
+stammen aus;stammen aus;VER
+souverän;souverän;ADJ
+Augenbraue,-n;Augenbraue;FEM
+Äußerlichkeit,-en;Äußerlichkeit;FEM
+Garderobe,-n;Garderobe;FEM
+Körperbehaarung;Körperbehaarung;FEM
+Kosmetikerin,-nen;Kosmetikerin;FEM
+Wimper,-n;Wimper;FEM
+abraten;abraten;VER
+sich engagieren für;sich engagieren für;VER
+färben;färben;VER
+lackieren;lackieren;VER
+plädieren für;plädieren für;VER
+übertreiben;übertreiben;VER
+effektiv;effektiv;ADJ
+Lücke,-n;Lücke;FEM
+kein Auge zutun;kein Auge zutun;VER
+jdm die Augen öffnen;jdm die Augen öffnen;VER
+beide Augen zudrücken;beide Augen zudrücken;VER
+auf eigenen Füßen stehen;auf eigenen Füßen stehen;VER
+auf großem Fuß leben;auf großem Fuß leben;VER
+kalte Füße bekommen;kalte Füße bekommen;VER
+etwas hängt einem zum Hals;etwas hängt einem zum Hals;VER
+jdm um den Hals fallen;jdm um den Hals fallen;VER
+Hals über Kopf;Hals über Kopf;MAS
+etwas in die Hand nehmen;etwas in die Hand nehmen;VER
+zwei linke Hände haben;zwei linke Hände haben;VER
+in festen Händen sein;in festen Händen sein;VER
+den Kopf verlieren;den Kopf verlieren;VER
+sich etwas durch den Kopf gehen lassen;sich etwas durch den Kopf gehen lassen;VER
+von Kopf bis Fuß;von Kopf bis Fuß;ADV
+eine starke Schulter zum Anlehnen brauchen;eine starke Schulter zum Anlehnen brauchen;VER
+etwas auf die leichte Schulter nehmen;etwas auf die leichte Schulter nehmen;VER
+Beweglichkeit;Beweglichkeit;FEM
+Fitness;Fitness;FEM
+Gelenk,-e;Gelenk;NEU
+Gleichgewicht,-e;Gleichgewicht;NEU
+Haltung,-en;Haltung;FEM
+Kondition;Kondition;FEM
+Koordination,-en;Koordination;FEM
+Muskel,-n;Muskel;MAS
+berühren;berühren;VER
+kratzen;kratzen;VER
+kreisen;kreisen;VER
+rutschen;rutschen;VER
+verschränken;verschränken;VER
+sich verbeugen;sich verbeugen;VER
+jdm liegt etwas (nicht);jdm liegt etwas (nicht);VER
+gelenkig;gelenkig;ADJ
+sanft;sanft;ADJ
+etwas Ausgefallenes;etwas Ausgefallenes;NEU
+Inserent,-en;Inserent;MAS
+Niveau,-s;Niveau;NEU
+Choreographie,-n;Choreographie;FEM
+ausprobieren;ausprobieren;VER
+herumhüpfen;herumhüpfen;VER
+klatschen;klatschen;VER
+schütteln;schütteln;VER
+Galerie,-n;Galerie;FEM
+kulinarisch;kulinarisch;ADJ
+App,-s;App;FEM
+betrieb,-e;betrieb;MAS
+Funktionsweise,-n;Funktionsweise;FEM
+herausfiltern;herausfiltern;VER
+sich verfahren,verfuhr sich, hat sich verfahren;sich verfahren;VER
+vornehm;vornehm;ADJ
+Auslauf (Sg.);Auslauf (Sg.);MAS
+Kuppel,-n;Kuppel;FEM
+Label,-s;Label;NEU
+Meisterwerk,-e;Meisterwerk;NEU
+Prominenz,-en;Prominenz;FEM
+Schwerpunkt,-e;Schwerpunkt;MAS
+Spektakel;Spektakel;NEU
+Uhrwerk,-e;Uhrwerk;NEU
+sich blicken lassen,ließ, hat gelassen;sich blicken lassen;VER
+flanieren;flanieren;VER
+vereinen;vereinen;VER
+begeistert sein von;begeistert sein von;VER
+bekannt sein für;bekannt sein für;VER
+beliebt sein bei;beliebt sein bei;VER
+berühmt sein für;berühmt sein für;VER
+stolz sein auf (+ Akk.);stolz sein auf (+ Akk.);VER
+überrascht sein über (+ Akk.);überrascht sein über (+ Akk.);VER
+zufrieden sein mit;zufrieden sein mit;VER
+charakteristisch;charakteristisch;ADJ
+einstig;einstig;ADJ
+legendär;legendär;ADJ
+lohnenswert;lohnenswert;ADJ
+mittelalterlich;mittelalterlich;ADJ
+urban;urban;ADJ
+Infrastruktur,-en;Infrastruktur;FEM
+Spalte,-n;Spalte;FEM
+landeskundlich;landeskundlich;ADJ
+Ausflügler;Ausflügler;MAS
+Fassade,-n;Fassade;FEM
+Hauptverkenrsader,-n;Hauptverkenrsader;FEM
+Stadtrand,-er;Stadtrand;MAS
+Tagesstätte,-n;Tagesstätte;FEM
+Umweltministerium,-ien;Umweltministerium;NEU
+auffrischen;auffrischen;VER
+(sich) austauschen;(sich) austauschen;VER
+sanieren;sanieren;VER
+tauschen;tauschen;VER
+sich wandeln;sich wandeln;VER
+wimmeln von;wimmeln von;VER
+eindrucksvoll;eindrucksvoll;ADJ
+einspurig;einspurig;ADJ
+einzigartig;einzigartig;ADJ
+gebürtig;gebürtig;ADJ
+gutbürgerlich;gutbürgerlich;ADJ
+heruntergekommen;heruntergekommen;ADJ
+mehrspurig;mehrspurig;ADJ
+Einkaufspassage,-n;Einkaufspassage;FEM
+Imbissstand,:e;Imbissstand;MAS
+Nahverkehrssystem,-e;Nahverkehrssystem;NEU
+Stadttor,-e;Stadttor;NEU
+Versorgung (Sg.);Versorgung (Sg.);FEM
+verwaltungsgebiet,e;verwaltungsgebiet;NEU
+Wasserleitung,-en;Wasserleitung;FEM
+erschließen,erschloss, hat erschlossen;erschließen;VER
+versorgen;versorgen;VER
+voraussagen;voraussagen;VER
+bedeckt sein (mit);bedeckt sein (mit);VER
+detailliert;detailliert;ADJ
+entsprechend;entsprechend;ADJ
+schadhaft;schadhaft;ADJ
+Bedenken (PI.);Bedenken (PI.);FEM
+Einigung (Sg.);Einigung (Sg.);FEM
+sich einigen;sich einigen;VER
+entkräften;entkräften;VER
+Einstellung,-en;Einstellung;FEM
+Leidenschaft,-en;Leidenschaft;FEM
+Welle,-n;Welle;FEM
+der Ex;der Ex;FEM
+Exfrau / der -mann;Exfrau / der -mann;FEM
+Gatte,-n;Gatte;MAS
+Konstellation,-en;Konstellation;FEM
+Stieftochter;Stieftochter;FEM
+Stiefsohn;Stiefsohn;MAS
+leiblich;leiblich;ADJ
+Assoziation,-en;Assoziation;FEM
+Bedürfnis,-se;Bedürfnis;NEU
+Generation. -en;Generation. -en;FEM
+Patchwork-Familie,-n;Patchwork-Familie;FEM
+Protest;Protest;MAS
+Respekt (Sg.)*;Respekt (Sg.)*;MAS
+Verhältnis,-se;Verhältnis;NEU
+Wut (Sg.);Wut (Sg.);FEM
+akzeptieren;akzeptieren;VER
+multikulturell;multikulturell;ADJ
+die/der Alleinerziehende;die/der Alleinerziehende;FEM:MAS
+die/der Alleinstehende;die/der Alleinstehende;FEM:MAS
+Drittel;Drittel;NEU
+Grafik,-en;Grafik;FEM
+Halfte,-n;Halfte;FEM
+Lebensform,-en;Lebensform;FEM
+Schaubild,-er;Schaubild;NEU
+Single,-s;Single;MAS
+Statistik,-en;Statistik;FEM
+Viertel,-;Viertel;NEU
+abnehmen,nahm ab, hat abgenommen;abnehmen;VER
+sich erhöhen;sich erhöhen;VER
+sinken,sank, ist gesunken;sinken;VER
+stagnieren;stagnieren;VER
+steigen,stieg, ist gestiegen;steigen;VER
+sich verringern;sich verringern;VER
+zunehmen,nahm zu, hat zugenommen;zunehmen;VER
+68er;68er;FEM
+Ahnung,-en;Ahnung;FEM
+Einfachheit (Sg.);Einfachheit (Sg.);FEM
+Einfachheit halber;Einfachheit halber;MAS
+Härte,-en;Härte;FEM
+Neugier (Sg.);Neugier (Sg.);FEM
+Reaktion,-en;Reaktion;FEM
+Rechtfertigung,-en;Rechtfertigung;FEM
+Sicht (Sg.);Sicht (Sg.);FEM
+aus meiner Sicht;aus meiner Sicht;PREP
+aus Ihrer Sicht;aus Ihrer Sicht;PREP
+Stapel,-;Stapel;MAS
+etwas äußern;etwas äußern;VER
+eilen;eilen;VER
+fixieren;fixieren;VER
+überhören;überhören;VER
+beiläufig;beiläufig;ADJ
+fulminant;fulminant;ADJ
+radikal;radikal;ADJ
+schwungvoll;schwungvoll;ADJ
+unbekümmert;unbekümmert;ADJ
+vollständig;vollständig;ADJ
+Befürworter,-;Befürworter;MAS
+Bezug;Bezug;MAS
+Bezug nehmen auf (+ Akk.);Bezug nehmen auf (+ Akk.);VER
+Fazit (meist Sg.);Fazit (meist Sg.);NEU
+Kreis. -e;Kreis. -e;MAS
+Scheidungsrate,-n;Scheidungsrate;FEM
+Stellungnahme,-n;Stellungnahme;FEM
+Verknüptung,-en;Verknüptung;FEM
+befristen;befristen;VER
+scheitern;scheitern;VER
+Klischee,s;Klischee;NEU
+Devise,-n;Devise;FEM
+Distanz,-en;Distanz;FEM
+Fernbeziehung,-en;Fernbeziehung;FEM
+Flexibilität (Sg.);Flexibilität (Sg.);FEM
+Geste,-n;Geste;FEM
+Harmonie,-n;Harmonie;FEM
+Perspektive,-n;Perspektive;FEM
+Sehnsucht,-e;Sehnsucht;FEM
+Zauber,-;Zauber;MAS
+sich austauschen;sich austauschen;VER
+sich entfremden;sich entfremden;VER
+etwas erfordern;etwas erfordern;VER
+umgehen mit,ging um, ist umgegangen;umgehen mit;VER
+auf etwas aus sein;auf etwas aus sein;VER
+ausgeglichen sein;ausgeglichen sein;VER
+etwas auf sich zukommen lassen,ließ, hat gelassen;etwas auf sich zukommen lassen;VER
+bedauernswert;bedauernswert;ADJ
+Exotik,-;Exotik;FEM
+Geborgenheit,-en;Geborgenheit;FEM
+Hinsicht,-en;Hinsicht;FEM
+in Hinsicht auf (+ Akk.);in Hinsicht auf (+ Akk.);PREP
+Vertrauen (Sg.);Vertrauen (Sg.);NEU
+Vordergrund,e;Vordergrund;MAS
+etwas aussagen;etwas aussagen;VER
+sich einigen auf (+ Akk.);sich einigen auf (+ Akk.);VER
+bikulturell;bikulturell;ADJ
+Applaus (Sg.);Applaus (Sg.);MAS
+Detail,-s;Detail;NEU
+Dichter,-;Dichter;MAS
+etwas vortragen,trug vor, hat vorgetragen;etwas vortragen;VER
+Durchschnitt;Durchschnitt;MAS
+konsumieren;konsumieren;VER
+Beweggrund,e;Beweggrund;MAS
+Debatte,-n;Debatte;FEM
+Entwicklungsland,-er;Entwicklungsland;NEU
+Gewissen (Sg.);Gewissen (Sg.);NEU
+Mangelerscheinung,-en;Mangelerscheinung;FEM
+Massentierhaltung,-en;Massentierhaltung;FEM
+Minera stoff -e;Minera stoff -e;MAS
+Nährstoffmangel,:;Nährstoffmangel;MAS
+Organismus;Organismus;MAS
+Organismen;Organismen;FEM
+Pfanne,-n;Pfanne;FEM
+Tendenz,-en;Tendenz;FEM
+Ubersicht -en;Ubersicht -en;FEM
+Veganer,-;Veganer;MAS
+Vegetarier,-;Vegetarier;MAS
+Verzicht (Sg.);Verzicht (Sg.);MAS
+Vitamin,-e;Vitamin;NEU
+Wirtschaftswunder,-;Wirtschaftswunder;NEU
+hinweisen auf (+ Akk.),wies hin, hat hingewiesen;hinweisen auf (+ Akk.);VER
+verzehren;verzehren;VER
+verzichten auf Akk.;verzichten auf Akk.;VER
+jemandem etwas zufügen;jemandem etwas zufügen;VER
+in vollem Gange sein;in vollem Gange sein;VER
+tabu sein;tabu sein;VER
+ethisch;ethisch;ADJ
+genussorientiert;genussorientiert;ADJ
+vegetarisch;vegetarisch;ADJ
+laut + Dat.;laut + Dat.;PREP
+zufolge (+ Dat., nachgestellt),nachgestellt);zufolge (+ Dat., nachgestellt);PREP
+schlemmen;schlemmen;VER
+wurzen;wurzen;VER
+zubereiten;zubereiten;VER
+aromatisch;aromatisch;ADJ
+exotisch;exotisch;ADJ
+genussvoll;genussvoll;ADJ
+lecker;lecker;ADJ
+molekular;molekular;ADJ
+relativ;relativ;ADJ
+Anass;Anass;MAS
+Puderzucker (Sg.);Puderzucker (Sg.);MAS
+Zutat,-en;Zutat;FEM
+schälen;schälen;VER
+reihum;reihum;ADV
+Bestandtell. -e;Bestandtell. -e;MAS
+Busch,e;Busch;MAS
+Gemüse (Sg.);Gemüse (Sg.);NEU
+Gemüsesorte,-n;Gemüsesorte;FEM
+Kammer,-n;Kammer;FEM
+Kohlenhydrat,-e;Kohlenhydrat;NEU
+Kohlensäure (Sg.);Kohlensäure (Sg.);FEM
+Konsistenz,-en;Konsistenz;FEM
+Mikrowelle,-n;Mikrowelle;FEM
+Strauch,-er;Strauch;MAS
+Vielfalt (Sg.);Vielfalt (Sg.);FEM
+anbauen;anbauen;VER
+erzeugen;erzeugen;VER
+verschwenden;verschwenden;VER
+ertragreich;ertragreich;ADJ
+prickelnd;prickelnd;ADJ
+Abbildung,-en;Abbildung;FEM
+Aroma;Aroma;NEU
+die Aromen;die Aromen;PLU
+Entschadigung,-en;Entschadigung;FEM
+Konzentrat,-e;Konzentrat;NEU
+Mindesthaltbarkeit (Sg.).;Mindesthaltbarkeit (Sg.).;FEM
+Täuschung,-en;Täuschung;FEM
+Verpackung,-en;Verpackung;FEM
+Widerspruch,-e;Widerspruch;MAS
+auflisten;auflisten;VER
+in die Irre führen;in die Irre führen;VER
+einer Bitte nachkommen,kam nach, ist nachgekommen;einer Bitte nachkommen;VER
+allergisch;allergisch;ADJ
+schlüssig;schlüssig;ADJ
+meines Erachtens;meines Erachtens;PREP
+Abfalltonne -n;Abfalltonne -n;FEM
+Ablauf,:e;Ablauf;MAS
+Studie,-n;Studie;FEM
+Tonne,-n (Maßeinheit);Tonne;FEM
+Überfluss (Sg.);Überfluss (Sg.);MAS
+Umgang (Sg.);Umgang (Sg.);MAS
+Verfallsdatum,-daten;Verfallsdatum;NEU
+Verunsicherung,-en;Verunsicherung;FEM
+Verschwendung (Sg.);Verschwendung (Sg.);FEM
+Vorrat. -e;Vorrat. -e;MAS
+sich eiwas leisten;sich eiwas leisten;VER
+überschreiten,überschritt, hat überschritten;überschreiten;VER
+vernichten;vernichten;VER
+verwirren;verwirren;VER
+genießbar;genießbar;ADJ
+verderblich;verderblich;ADJ
+vermeidbar;vermeidbar;ADJ
+Nutztier,-e;Nutztier;NEU
+aufmerksam machen auf + Akk.;aufmerksam machen auf + Akk.;VER
+etwas spricht einen an,sprach an, hat angesprochen;etwas spricht einen an;VER
+maßvoll;maßvoll;ADJ
+jemandem etwas überlassen,überließ, hat überlassen;jemandem etwas überlassen;VER
+bedürftig;bedürftig;ADJ
+wissenschaftlich;wissenschaftlich;ADJ
+Arbeitsaufwand (Sg.);Arbeitsaufwand (Sg.);MAS
+Aufsatz,:e;Aufsatz;MAS
+Dozent,-en;Dozent;MAS
+Facharbeit,-en;Facharbeit;FEM
+Fachliteratur (Sg.);Fachliteratur (Sg.);FEM
+Gliederung,-en;Gliederung;FEM
+Hausarbeit,-en;Hausarbeit;FEM
+Hörsaal,-e;Hörsaal;MAS
+Klausur,-en;Klausur;FEM
+Kommilitone,-n;Kommilitone;MAS
+Kommilitonin,-nen;Kommilitonin;FEM
+Lehrveranstaltung,-en;Lehrveranstaltung;FEM
+Mensa;Mensa;FEM
+Mensen;Mensen;FEM
+Studienfach,-er;Studienfach;NEU
+Studiengang,-e;Studiengang;MAS
+Seminar,-e;Seminar;NEU
+Seminararbeit,-en;Seminararbeit;FEM
+Verlauf,:e;Verlauf;MAS
+Vorlesung,-en;Vorlesung;FEM
+Vorlesungsverzeichnis,-se;Vorlesungsverzeichnis;NEU
+Wortfeld,-er;Wortfeld;NEU
+absolvieren;absolvieren;VER
+eine Prüfung ablegen;eine Prüfung ablegen;VER
+anrechnen;anrechnen;VER
+sich einschreiben,schrieb sich ein, hat sich eingeschrieben;sich einschreiben;VER
+sich etwas erarbeiten;sich etwas erarbeiten;VER
+festlegen;festlegen;VER
+verassen;verassen;VER
+relevant;relevant;ADJ
+Anziehungspunkt,-e;Anziehungspunkt;MAS
+der Beschäftigte,-n;der Beschäftigte;FEM
+Betreuung (Sg.);Betreuung (Sg.);FEM
+Campus (Sg.);Campus (Sg.);MAS
+Disziplin,-en;Disziplin;FEM
+Fachbereich,-e;Fachbereich;MAS
+Fakultät,-en;Fakultät;FEM
+Forderung,-en;Forderung;FEM
+Gelände,-;Gelände;NEU
+Metropolregion,-en;Metropolregion;FEM
+Nachwuchs (Sg.);Nachwuchs (Sg.);MAS
+(Spitzen)Forscher,-;(Spitzen)Forscher;MAS
+Studienabschluss,:e;Studienabschluss;MAS
+Zuständigkeit,-en;Zuständigkeit;FEM
+Zuwanderung,-en;Zuwanderung;FEM
+abrunden;abrunden;VER
+abschaffen;abschaffen;VER
+sich ausleben;sich ausleben;VER
+gehören zu;gehören zu;VER
+promovieren;promovieren;VER
+verweilen;verweilen;VER
+Lust wecken auf (+ AKK.);Lust wecken auf (+ AKK.);VER
+eine Karriere einschlagen,schlug ein, hat eingeschlagen;eine Karriere einschlagen;VER
+auf dem Weg sein;auf dem Weg sein;VER
+dicht;dicht;ADJ
+hervorragend;hervorragend;ADJ
+übergreifend;übergreifend;ADJ
+vereint;vereint;ADJ
+ansonsten;ansonsten;ADV
+untereinander;untereinander;ADV
+Umgebung,-en;Umgebung;FEM
+Vorstellung,-en;Vorstellung;FEM
+zustimmen;zustimmen;VER
+renommiert;renommiert;ADJ
+dafür;dafür;ADV
+Aufgeschlossenheit (Sg.);Aufgeschlossenheit (Sg.);FEM
+Grundlage,-n;Grundlage;FEM
+Mappe,-n;Mappe;FEM
+sich etwas aneignen;sich etwas aneignen;VER
+verfügen über (+ Akk.);verfügen über (+ Akk.);VER
+sich vertraut machen mit;sich vertraut machen mit;VER
+weiterbringen,brachte weiter, hat weitergebracht;weiterbringen;VER
+einen Eindruck gewinnen von,gewann, hat gewonnen;einen Eindruck gewinnen von;VER
+einen Eindruck bekommen von,bekam, hat bekommen;einen Eindruck bekommen von;VER
+einen Eindruck haben von,hatte, hat gehabt;einen Eindruck haben von;VER
+einen Eindruck hinterlassen bei,hinterließ, hat hinterlassen;einen Eindruck hinterlassen bei;VER
+Kenntnisse vertiefen;Kenntnisse vertiefen;VER
+Kontakte knüpfen;Kontakte knüpfen;VER
+eine Meinung vertreten,vertrat, hat vertreten;eine Meinung vertreten;VER
+Verantwortung übernehmen,übernahm, hat übernommen;Verantwortung übernehmen;VER
+beeindruckt sein von;beeindruckt sein von;VER
+Ausgabe,-n;Ausgabe;FEM
+Einnahmequelle,-n;Einnahmequelle;FEM
+Lebenshaltungskosten;Lebenshaltungskosten;FEM
+Stipendiengeber;Stipendiengeber;MAS
+Studentenwerk,e;Studentenwerk;NEU
+Verdienst,-e;Verdienst;MAS
+Zinssatz,e;Zinssatz;MAS
+verfügen über (+ Akk.);verfügen über (+ Akk.);VER
+rund;rund;ADJ
+Gerausch,-e;Gerausch;NEU
+schieflaufen,lief schief, ist schiefgelaufen.;schieflaufen;VER
+etwas wiedergeben,gab wieder, hat wiedergegeben;etwas wiedergeben;VER
+anspruchslos;anspruchslos;ADJ
+atypisch;atypisch;ADj
+desillusioniert;desillusioniert;ADJ
+irrelevant;irrelevant;ADJ
+missverständlich;missverständlich;ADJ
+mühelos;mühelos;ADJ
+non-verbal;non-verbal;ADJ
+unübertroffen;unübertroffen;ADJ
+Begleitung,-en;Begleitung;FEM
+etwas in Anspruch nehmen,nahm, hat genommen;etwas in Anspruch nehmen;VER
+Dienstleistung,-en;Dienstleistung;FEM
+Unterbringung,-en;Unterbringung;FEM
+Vierbeiner,-;Vierbeiner;MAS
+Werbespruch,e;Werbespruch;MAS
+Zusatz -e;Zusatz -e;MAS
+sich ausschließen,schloss sich aus, hat sich ausgeschlossen;sich ausschließen;VER
+knifflig;knifflig;ADJ
+unschlagbar;unschlagbar;ADJ
+Flyer,-;Flyer;MAS
+Investition,-en;Investition;FEM
+Logo,-s;Logo;NEU
+Umsetzung,-en;Umsetzung;FEM
+verlockend;verlockend;ADJ
+klingen,klang, hat geklungen;klingen;VER
+inbegriffen sein;inbegriffen sein;VER
+der Beteiligte,-n;der Beteiligte;FEM
+Enttäuschung,-en;Enttäuschung;FEM
+Fachmann,-er;Fachmann;MAS
+Gutschein,-e;Gutschein;MAS
+Jagd,-;Jagd;FEM
+Mogelpackung,-en;Mogelpackung;FEM
+Internet Portal. -e;Internet Portal. -e;NEU
+Rabatt,-e;Rabatt;MAS
+Schnappchen;Schnappchen;NEU
+vermitteln;vermitteln;VER
+jemanden zufriedenstellen;jemanden zufriedenstellen;VER
+ausverkauft sein;ausverkauft sein;VER
+limitiert;limitiert;ADJ
+ursprünglich;ursprünglich;ADJ
+Blumenstrauß,-e;Blumenstrauß;MAS
+Buchse,-en;Buchse;FEM
+Bund;Bund;MAS
+Dauerbrenner;Dauerbrenner;MAS
+Erdbeere,-n;Erdbeere;FEM
+Gartner,-;Gartner;MAS
+Grundstück,-e;Grundstück;NEU
+Kraut,:er;Kraut;NEU
+Plantage,-n;Plantage;FEM
+Selbstbedienung;Selbstbedienung;FEM
+Sortiment,-e;Sortiment;NEU
+Wühltisch,-e;Wühltisch;MAS
+sich befinden,befand sich, hat sich befunden;sich befinden;VER
+bewassern;bewassern;VER
+experimentieren;experimentieren;VER
+flitzen;flitzen;VER
+inspirieren;inspirieren;VER
+pflücken;pflücken;VER
+variieren;variieren;VER
+zwinkern;zwinkern;VER
+sich etwas zur Gewohnheit machen;sich etwas zur Gewohnheit machen;VER
+gut schlecht ankommen,kam an, ist angekommen;gut schlecht ankommen;VER
+nach dem Rechten sehen, sah, hat gesehen im Trend liegen, lag, hat gelegen,sah, hat gesehen im Trend liegen, lag, hat gelegen;nach dem Rechten sehen, sah, hat gesehen im Trend liegen, lag, hat gelegen;
+stetig;stetig;ADJ
+Auswahl (Sg.);Auswahl (Sg.);FEM
+Betreiber,-;Betreiber;MAS
+Kombination,-en;Kombination;FEM
+Abo,-s;Abo;NEU
+Einschätzung;Einschätzung;FEM
+Phanomen,-e;Phanomen;NEU
+Programmierung,-en;Programmierung;FEM
+etwas bereuen;etwas bereuen;VER
+jemanden sich verkleiden (als);jemanden sich verkleiden (als);VER
+über den Kopf wachsen,wuchs, ist gewachsen;über den Kopf wachsen;VER
+Eingabe,n;Eingabe;FEM
+Freisprechanlage,-n;Freisprechanlage;FEM
+jemanden nerven;jemanden nerven;VER
+amüsant;amüsant;ADJ
+Ehrenamt,-er;Ehrenamt;NEU
+Engagement (Sg.);Engagement (Sg.);NEU
+eine Tätigkeit / einen Beruf ausüben;eine Tätigkeit / einen Beruf ausüben;VER
+sich engagieren für;sich engagieren für;VER
+ehrenamtlich;ehrenamtlich;ADJ
+gut/schlecht ausgehen,ging aus, ist ausgegangen;gut/schlecht ausgehen;VER
+sich identifizieren mit;sich identifizieren mit;VER
+sprechen für (+ Akk.),sprach, hat gesprochen;sprechen für (+ Akk.);VER
+Anspruch,e;Anspruch;MAS
+Bedarf (Sg.);Bedarf (Sg.);MAS
+Hauptmotiv,-e;Hauptmotiv;NEU
+Hürde,-n;Hürde;FEM
+Knochenjob,-s;Knochenjob;MAS
+Prestige (Sg.);Prestige (Sg.);NEU
+Schuld (Sg.).;Schuld (Sg.).;FEM
+Schuld an (+ Dat.);Schuld an (+ Dat.);FEM
+Zulassung,-en;Zulassung;FEM
+akut;akut;ADJ
+angesehen;angesehen;ADJ
+ansehnlich;ansehnlich;ADJ
+befastbar;befastbar;ADJ
+Anerkennung,-en;Anerkennung;FEM
+Heraustorderung,-en;Heraustorderung;FEM
+Hospitation,-en;Hospitation;FEM
+Qualifikation,-en;Qualifikation;FEM
+Recherche,-n;Recherche;FEM
+Visite,-n;Visite;FEM
+kostspielig;kostspielig;ADJ
+künftig;künftig;ADJ
+Allergie,-n;Allergie;FEM
+Ausschlag,-e;Ausschlag;MAS
+Beschwerde,-n;Beschwerde;FEM
+Bluthochdruck (Sg.);Bluthochdruck (Sg.);MAS
+Durchfall,-e;Durchfall;MAS
+Entzündung,-en;Entzündung;FEM
+Erbrechen (Sg.);Erbrechen (Sg.);NEU
+Heilmittel,-;Heilmittel;NEU
+Infektion,-en;Infektion;FEM
+Insekt. -en;Insekt. -en;NEU
+Sonnenbrand,-e;Sonnenbrand;MAS
+Spritze,-n;Spritze;FEM
+Stich,-e;Stich;MAS
+Übelkeit (Sg.);Übelkeit (Sg.);FEM
+Verband,e;Verband;MAS
+Wunde,-n;Wunde;FEM
+Zäpfchen,-;Zäpfchen;NEU
+grundsätzlich;grundsätzlich;ADJ
+Heilpraktiker,-;Heilpraktiker;MAS
+iverv. -en;iverv. -en;MAS
+Symptom,-e;Symptom;NEU
+das Virus,die Viren;das Virus;MAS
+sprechen gegen (+ Akk.),sprach, hat gesprochen;sprechen gegen (+ Akk.);VER
+sich anstecken;sich anstecken;VER
+einreiben,rieb ein, hat eingerieben;einreiben;VER
+etwas übertreiben,übertrieb, hat übertrieben;etwas übertreiben;VER
+vermeiden,vermied, hat vermieden;vermeiden;VER
+dumpf;dumpf;ADJ
+intensiv;intensiv;ADJ
+pochend;pochend;ADJ
+stechend;stechend;ADJ
+ziеhепd;ziеhепd;ADJ
+Aufnahme,-n;Aufnahme;FEM
+Drohung,-en;Drohung;FEM
+Konsequenz,-en;Konsequenz;FEM
+jemanden abhalten von (+ Akk.),hielt ab, hat abgehalten;jemanden abhalten von (+ Akk.);VER
+Druck ausüben auf + Akk.;Druck ausüben auf + Akk.;VER
+Akupunktur,-en;Akupunktur;FEM
+Behandlung,-en;Behandlung;FEM
+Heilkunde (Sg.);Heilkunde (Sg.);FEM
+Homöopathie (Sg.);Homöopathie (Sg.);FEM
+Seele,-n;Seele;FEM
+Vorbeugung (Sg.);Vorbeugung (Sg.);FEM
+Zustand,e;Zustand;MAS
+sich auskennen,kannte sich aus, hat sich ausgekannt;sich auskennen;VER
+blockieren;blockieren;VER
+heilen;heilen;VER
+interpretieren;interpretieren;VER
+praktizieren;praktizieren;VER
+regulieren;regulieren;VER
+reizen;reizen;VER
+Anwendung,-en;Anwendung;FEM
+Ausloser,-;Ausloser;MAS
+Etikett,-en;Etikett;NEU
+Nebenwirkung,-en;Nebenwirkung;FEM
+Pollen,-;Pollen;MAS
+Schulmedizin (Sg.).;Schulmedizin (Sg.).;FEM
+abweichen von (+ Dat.),wich ab, ist abgewichen;abweichen von (+ Dat.);VER
+sich bewanren;sich bewanren;VER
+deklarieren;deklarieren;VER
+alagnostizieren;alagnostizieren;VER
+integrieren;integrieren;VER
+tolerieren;tolerieren;VER
+verabreichen;verabreichen;VER
+Stellung nehmen zu etwas,hat genommen etwas abbrechen, brach ab, hat abgebrochen;Stellung nehmen zu etwas;VER
+etwas abbrechen,brach ab, hat abgebrochen;etwas abbrechen;VER
+chronisch;chronisch;ADJ
+harmlos;harmlos;ADJ
+Labor,-s/-e;Labor;NEU
+Lebensmotto,-s;Lebensmotto;NEU
+Talent,-e;Talent;NEU
+Aktion,-en;Aktion;FEM
+Ausrüstung,-en;Ausrüstung;FEM
+Element,-e;Element;NEU
+Etappe,-n;Etappe;FEM
+Geschäftsbericht,-e;Geschäftsbericht;MAS
+Konzern,-e;Konzern;MAS
+Mündung,-en;Mündung;FEM
+Motiv,-e;Motiv;NEU
+Provokation,-en;Provokation;FEM
+prele;prele;FEM
+Ressource,-n;Ressource;FEM
+Respekt SO.;Respekt SO.;MAS
+Wunder,-;Wunder;NEU
+abbrechen,brach ab, hat abgebrochen;abbrechen;VER
+applaudieren;applaudieren;VER
+bezeichnen als;bezeichnen als;VER
+verschlucken;verschlucken;VER
+niedrig;niedrig;ADJ
+rätoromanisch;rätoromanisch;ADJ
+spektakulär;spektakulär;ADJ
+ständig;ständig;ADJ
+wasserscheu;wasserscheu;ADJ
+Anregung,-en;Anregung;FEM
+Ausrüstung,-en;Ausrüstung;FEM
+Fülle (Sg.).;Fülle (Sg.).;FEM
+Gestaltuna,-en;Gestaltuna;FEM
+Kanu,-s;Kanu;NEU
+Landsleute (Pl.);Landsleute (Pl.);FEM
+Leihwagen,-;Leihwagen;MAS
+Verpflegung (Sg.);Verpflegung (Sg.);FEM
+Verständlichkeit (Sg.);Verständlichkeit (Sg.);FEM
+etwas einnehmen,nahm ein, hat eingenommen;etwas einnehmen;VER
+entspringen,entsprang, ist entsprungen;entspringen;VER
+gestellt werden;gestellt werden;VER
+Ausrüstung wird gestellt;Ausrüstung wird gestellt;FEM
+abenteuerlustig;abenteuerlustig;ADJ
+erholungsbedürftig;erholungsbedürftig;ADJ
+Bub,-en (A);Bub;MAS
+Eierspeis(e),-n (A);Eierspeis(e);FEM
+Marille,-n (A);Marille;FEM
+Paradeiser,- (A);Paradeiser;MAS
+Topfen,- (A);Topfen;MAS
+Traktanden (Pl.) (CH)**;Traktanden (Pl.) (CH)**;FEM
+Velo,-s (CH);Velo;NEU
+ Wurzel,-n; Wurzel;FEM
+angreifen,griff an, hat angegriffen (A);angreifen;VER
+entstehen,entstand, ist enstanden;entstehen;VER
+gelangen;gelangen;VER
+grillieren (CH);grillieren (CH);VER
+parkieren (CH);parkieren (CH);VER
+zügeln (CH);zügeln (CH);VER
+auffällig (A + CH);auffällig (A + CH);ADJ
+bewusst;bewusst;ADJ
+gleichnamig;gleichnamig;ADJ
+Dialekt,-e;Dialekt;MAS
+Gegensatz,-e;Gegensatz;MAS
+im Gegensatz dazu;im Gegensatz dazu;ADV
+Meilenstein,-e;Meilenstein;MAS
+Mundart,-en;Mundart;FEM
+Norm. -en;Norm. -en;FEM
+Plattdeutsch (Sg.);Plattdeutsch (Sg.);NEU
+Standard. -s;Standard. -s;MAS
+Verbreitung (Sg.);Verbreitung (Sg.);FEM
+voroid. -er;voroid. -er;NEU
+Vorbildfunktion,-en;Vorbildfunktion;FEM
+(be-)merken;(be-)merken;VER
+bestehen bleiben,blieb, ist geblieben;bestehen bleiben;VER
+begrenzt sein;begrenzt sein;VER
+überregional;überregional;ADJ
+dagegen;dagegen;ADJ
+Auswirkung,-en;Auswirkung;FEM
+Mehrsprachigkeit (Sg.).;Mehrsprachigkeit (Sg.).;FEM
+aufgreifen,griff auf, hat aufgegriffen;aufgreifen;VER
+aufwachsen,wuchs auf, ist aufgewachsen;aufwachsen;VER
+ausgrenzen;ausgrenzen;VER
+beherrschen;beherrschen;VER
+eingehen auf,ging auf ein, ist auf eingegangen;eingehen auf;VER
+mehrsprachig;mehrsprachig;ADJ
+zweisprachig;zweisprachig;ADJ
+signifikant;signifikant;ADJ
+Amtssprache,-n;Amtssprache;FEM
+Amtsübergabe (Sg.);Amtsübergabe (Sg.);FEM
+Ankündigungstext,-e;Ankündigungstext;MAS
+Freundschaftspreis,-e;Freundschaftspreis;MAS
+Andessprache,-n;Andessprache;FEM
+Landesgrenze,-n;Landesgrenze;FEM
+bestehen aus (+ Dat.),bestand aus, hat aus bestanden;bestehen aus (+ Dat.);VER
