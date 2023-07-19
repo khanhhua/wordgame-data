@@ -612,13 +612,13 @@ Entwicklungsland,-er;Entwicklungsland;NEU
 Gewissen (Sg.);Gewissen (Sg.);NEU
 Mangelerscheinung,-en;Mangelerscheinung;FEM
 Massentierhaltung,-en;Massentierhaltung;FEM
-Minera stoff -e;Minera stoff -e;MAS
+Minera stoff,-e;Minera stoff;MAS
 Nährstoffmangel,:;Nährstoffmangel;MAS
 Organismus;Organismus;MAS
 Organismen;Organismen;FEM
 Pfanne,-n;Pfanne;FEM
 Tendenz,-en;Tendenz;FEM
-Ubersicht -en;Ubersicht -en;FEM
+Ubersicht,-en;Ubersicht;FEM
 Veganer,-;Veganer;MAS
 Vegetarier,-;Vegetarier;MAS
 Verzicht (Sg.);Verzicht (Sg.);MAS
@@ -680,7 +680,7 @@ einer Bitte nachkommen,kam nach, ist nachgekommen;einer Bitte nachkommen;VER
 allergisch;allergisch;ADJ
 schlüssig;schlüssig;ADJ
 meines Erachtens;meines Erachtens;PREP
-Abfalltonne -n;Abfalltonne -n;FEM
+Abfalltonne,-n;Abfalltonne;FEM
 Ablauf,:e;Ablauf;MAS
 Studie,-n;Studie;FEM
 Tonne,-n (Maßeinheit);Tonne;FEM
@@ -811,7 +811,7 @@ Dienstleistung,-en;Dienstleistung;FEM
 Unterbringung,-en;Unterbringung;FEM
 Vierbeiner,-;Vierbeiner;MAS
 Werbespruch,e;Werbespruch;MAS
-Zusatz -e;Zusatz -e;MAS
+Zusatz,-e;Zusatz;MAS
 sich ausschließen,schloss sich aus, hat sich ausgeschlossen;sich ausschließen;VER
 knifflig;knifflig;ADJ
 unschlagbar;unschlagbar;ADJ
