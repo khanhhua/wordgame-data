@@ -516,7 +516,7 @@ Stiefsohn;Stiefsohn;MAS
 leiblich;leiblich;ADJ
 Assoziation,-en;Assoziation;FEM
 Bedürfnis,-se;Bedürfnis;NEU
-Generation. -en;Generation. -en;FEM
+Generation,-en;Generation;FEM
 Patchwork-Familie,-n;Patchwork-Familie;FEM
 Protest;Protest;MAS
 Respekt (Sg.)*;Respekt (Sg.)*;MAS
@@ -567,7 +567,7 @@ Befürworter,-;Befürworter;MAS
 Bezug;Bezug;MAS
 Bezug nehmen auf (+ Akk.);Bezug nehmen auf (+ Akk.);VER
 Fazit (meist Sg.);Fazit (meist Sg.);NEU
-Kreis. -e;Kreis. -e;MAS
+Kreis,-e;Kreis;MAS
 Scheidungsrate,-n;Scheidungsrate;FEM
 Stellungnahme,-n;Stellungnahme;FEM
 Verknüptung,-en;Verknüptung;FEM
@@ -649,8 +649,8 @@ Puderzucker (Sg.);Puderzucker (Sg.);MAS
 Zutat,-en;Zutat;FEM
 schälen;schälen;VER
 reihum;reihum;ADV
-Bestandtell. -e;Bestandtell. -e;MAS
-Busch,e;Busch;MAS
+Bestandteil,-e;Bestandteil;MAS
+Busch,-e;Busch;MAS
 Gemüse (Sg.);Gemüse (Sg.);NEU
 Gemüsesorte,-n;Gemüsesorte;FEM
 Kammer,-n;Kammer;FEM
@@ -689,7 +689,7 @@ Umgang (Sg.);Umgang (Sg.);MAS
 Verfallsdatum,-daten;Verfallsdatum;NEU
 Verunsicherung,-en;Verunsicherung;FEM
 Verschwendung (Sg.);Verschwendung (Sg.);FEM
-Vorrat. -e;Vorrat. -e;MAS
+Vorrat,-e;Vorrat;MAS
 sich eiwas leisten;sich eiwas leisten;VER
 überschreiten,überschritt, hat überschritten;überschreiten;VER
 vernichten;vernichten;VER
@@ -828,7 +828,7 @@ Fachmann,-er;Fachmann;MAS
 Gutschein,-e;Gutschein;MAS
 Jagd,-;Jagd;FEM
 Mogelpackung,-en;Mogelpackung;FEM
-Internet Portal. -e;Internet Portal. -e;NEU
+Internet Portal,-e;Internet Portal;NEU
 Rabatt,-e;Rabatt;MAS
 Schnappchen;Schnappchen;NEU
 vermitteln;vermitteln;VER
@@ -912,7 +912,7 @@ Entzündung,-en;Entzündung;FEM
 Erbrechen (Sg.);Erbrechen (Sg.);NEU
 Heilmittel,-;Heilmittel;NEU
 Infektion,-en;Infektion;FEM
-Insekt. -en;Insekt. -en;NEU
+Insekt,-en;Insekt;NEU
 Sonnenbrand,-e;Sonnenbrand;MAS
 Spritze,-n;Spritze;FEM
 Stich,-e;Stich;MAS
@@ -922,7 +922,7 @@ Wunde,-n;Wunde;FEM
 Zäpfchen,-;Zäpfchen;NEU
 grundsätzlich;grundsätzlich;ADJ
 Heilpraktiker,-;Heilpraktiker;MAS
-iverv. -en;iverv. -en;MAS
+Nerv,-en;Nerv;MAS
 Symptom,-e;Symptom;NEU
 das Virus,die Viren;das Virus;MAS
 sprechen gegen (+ Akk.),sprach, hat gesprochen;sprechen gegen (+ Akk.);VER
@@ -1033,11 +1033,11 @@ Gegensatz,-e;Gegensatz;MAS
 im Gegensatz dazu;im Gegensatz dazu;ADV
 Meilenstein,-e;Meilenstein;MAS
 Mundart,-en;Mundart;FEM
-Norm. -en;Norm. -en;FEM
+Norm,-en;Norm;FEM
 Plattdeutsch (Sg.);Plattdeutsch (Sg.);NEU
-Standard. -s;Standard. -s;MAS
+Standard,-s;Standard;MAS
 Verbreitung (Sg.);Verbreitung (Sg.);FEM
-voroid. -er;voroid. -er;NEU
+Vorbild,-er;Vorbild;NEU
 Vorbildfunktion,-en;Vorbildfunktion;FEM
 (be-)merken;(be-)merken;VER
 bestehen bleiben,blieb, ist geblieben;bestehen bleiben;VER
