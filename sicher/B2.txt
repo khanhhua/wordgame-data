@@ -795,7 +795,7 @@ Verdienst,-e;Verdienst;MAS
 Zinssatz,e;Zinssatz;MAS
 verfügen über (+ Akk.);verfügen über (+ Akk.);VER
 rund;rund;ADJ
-Gerausch,-e;Gerausch;NEU
+Gerausche;Gerausch;NEU
 schieflaufen,lief schief, ist schiefgelaufen.;schieflaufen;VER
 etwas wiedergeben,gab wieder, hat wiedergegeben;etwas wiedergeben;VER
 anspruchslos;anspruchslos;ADJ
